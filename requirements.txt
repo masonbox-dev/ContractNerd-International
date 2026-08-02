@@ -194,10 +194,6 @@ lightning-utilities==0.11.8
 llvmlite==0.38.0
 locket @ file:///opt/concourse/worker/volumes/live/93dd8d31-1785-4a47-5e27-b3dcf1402e70/volume/locket_1647006093697/work
 lxml @ file:///opt/concourse/worker/volumes/live/8e73df53-5332-4884-7b1c-0b765f6e416b/volume/lxml_1646642659239/work
-# Editable install with no version control (mail_client_api==0.0.0)
--e /Users/dhruvpandoh/Desktop/Open-Source-TA-Assignment/src/mail_client_api
-# Editable install with no version control (mail_client_gmail_impl==0.0.0)
--e /Users/dhruvpandoh/Desktop/Open-Source-TA-Assignment/src/mail_client_gmail_impl
 Markdown==3.8.2
 markdown-it-py==3.0.0
 MarkupSafe @ file:///opt/concourse/worker/volumes/live/1bcf0940-5bf8-4171-61e3-2133f5885e8b/volume/markupsafe_1621528148241/work
