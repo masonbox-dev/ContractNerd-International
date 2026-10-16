@@ -1,3 +1,6 @@
+NOTE: Lines beginning with [CITE AS: ...] are editorial citation labels added by ContractNerd. All other legal text is unchanged from the official source.
+
+
 LEGGE 9 dicembre 1998 , n. 431
 
 Disciplina delle locazioni e del rilascio degli immobili adibiti ad uso abitativo.
@@ -11,6 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 Promulga
 la seguente legge:
 
+[CITE AS: Legge 431/1998 - Art. 1]
 Art. 1
 Ambito di applicazione
 1. I contratti di locazione di immobili adibiti ad uso abitativo, di seguito denominati "contratti di locazione", sono stipulati o rinnovati, successivamente alla data di entrata in vigore della presente legge, ai sensi dei commi 1 e 3 dell'articolo 2.
@@ -21,6 +25,7 @@ c) agli alloggi locati esclusivamente per finalità turistiche.
 3. Le disposizioni di cui agli articoli 2, 3, 4, ((4-bis,)) 7 e 13 della presente legge non si applicano ai contratti di locazione stipulati dagli enti locali in qualità di conduttori per soddisfare esigenze abitative di carattere transitorio, ai quali si applicano le disposizioni di cui agli articoli 1571 e seguenti del codice civile.
 A tali contratti non si applica l'articolo 56 della legge 27 luglio 1978, n. 392.
 4. A decorrere dalla data di entrata in vigore della presente legge, per la stipula di validi contratti di locazione è richiesta la forma scritta.
+[CITE AS: Legge 431/1998 - Art. 2]
 Art. 2
 Modalità di stipula e di rinnovo dei contratti di locazione
 1. Le parti possono stipulare contratti di locazione di durata non inferiore a quattro anni, decorsi i quali i contratti sono rinnovati per un periodo di quattro anni, fatti salvi i casi in cui il locatore intenda adibire l'immobile agli usi o effettuare sullo stesso le opere di cui all'articolo 3, ovvero vendere l'immobile alle condizioni e con le modalità di cui al medesimo articolo 3. Alla seconda scadenza del contratto, ciascuna delle parti ha diritto di attivare la procedura per il rinnovo a nuove condizioni o per la rinuncia al rinnovo del contratto, comunicando la propria intenzione con lettera raccomandata da inviare all'altra parte almeno sei mesi prima della scadenza. La parte interpellata deve rispondere a mezzo lettera raccomandata entro sessanta giorni dalla data di ricezione della raccomandata di cui al secondo periodo. In mancanza di risposta o di accordo il contratto si intenderà scaduto alla data di cessazione della locazione. In mancanza della comunicazione di cui al secondo periodo il contratto è rinnovato tacitamente alle medesime condizioni.
@@ -35,6 +40,7 @@ I comuni di cui all'articolo 1 del decreto-legge 30 dicembre 1988, n. 551, conve
 AGGIORNAMENTO (16)
 
 Il D.L. 30 aprile 2019, n. 34, convertito con modificazioni dalla L. 28 giugno 2019, n. 58, ha disposto (con l'art. 19-bis, comma 1) che "Il quarto periodo del comma 5 dell'articolo 2 della legge 9 dicembre 1998, n. 431, si interpreta nel senso che, in mancanza della comunicazione ivi prevista, il contratto è rinnovato tacitamente, a ciascuna scadenza, per un ulteriore biennio".
+[CITE AS: Legge 431/1998 - Art. 3]
 Art. 3
 (Disdetta del contratto da parte del locatore).
 1. Alla prima scadenza dei contratti stipulati ai sensi del comma 1 dell'articolo 2 e alla prima scadenza dei contratti stipulati ai sensi del comma 3 del medesimo articolo, il locatore può avvalersi della facoltà di diniego del rinnovo del contratto, dandone comunicazione al conduttore con preavviso di almeno sei mesi, per i seguenti motivi:
@@ -54,17 +60,27 @@ Capo II
 CONTRATTI DI LOCAZIONE STIPULATI IN BASE AD ACCORDI
 DEFINITI IN SEDE LOCALE
 
+[CITE AS: Legge 431/1998 - Art. 4]
+Art. 4
+Convenzione nazionale
+1. Al fine di favorire la realizzazione degli accordi di cui al comma 3 dell'articolo 2, il Ministro dei lavori pubblici convoca le organizzazioni della proprietà edilizia e dei conduttori maggiormente rappresentative a livello nazionale entro sessanta giorni dalla data di entrata in vigore della presente legge e, successivamente, ogni tre anni a decorrere dalla medesima data, al fine di promuovere una convenzione, di seguito denominata "convenzione nazionale", che individui i criteri generali per la definizione dei canoni, anche in relazione alla durata dei contratti, alla rendita catastale dell'immobile e ad altri parametri oggettivi, nonché delle modalità per garantire particolari esigenze delle parti. In caso di mancanza di accordo delle parti, i predetti criteri generali sono stabiliti dal Ministro dei lavori pubblici, di concerto con il Ministro delle finanze, con il decreto di cui al comma 2 del presente articolo, sulla base degli orientamenti prevalenti espressi dalle predette organizzazioni. I criteri generali definiti ai sensi del presente comma costituiscono la base per la realizzazione degli accordi locali di cui al comma 3 dell'articolo 2 e il loro rispetto , unitamente all'utilizzazione dei tipi di contratto di cui all'articolo 4-bis, costituisce condizione per l'applicazione dei benefici di cui all'articolo 8.
+2. I criteri generali di cui al comma 1 sono indicati in apposito decreto del Ministro dei lavori pubblici, di concerto con il Ministro delle finanze, da emanare entro trenta giorni dalla conclusione della convenzione nazionale ovvero dalla constatazione, da parte del Ministro dei lavori pubblici, della mancanza di accordo delle parti, trascorsi novanta giorni dalla loro convocazione. Con il medesimo decreto sono stabilite le modalità di applicazione dei benefici di cui all'articolo 8 per i contratti di locazione stipulati ai sensi del comma 3 dell'articolo 2 in conformità ai criteri generali di cui al comma 1 del presente articolo.
+3. Entro quattro mesi dalla data di emanazione del decreto di cui al comma 2, il Ministro dei lavori pubblici, di concerto con il Ministro delle finanze, fissa con apposito decreto le condizioni alle quali possono essere stipulati i contratti di cui al comma 3 dell'articolo 2 ((nonché dell'art. 5)), nel caso in cui non vengano convocate da parte dei comuni le organizzazioni della proprietà edilizia e dei conduttori ovvero non siano definiti gli accordi di cui al medesimo comma 3 dell'articolo 2.
+4. Fermo restando quanto stabilito dall'articolo 60, comma 1, lettera e), del decreto legislativo 31 marzo 1998, n. 112, con apposito atto di indirizzo e coordinamento, da adottare con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sono definiti, in sostituzione di quelli facenti riferimento alla legge 27 luglio 1978, n. 392, e successive modificazioni, criteri in materia di determinazione da parte delle regioni dei canoni di locazione per gli alloggi di edilizia residenziale pubblica. Gli attuali criteri di determinazione dei canoni restano validi fino all'adeguamento da parte delle regioni ai criteri stabiliti ai sensi del presente comma.
+[CITE AS: Legge 431/1998 - Art. 4-bis]
 Art. 4-bis
 (( (Tipi di contratto). ))
 ((
 1. La convenzione nazionale di cui all'articolo 4, comma 1, approva i tipi di contratto per la stipula dei contratti agevolati di cui all'articolo 2, comma 3, nonché dei contratti di locazione di natura transitoria di cui all'articolo 5, comma 1, e dei contratti di locazione per studenti universitari di cui all'articolo 5, commi 2 e 3.
 2. I tipi di contratto possono indicare scelte alternative, da definire negli accordi locali, in relazione a specifici aspetti contrattuali, con particolare riferimento ai criteri per la misurazione delle superfici degli immobili.
 3. In caso di mancanza di accordo delle parti, i tipi di contratto sono definiti con il decreto di cui all'articolo 4, comma 2))
+[CITE AS: Legge 431/1998 - Art. 5]
 Art. 5
 Contratti di locazione di natura transitoria
 1. Il decreto di cui al comma 2 dell'articolo 4 definisce le condizioni e le modalità per la stipula di contratti di locazione di natura transitoria anche di durata inferiore ai limiti previsti dalla presente legge per soddisfare particolari esigenze delle parti.
 2. In alternativa a quanto previsto dal comma 1, possono essere stipulati contratti di locazione per soddisfare le esigenze abitative di studenti universitari sulla base ((dei tipi di contratto di cui all'articolo 4-bis)).
 3. È facoltà dei comuni sede di università o di corsi universitari distaccati, eventualmente d'intesa con comuni limitrofi, promuovere specifici accordi locali per la definizione, sulla base dei criteri stabiliti ai sensi del comma 2 dell'articolo 4, ((dei canoni di)) locazione di immobili ad uso abitativo per studenti universitari. Agli accordi partecipano, oltre alle organizzazioni di cui al comma 3 dell'articolo 2, le aziende per il diritto allo studio e le associazioni degli studenti, nonché cooperative ed enti non lucrativi operanti nel settore.
+[CITE AS: Legge 431/1998 - Art. 13]
 Art. 13
 (( (Patti contrari alla legge).))
 ((
@@ -76,6 +92,7 @@ Art. 13
 6. Nei casi di nullità di cui al comma 4 il conduttore, con azione proponibile nel termine di sei mesi dalla riconsegna dell'immobile locato, può richiedere la restituzione delle somme indebitamente versate. Nei medesimi casi il conduttore può altresì richiedere, con azione proponibile dinanzi all'autorità giudiziaria, che la locazione venga ricondotta a condizioni conformi a quanto previsto dal comma 1 dell'articolo 2 ovvero dal comma 3 dell'articolo 2. Tale azione è, altresì, consentita nei casi in cui il locatore non abbia provveduto alla prescritta registrazione del contratto nel termine di cui al comma 1 del presente articolo. Nel giudizio che accerta l'esistenza del contratto di locazione il giudice determina il canone dovuto, che non può eccedere quello del valore minimo definito ai sensi dell'articolo 2 ovvero quello definito ai sensi dell'articolo 5, commi 2 e 3, nel caso di conduttore che abiti stabilmente l'alloggio per i motivi ivi regolati. L'autorità giudiziaria stabilisce la restituzione delle somme eventualmente eccedenti.
 7. Le disposizioni di cui al comma 6 devono ritenersi applicabili a tutte le ipotesi ivi previste insorte sin dall'entrata in vigore della presente legge.
 8. I riferimenti alla registrazione del contratto di cui alla presente legge non producono effetti se non vi è obbligo di registrazione del contratto stesso))
+[CITE AS: Legge 431/1998 - Art. 14]
 Art. 14
 (Disposizioni transitorie e abrogazione di norme).
 1. In sede di prima applicazione dell'articolo 4 della presente legge, non trova applicazione il termine di novanta giorni di cui al comma 2 del medesimo articolo 4.
@@ -85,6 +102,7 @@ Art. 14
 5. Ai contratti per la loro intera durata ed ai giudizi in corso alla data di entrata in vigore della presente legge continuano ad applicarsi ad ogni effetto le disposizioni normative in materia di locazioni vigenti prima di tale data.
 
 (CODICE CIVILE-art. 1571)
+[CITE AS: Codice civile - Art. 1571]
 Art. 1571.
 
 (Nozione).
@@ -92,6 +110,7 @@ Art. 1571.
 La locazione è il contratto col quale una parte si obbliga a far godere all'altra una cosa mobile o immobile per un dato tempo, verso un determinato corrispettivo.
 
 (CODICE CIVILE-art. 1572)
+[CITE AS: Codice civile - Art. 1572]
 Art. 1572.
 
 (Locazioni e anticipazioni eccedenti l'ordinaria amministrazione).
@@ -101,6 +120,7 @@ Il contratto di locazione per una durata superiore a nove anni è atto eccedente
 Sono altresì atti eccedenti l'ordinaria amministrazione le anticipazioni del corrispettivo della locazione per una durata superiore a un anno.
 
 (CODICE CIVILE-art. 1573)
+[CITE AS: Codice civile - Art. 1573]
 Art. 1573.
 
 (Durata della locazione).
@@ -108,6 +128,7 @@ Art. 1573.
 Salvo diverse norme di legge, la locazione non può stipularsi per un tempo eccedente i trenta anni. Se stipulata per un periodo più lungo o in perpetuo, è ridotta al termine suddetto.
 
 (CODICE CIVILE-art. 1574)
+[CITE AS: Codice civile - Art. 1574]
 Art. 1574.
 
 (Locazione senza determinazione di tempo).
@@ -119,6 +140,7 @@ Quando le parti non hanno determinato la durata della locazione, questa s'intend
 4) se si tratta di mobili forniti dal locatore per l'arredamento di un fondo urbano, per la durata della locazione del fondo stesso.
 
 (CODICE CIVILE-art. 1575)
+[CITE AS: Codice civile - Art. 1575]
 Art. 1575.
 
 (Obbligazioni principali del locatore).
@@ -129,6 +151,7 @@ Il locatore deve:
 3) garantirne il pacifico godimento durante la locazione.
 
 (CODICE CIVILE-art. 1576)
+[CITE AS: Codice civile - Art. 1576]
 Art. 1576.
 
 (Mantenimento della cosa in buono stato locativo).
@@ -138,6 +161,7 @@ Il locatore deve eseguire, durante la locazione, tutte le riparazioni necessarie
 Se si tratta di cose mobili, le spese di conservazione e di ordinaria manutenzione sono, salvo patto contrario, a carico del conduttore.
 
 (CODICE CIVILE-art. 1577)
+[CITE AS: Codice civile - Art. 1577]
 Art. 1577.
 
 (Necessità di riparazioni).
@@ -147,6 +171,7 @@ Quando la cosa locata abbisogna di riparazioni che non sono a carico del condutt
 Se si tratta di riparazioni urgenti, il conduttore può eseguirle direttamente, salvo rimborso, purché ne dia contemporaneamente avviso al locatore.
 
 (CODICE CIVILE-art. 1578)
+[CITE AS: Codice civile - Art. 1578]
 Art. 1578.
 
 (Vizi della cosa locata).
@@ -156,6 +181,7 @@ Se al momento della consegna la cosa locata è affetta da vizi che ne diminuisco
 Il locatore è tenuto a risarcire al conduttore i danni derivati da vizi della cosa, se non prova di avere senza colpa ignorato i vizi stessi al momento della consegna.
 
 (CODICE CIVILE-art. 1579)
+[CITE AS: Codice civile - Art. 1579]
 Art. 1579.
 
 (Limitazioni convenzionali della responsabilità).
@@ -163,6 +189,7 @@ Art. 1579.
 Il patto con cui si esclude o si limita la responsabilità del locatore per i vizi della cosa non ha effetto se il locatore li ha in mala fede taciuti al conduttore oppure se i vizi sono tali da rendere impossibile il godimento della cosa.
 
 (CODICE CIVILE-art. 1580)
+[CITE AS: Codice civile - Art. 1580]
 Art. 1580.
 
 (Cose pericolose per la salute).
@@ -170,6 +197,7 @@ Art. 1580.
 Se i vizi della cosa o di parte notevole di essa espongono a serio pericolo la salute del conduttore o dei suoi familiari o dipendenti, il conduttore può ottenere la risoluzione del contratto, anche se i vizi gli erano noti, nonostante qualunque rinunzia.
 
 (CODICE CIVILE-art. 1581)
+[CITE AS: Codice civile - Art. 1581]
 Art. 1581.
 
 (Vizi sopravvenuti).
@@ -177,18 +205,21 @@ Art. 1581.
 Le disposizioni degli articoli precedenti si osservano, in quanto applicabili, anche nel caso di vizi della cosa sopravvenuti nel corso della locazione.
 
 (CODICE CIVILE-art. 1582)
+[CITE AS: Codice civile - Art. 1582]
 Art. 1582.
 
 (Divieto d'innovazione).
 
 Il locatore non può compiere sulla cosa innovazioni che diminuiscano il godimento da parte del conduttore.
 (CODICE CIVILE-art. 1583)
+[CITE AS: Codice civile - Art. 1583]
 Art. 1583.
 
 (Mancato godimento per riparazioni urgenti).
 
 Se nel corso della locazione la cosa abbisogna di riparazioni che non possono differirsi fino al termine del contratto, il conduttore deve tollerarle anche quando importano privazione del godimento di parte della cosa locata.
 (CODICE CIVILE-art. 1584)
+[CITE AS: Codice civile - Art. 1584]
 Art. 1584.
 
 (Diritti del conduttore in caso di riparazioni).
@@ -197,6 +228,7 @@ Se l'esecuzione delle riparazioni si protrae per oltre un sesto della durata del
 
 Indipendentemente dalla sua durata, se l'esecuzione delle riparazioni rende inabitabile quella parte della cosa che è necessaria per l'alloggio del conduttore e della sua famiglia, il conduttore può ottenere, secondo le circostanze, lo scioglimento del contratto.
 (CODICE CIVILE-art. 1585)
+[CITE AS: Codice civile - Art. 1585]
 Art. 1585.
 
 (Garanzia per molestie).
@@ -206,6 +238,7 @@ Il locatore è tenuto a garantire il conduttore dalle molestie che diminuiscono 
 Non è tenuto a garantirlo dalle molestie di terzi che non pretendono di avere diritti, salva al conduttore la facoltà di agire contro di essi in nome proprio.
 
 (CODICE CIVILE-art. 1586)
+[CITE AS: Codice civile - Art. 1586]
 Art. 1586.
 
 (Pretese da parte di terzi).
@@ -214,6 +247,7 @@ Se i terzi che arrecano le molestie pretendono di avere diritti sulla cosa locat
 
 Se i terzi agiscono in via giudiziale, il locatore è tenuto ad assumere la lite, qualora sia chiamato nel processo. Il conduttore deve esserne estromesso con la semplice indicazione del locatore, se non ha interesse a rimanervi.
 (CODICE CIVILE-art. 1587)
+[CITE AS: Codice civile - Art. 1587]
 Art. 1587.
 
 (Obbligazioni principali del conduttore).
@@ -223,6 +257,7 @@ Il conduttore deve:
 2) dare il corrispettivo nei termini convenuti.
 
 (CODICE CIVILE-art. 1588)
+[CITE AS: Codice civile - Art. 1588]
 Art. 1588.
 
 (Perdita e deterioramento della cosa locata).
@@ -232,6 +267,7 @@ Il conduttore risponde della perdita e del deterioramento della cosa che avvengo
 È pure responsabile della perdita e del deterioramento cagionati da persone che egli ha ammesse, anche temporaneamente, all'uso o al godimento della cosa.
 
 (CODICE CIVILE-art. 1589)
+[CITE AS: Codice civile - Art. 1589]
 Art. 1589.
 
 (Incendio di cosa assicurata).
@@ -243,6 +279,7 @@ Quando si tratta di cosa mobile stimata e l'assicurazione è stata fatta per val
 Sono salve in ogni caso le norme concernenti il diritto di surrogazione dell'assicuratore.
 
 (CODICE CIVILE-art. 1590)
+[CITE AS: Codice civile - Art. 1590]
 Art. 1590.
 
 (Restituzione della cosa locata).
@@ -256,6 +293,7 @@ Il conduttore non risponde del perimento o del deterioramento dovuti a vetustà.
 Le cose mobili si devono restituire nel luogo dove sono state consegnate.
 
 (CODICE CIVILE-art. 1591)
+[CITE AS: Codice civile - Art. 1591]
 Art. 1591.
 
 (Danni per ritardata restituzione).
@@ -263,6 +301,7 @@ Art. 1591.
 Il conduttore in mora a restituire la cosa è tenuto a dare al locatore il corrispettivo convenuto fino alla riconsegna, salvo l'obbligo di risarcire il maggior danno.
 
 (CODICE CIVILE-art. 1592)
+[CITE AS: Codice civile - Art. 1592]
 Art. 1592.
 
 (Miglioramenti).
@@ -272,6 +311,7 @@ Salvo disposizioni particolari della legge o degli usi, il conduttore non ha dir
 Anche nel caso in cui il conduttore non ha diritto a indennità, il valore dei miglioramenti può compensare i deterioramenti che si sono verificati senza colpa grave del conduttore.
 
 (CODICE CIVILE-art. 1593)
+[CITE AS: Codice civile - Art. 1593]
 Art. 1593.
 
 (Addizioni).
@@ -281,6 +321,7 @@ Il conduttore che ha eseguito addizioni sulla cosa locata ha diritto di toglierl
 Se le addizioni non sono separabili senza nocumento della cosa e ne costituiscono un miglioramento, si osservano le norme dell'articolo precedente.
 
 (CODICE CIVILE-art. 1594)
+[CITE AS: Codice civile - Art. 1594]
 Art. 1594.
 
 (Sublocazione o cessione della locazione).
@@ -290,6 +331,7 @@ Il conduttore, salvo patto contrario, ha facoltà di sublocare la cosa locatagli
 Trattandosi di cosa mobile, la sublocazione deve essere autorizzata dal locatore o consentita dagli usi.
 
 (CODICE CIVILE-art. 1595)
+[CITE AS: Codice civile - Art. 1595]
 Art. 1595.
 
 (Rapporti tra il locatore e il subconduttore).
@@ -301,6 +343,7 @@ Il subconduttore non può opporgli pagamenti anticipati, salvo che siano stati f
 Senza pregiudizio delle ragioni del subconduttore verso il sublocatore, la nullità o la risoluzione del contratto di locazione ha effetto anche nei confronti del subconduttore, e la sentenza pronunciata tra locatore e conduttore ha effetto anche contro di lui.
 
 (CODICE CIVILE-art. 1596)
+[CITE AS: Codice civile - Art. 1596]
 Art. 1596.
 
 (Fine della locazione per lo spirare del termine).
@@ -310,6 +353,7 @@ La locazione per un tempo determinato dalle parti cessa con lo spirare del termi
 La locazione senza determinazione di tempo non cessa, se prima della scadenza stabilita a norma dell'art. 1574 una delle parti non comunica all'altra disdetta nel termine fissato dalle norme corporative o, in mancanza, in quello determinato dalle parti o dagli usi.
 
 (CODICE CIVILE-art. 1597)
+[CITE AS: Codice civile - Art. 1597]
 Art. 1597.
 
 (Rinnovazione tacita del contratto).
@@ -321,6 +365,7 @@ La nuova locazione è regolata dalle stesse condizioni della precedente, ma la s
 Se è stata data licenza, il conduttore non può opporre la tacita rinnovazione, salvo che consti la volontà del locatore di rinnovare il contratto.
 
 (CODICE CIVILE-art. 1598)
+[CITE AS: Codice civile - Art. 1598]
 Art. 1598.
 
 (Garanzie della locazione).
@@ -328,6 +373,7 @@ Art. 1598.
 Le garanzie prestate da terzi non si estendono alle obbligazioni derivanti da proroghe della durata del contratto.
 
 (CODICE CIVILE-art. 1599)
+[CITE AS: Codice civile - Art. 1599]
 Art. 1599.
 
 (Trasferimento a titolo particolare della cosa locata).
@@ -341,6 +387,7 @@ Le locazioni di beni immobili non trascritte non sono opponibili al terzo acquir
 L'acquirente è in ogni caso tenuto a rispettare la locazione, se ne ha assunto l'obbligo verso l'alienante.
 
 (CODICE CIVILE-art. 1600)
+[CITE AS: Codice civile - Art. 1600]
 Art. 1600.
 
 (Detenzione anteriore al trasferimento).
@@ -348,6 +395,7 @@ Art. 1600.
 Se la locazione non ha data certa, ma la detenzione del conduttore è anteriore al trasferimento, l'acquirente non è tenuto a rispettare la locazione che per una durata corrispondente a quella stabilita per le locazioni a tempo indeterminato.
 
 (CODICE CIVILE-art. 1601)
+[CITE AS: Codice civile - Art. 1601]
 Art. 1601.
 
 (Risarcimento del danno al conduttore licenziato).
@@ -355,6 +403,7 @@ Art. 1601.
 Se il conduttore è stato licenziato dall'acquirente perché il contratto di locazione non aveva data certa anteriore al trasferimento, il locatore è tenuto a risarcirgli il danno.
 
 (CODICE CIVILE-art. 1602)
+[CITE AS: Codice civile - Art. 1602]
 Art. 1602.
 
 (Effetti dell'opponibilità della locazione al terzo acquirente).
@@ -362,6 +411,7 @@ Art. 1602.
 Il terzo acquirente tenuto a rispettare la locazione subentra, dal giorno del suo acquisto, nei diritti e nelle obbligazioni derivanti dal contratto di locazione.
 
 (CODICE CIVILE-art. 1603)
+[CITE AS: Codice civile - Art. 1603]
 Art. 1603.
 
 (Clausola di scioglimento del contratto in caso di alienazione).
@@ -369,6 +419,7 @@ Art. 1603.
 Se si è convenuto che il contratto possa sciogliersi in caso di alienazione della cosa locata, l'acquirente che vuole valersi di tale facoltà deve dare licenza al conduttore rispettando il termine di preavviso stabilito dal secondo comma dell'art. 1596. In tal caso al conduttore licenziato non spetta il risarcimento dei danni, salvo patto contrario.
 
 (CODICE CIVILE-art. 1604)
+[CITE AS: Codice civile - Art. 1604]
 Art. 1604.
 
 (Vendita della cosa locata con patto di riscatto).
@@ -376,6 +427,7 @@ Art. 1604.
 Il compratore con patto di riscatto non può esercitare la facoltà di licenziare il conduttore fino a che il suo acquisto non sia divenuto irrevocabile con la scadenza del termine fissato per il riscatto.
 
 (CODICE CIVILE-art. 1605)
+[CITE AS: Codice civile - Art. 1605]
 Art. 1605.
 
 (Liberazione o cessione del corrispettivo della locazione).
@@ -385,6 +437,7 @@ La liberazione o la cessione del corrispettivo della locazione non ancora scadut
 Se la liberazione o la cessione è stata fatta per un periodo eccedente i tre anni e non è stata trascritta, può essere opposta solo entro i limiti di un triennio; se il triennio è già trascorso, può essere opposta solo nei limiti dell'anno in corso nel giorno del trasferimento.
 
 (CODICE CIVILE-art. 1606)
+[CITE AS: Codice civile - Art. 1606]
 Art. 1606.
 
 (Estinzione del diritto del locatore).
@@ -393,6 +446,7 @@ Nei casi in cui il diritto del locatore sulla cosa locata si estingue con effett
 
 Sono salve le diverse disposizioni di legge.
 (CODICE CIVILE-art. 1607)
+[CITE AS: Codice civile - Art. 1607]
 Art. 1607.
 
 (Durata massima della locazione di case).
@@ -400,6 +454,7 @@ Art. 1607.
 La locazione di una casa per abitazione può essere convenuta per tutta la durata della vita dell'inquilino e per due anni successivi alla sua morte.
 
 (CODICE CIVILE-art. 1608)
+[CITE AS: Codice civile - Art. 1608]
 Art. 1608.
 
 (Garanzie per il pagamento della pigione).
@@ -407,6 +462,7 @@ Art. 1608.
 Nelle locazioni di case non mobiliate l'inquilino può essere licenziato se non fornisce la casa di mobili sufficienti o non presta altre garanzie idonee ad assicurare il pagamento della pigione.
 
 (CODICE CIVILE-art. 1609)
+[CITE AS: Codice civile - Art. 1609]
 Art. 1609.
 
 (Piccole riparazioni a carico dell'inquilino).
@@ -416,6 +472,7 @@ Le riparazioni di piccola manutenzione, che a norma dell'art. 1576 devono essere
 Le suddette riparazioni, in mancanza di patto, sono determinate dagli usi locali.
 
 (CODICE CIVILE-art. 1610)
+[CITE AS: Codice civile - Art. 1610]
 Art. 1610.
 
 (Spurgo di pozzi e di latrine).
@@ -423,6 +480,7 @@ Art. 1610.
 Lo spurgo dei pozzi e delle latrine è a carico del locatore.
 
 (CODICE CIVILE-art. 1611)
+[CITE AS: Codice civile - Art. 1611]
 Art. 1611.
 
 (Incendio di casa abitata da più inquilini).
@@ -431,6 +489,7 @@ Se si tratta di casa occupata da più inquilini, tutti sono responsabili verso i
 
 La disposizione del comma precedente non si applica se si prova che l'incendio è cominciato dall'abitazione di uno degli inquilini, ovvero se alcuno di questi prova che l'incendio non è potuto cominciare nella sua abitazione.
 (CODICE CIVILE-art. 1612)
+[CITE AS: Codice civile - Art. 1612]
 Art. 1612.
 
 (Recesso convenzionale del locatore).
@@ -438,6 +497,7 @@ Art. 1612.
 Il locatore che si è riservata la facoltà di recedere dal contratto per abitare egli stesso nella casa locata deve dare licenza motivata nel termine stabilito dagli usi locali.
 
 (CODICE CIVILE-art. 1613)
+[CITE AS: Codice civile - Art. 1613]
 Art. 1613.
 
 (Facoltà di recesso degli impiegati pubblici).
@@ -447,6 +507,7 @@ Gli impiegati delle pubbliche amministrazioni possono, nonostante patto contrari
 Tale facoltà si esercita mediante disdetta motivata, e il recesso ha effetto dal secondo mese successivo a quello in corso alla data della disdetta.
 
 (CODICE CIVILE-art. 1614)
+[CITE AS: Codice civile - Art. 1614]
 Art. 1614.
 
 (Morte dell'inquilino).
@@ -457,12 +518,14 @@ Il recesso si deve esercitare mediante disdetta comunicata con preavviso non inf
 
 LEGGE 27 luglio 1978, n. 392
 Disciplina delle locazioni di immobili urbani
+[CITE AS: Legge 392/1978 - Art. 11]
 Art. 11 — Deposito cauzionale
 Testo in vigore dal: 30-7-1978
 
 Il deposito cauzionale non può essere superiore a tre mensilità del canone. Esso è produttivo di interessi legali che debbono essere corrisposti al conduttore alla fine di ogni anno.
 
 LEGGE 30 dicembre 2004, n. 311
+[CITE AS: Legge 311/2004 - Art. 1, comma 346]
 Art. 1, comma 346
 Nullità dei contratti non registrati
 
@@ -473,6 +536,7 @@ Codice del consumo
 Articoli 33–36 — Clausole vessatorie
 Fonte: Normattiva
 
+[CITE AS: Codice del consumo - Art. 33]
 Art. 33
 Clausole vessatorie nel contratto tra professionista e consumatore
 1. Nel contratto concluso tra il consumatore ed il professionista si considerano vessatorie le clausole che, malgrado la buona fede, determinano a carico del consumatore un significativo squilibrio dei diritti e degli obblighi derivanti dal contratto.
@@ -510,6 +574,7 @@ b) modificare, qualora sussista un giustificato motivo, le condizioni del contra
 AGGIORNAMENTO (25)
 
 Il D.Lgs. 6 agosto 2015, n. 130 ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+[CITE AS: Codice del consumo - Art. 34]
 Art. 34
 Accertamento della vessatorietà delle clausole
 1. La vessatorietà di una clausola è valutata tenendo conto della natura del bene o del servizio oggetto del contratto e facendo riferimento alle circostanze esistenti al momento della sua conclusione ed alle altre clausole del contratto medesimo o di un altro collegato o da cui dipende.
@@ -517,11 +582,13 @@ Accertamento della vessatorietà delle clausole
 3. Non sono vessatorie le clausole che riproducono disposizioni di legge ovvero che siano riproduttive di disposizioni o attuative di principi contenuti in convenzioni internazionali delle quali siano parti contraenti tutti gli Stati membri dell'Unione europea o l'Unione europea.
 4. Non sono vessatorie le clausole o gli elementi di clausola che siano stati oggetto di trattativa individuale.
 5. Nel contratto concluso mediante sottoscrizione di moduli o formulari predisposti per disciplinare in maniera uniforme determinati rapporti contrattuali, incombe sul professionista l'onere di provare che le clausole, o gli elementi di clausola, malgrado siano dal medesimo unilateralmente predisposti, siano stati oggetto di specifica trattativa con il consumatore.
+[CITE AS: Codice del consumo - Art. 35]
 Art. 35
 Forma e interpretazione
 1. Nel caso di contratti di cui tutte le clausole o talune clausole siano proposte al consumatore per iscritto, tali clausole devono sempre essere redatte in modo chiaro e comprensibile.
 2. In caso di dubbio sul senso di una clausola, prevale l'interpretazione più favorevole al consumatore.
 3. La disposizione di cui al comma 2 non si applica nei casi di cui all'articolo 37.
+[CITE AS: Codice del consumo - Art. 36]
 Art. 36
 Nullità di protezione
 1. Le clausole considerate vessatorie ai sensi degli articoli 33 e 34 sono nulle mentre il contratto rimane valido per il resto.

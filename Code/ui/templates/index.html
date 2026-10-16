@@ -858,7 +858,8 @@
                         if (riskLower.includes('high')) {
                             riskClass = 'risk-high';
                             cssClass = 'border-risk-high';
-                        } else if (riskLower.includes('medium')) {
+                        } else if (riskLower.includes('medium') || riskLower.includes('not analyzed')) {
+                            // "Not Analyzed" clauses use the warning colour so they are not mistaken for low risk.
                             riskClass = 'risk-medium';
                             cssClass = 'border-risk-medium';
                         } else {

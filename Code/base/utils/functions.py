@@ -59,9 +59,9 @@ def extract_info(contract_text):
     Returns them as a numbered string with each main clause (including subpoints) on one line.
     """
     # Split the text into main sections using Arabic numbers or Chinese numbers/formats
-    # e.g., "1.", "1、", "一、", "（一）", "第一条", "第1条"
+    # e.g., "1.", "1、", "一、", "（一）", "第一条", "第1条", "Articolo 1" (Italian article headings)
     # The previous regex missed the simple '\d+\.' because of the non-capturing group structure.
-    pattern = r'(?=\n(?:(?:\d+[\.、])|(?:[一二三四五六七八九十百千万]+[\.、])|(?:（[一二三四五六七八九十百千万]+）)|(?:\([0-9]+\))|(?:第[一二三四五六七八九十百千万0-9]+[章节条])))'
+    pattern = r'(?=\n(?:(?:\d+[\.、])|(?:[一二三四五六七八九十百千万]+[\.、])|(?:（[一二三四五六七八九十百千万]+）)|(?:\([0-9]+\))|(?:第[一二三四五六七八九十百千万0-9]+[章节条])|(?:(?:Articolo|ARTICOLO)\s*\d+\b)))'
     main_sections = re.split(pattern, contract_text.strip())
 
     # Sometimes the very first section is just the title (e.g., "房屋租赁合同")

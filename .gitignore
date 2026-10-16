@@ -31,3 +31,4 @@ test_contracts/
 # Ignore Office Temp Files
 ~$*
 ~*.tmp
+italy_citation_test_output.txt
