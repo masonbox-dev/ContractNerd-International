@@ -15,6 +15,7 @@ if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
 from Code.base.clause_comparison import clause_comparison
+from Code.base.utils.citations import load_labels, check_authority
 
 app = Flask(__name__, template_folder='ui/templates')
 
@@ -25,6 +26,19 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+
+# Field labels the LLM is asked to output, mapped to where the UI stores them.
+FIELD_NAMES = {
+    'legal authority': 'regulations',
+    'regulations': 'regulations',
+    'regulation': 'regulations',
+    'classification': 'classification',
+    'risk tier': 'risk_tier',
+    'explanation': 'explanation',
+    'reasoning': 'explanation',
+    'improvement guidance': 'improvement_guidance',
+}
 
 
 @app.route('/')
@@ -126,7 +140,7 @@ def analyze():
             role="user",
             api_base=os.environ.get("OPENAI_API_BASE", "https://api.openai.com/v1"),
             api_key=os.environ.get("OPENAI_API_KEY", "YOUR_API_KEY_HERE"),
-            temperature=0.3,
+            temperature=0,  # 0 = most consistent answers between runs
             top_p=0.1,
             max_tokens=8192,
         )
@@ -141,7 +155,10 @@ def analyze():
             if not line:
                 continue
 
-            if line.lower().startswith('clause:') or line.startswith('### Clause'):
+            # Strip markdown markers (e.g. "**Legal Authority:**", "- Classification:") for field detection.
+            header = re.sub(r'^[\*#\-\s]+', '', line).replace('**', '').strip()
+
+            if header.lower().startswith('clause:') or line.startswith('### Clause'):
                 if current_clause and current_clause['text']:
                     clauses.append(current_clause)
 
@@ -158,61 +175,26 @@ def analyze():
                     'current_field': 'text',
                 }
 
-                if ':' in line:
-                    text_part = line.split(':', 1)[1].strip().strip('"').strip("'")
+                if ':' in header:
+                    text_part = header.split(':', 1)[1].strip().strip('"').strip("'")
                     if text_part:
                         current_clause['text'] = text_part
 
             elif current_clause:
                 is_new_field = False
 
-                if ':' in line:
-                    field_part, content_part = line.split(':', 1)
+                if ':' in header:
+                    field_part, content_part = header.split(':', 1)
                     field_lower = field_part.strip().lower()
                     content_part = content_part.strip()
-                    matched_field = None
+                    # Exact field names only. Substring matching ("law" in field_lower) let
+                    # explanation lines such as "Applicable law: ..." overwrite the citation.
+                    matched_field = FIELD_NAMES.get(field_lower)
 
-                    if len(field_part) < 80:
-                        if any(
-                            key in field_lower
-                            for key in [
-                                'legal authority',
-                                'regulation',
-                                'source',
-                                'act and section',
-                                'law',
-                            ]
-                        ):
-                            matched_field = 'regulations'
-
-                        elif 'classification' in field_lower:
-                            matched_field = 'classification'
-                            current_clause['is_unenforceable'] = (
-                                'unenforceable' in content_part.lower()
-                            )
-
-                        elif 'risk' in field_lower or 'tier' in field_lower:
-                            matched_field = 'risk_tier'
-
-                        elif any(
-                            key in field_lower
-                            for key in [
-                                'explanation',
-                                'reasoning',
-                                'finding',
-                                'legal issue',
-                                'why this matters',
-                                'analysis',
-                            ]
-                        ):
-                            matched_field = 'explanation'
-
-                        elif (
-                            'improvement' in field_lower
-                            or 'guidance' in field_lower
-                            or 'revision' in field_lower
-                        ):
-                            matched_field = 'improvement_guidance'
+                    if matched_field == 'classification':
+                        current_clause['is_unenforceable'] = (
+                            'unenforceable' in content_part.lower()
+                        )
 
                     if matched_field:
                         is_new_field = True
@@ -242,6 +224,9 @@ def analyze():
         if current_clause and current_clause.get('text'):
             clauses.append(current_clause)
 
+        with open(legal_resources['regulations'], encoding='utf-8', errors='ignore') as f:
+            citation_labels = load_labels(f.read()) if legal_resources['regulations'].endswith('.txt') else {}
+
         for c in clauses:
             authority = c['details'].get('regulations', '')
             authority = re.sub(
@@ -252,6 +237,12 @@ def analyze():
 
             if authority.lower() in ['none', 'not applicable', 'n/a']:
                 authority = ''
+
+            # Flag citations whose law/article pair is not in the reference file.
+            problems = check_authority(authority, citation_labels)
+            if problems:
+                print(f"CITATION CHECK clause {c['number']}: {authority!r} -> {problems}")
+                authority += ' [Unverified citation: ' + '; '.join(problems) + ']'
 
             c['details']['regulations'] = authority
 

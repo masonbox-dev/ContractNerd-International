@@ -1,8 +1,11 @@
+NOTE: Lines beginning with [CITE AS: ...] are editorial citation labels added by ContractNerd. All other legal text is unchanged from the official source.
+
 ITALY EMPLOYMENT AGREEMENT - SELECTED LEGAL TEXT
 
 Minimal prototype reference for ordinary private-sector employee agreements. Selected provisions only. Applicability may depend on employment status, contract type and the applicable collective agreement (CCNL). The scope note is editorial; the provisions below are Italian statutory text, with layout normalized.
 
 COSTITUZIONE DELLA REPUBBLICA ITALIANA
+[CITE AS: Costituzione - Art. 36]
 Art. 36
 Fonte ufficiale: https://www.senato.it/node/133/printable/print
 
@@ -13,6 +16,7 @@ La durata massima della giornata lavorativa è stabilita dalla legge.
 Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi.
 
 CODICE CIVILE - REGIO DECRETO 16 marzo 1942, n. 262
+[CITE AS: Codice civile - Art. 2118]
 Art. 2118
 Fonte ufficiale: https://www.gazzettaufficiale.it/eli/gu/2011/10/10/236/sg/pdf
 (Recesso dal contratto a tempo indeterminato).
@@ -23,6 +27,7 @@ In mancanza di preavviso, il recedente è tenuto verso l'altra parte a un'indenn
 
 La stessa indennità è dovuta dal datore di lavoro nel caso di cessazione del rapporto per morte del prestatore di lavoro.
 
+[CITE AS: Codice civile - Art. 2119]
 Art. 2119
 Fonte ufficiale: https://www.gazzettaufficiale.it/eli/gu/2019/02/14/38/so/6/sg/pdf
 (Recesso per giusta causa).
@@ -33,6 +38,7 @@ Se il contratto è a tempo indeterminato, al prestatore di lavoro che recede per
 
 Non costituisce giusta causa di risoluzione del contratto la liquidazione coatta amministrativa dell'impresa. Gli effetti della liquidazione giudiziale sui rapporti di lavoro sono regolati dal codice della crisi e dell'insolvenza.
 
+[CITE AS: Codice civile - Art. 2125]
 Art. 2125
 Fonte ufficiale: https://def.giustiziatributaria.gov.it/DocTribFrontend/executePrintArticolo.do?FROM_SEARCH=true&codiceOrdinamento=0000000000021250000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B8BA24F4F-65BA-4E58-AF6E-41C037180D43%7D&idAttoNormativo=%7B9E93F1BE-06AE-4F24-8E9D-B838F7E0C2E6%7D&numeroArticolo=Articolo+2125
 (Patto di non concorrenza).
@@ -43,6 +49,7 @@ La durata del vincolo non puo' essere superiore a cinque anni, se si tratta di d
 
 LEGGE 15 luglio 1966, n. 604
 Norme sui licenziamenti individuali
+[CITE AS: Legge 604/1966 - Art. 1]
 Art. 1
 Fonte ufficiale: https://www.normattiva.it/eli/id/1966/08/06/066U0604/CONSOLIDATED/20250724
 
