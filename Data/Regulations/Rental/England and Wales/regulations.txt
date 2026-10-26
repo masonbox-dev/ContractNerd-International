@@ -52,3 +52,18 @@ For every clause classified as potentially non-compliant, potentially unenforcea
 
 10. Placeholder rule
 Do not cite a statute merely because a clause contains blanks such as "(Date)", "(Amount)", "(Address)", "(Landlord)", "(Tenant)", "(Property)", or "(city)". Classify blank placeholders as Missing Required Information or Ambiguous with Legal Authority: None unless the cited source directly requires that exact missing information.
+
+Additional England-only guidance: professional cleaning and third-party services
+
+Tenant Fees Act 2019 — Section 1(3)
+For tenancies within the Act's scope in England, a landlord must not require the tenant to enter into a contract with a third party for services connected with the tenancy, except where a statutory exception applies.
+
+Check clauses requiring the tenant to hire professional cleaners or supply receipts proving professional cleaning. Identify the potential third-party service requirement and cite Section 1(3). Do not describe the concern only as a vague cleaning standard. If applicability is uncertain, state the missing facts while still explaining the substantive issue.
+
+Tenant Fees Act 2019 — Schedule 1, paragraph 5
+A payment of damages for breach of a tenancy agreement is a permitted payment. Distinguish a mandatory professional-cleaning requirement from recovery of damages for an actual breach of a cleaning obligation. Do not assume every cleaning charge is prohibited or every claimed deduction is justified.
+
+Citation boundaries
+Do not cite Landlord and Tenant Act 1985 Section 11 merely because a clause mentions cleaning, carpets, furniture, or returning the property in its original condition. Identify an actual transfer of the landlord's statutory repairing obligations before using that authority.
+
+Do not cite Law of Property Act 1925 Section 52 for recovery of legal costs. That provision concerns deed formalities. If the relevant costs authority is absent from this reference, say so rather than substituting an unrelated section.
