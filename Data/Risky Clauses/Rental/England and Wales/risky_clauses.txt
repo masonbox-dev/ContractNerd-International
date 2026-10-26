@@ -34,3 +34,12 @@ For repair clauses, do not treat ordinary tenant minor-repair duties as unlawful
 
 Fees guidance:
 For fees, distinguish ordinary rent/utilities/council tax from administrative fees, cleaning fees, renewal fees, excessive default charges, or unusually high deposits.
+
+Professional-cleaning assessment — England
+
+- A requirement to hire professional cleaners or provide professional-cleaning receipts should trigger review for a potential third-party service requirement under Tenant Fees Act 2019 Section 1(3).
+- Explain that requirement explicitly. A vague cleaning standard is a separate drafting concern and must not replace the substantive explanation.
+- An obligation to return the property to its original standard of cleanliness, allowing for fair wear and tear, is not by itself a requirement to hire a third party.
+- Distinguish mandatory cleaning services or fees from damages claimed for an actual breach. Assess the latter using Schedule 1 paragraph 5 and the available facts.
+- Do not use Landlord and Tenant Act 1985 Section 11 as a generic authority for cleaning obligations.
+- When testing an isolated clause, missing tenancy context should qualify applicability rather than become the sole explanation.
