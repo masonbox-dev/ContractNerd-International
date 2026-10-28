@@ -172,6 +172,16 @@ Improvement Guidance: [Specific revision or review step]
             "Improvement Guidance: Rerun the analysis or review this clause manually.\n"
         )
 
+    # Only the six allowed classifications may reach the UI. Step 1's
+    # "Potentially Non-Compliant" label sometimes leaks into the final output.
+    LABEL_FIXES = {"potentially non-compliant": "Potentially Unenforceable"}
+
+    def fix_label(m):
+        label = m.group(2).replace("*", "").strip()
+        return m.group(1) + LABEL_FIXES.get(label.lower(), label)
+
+    final_output = re.sub(r"(Classification:\**\s*)([^\n]+)", fix_label, final_output)
+
     return final_output
 
 if __name__ == "__main__":
