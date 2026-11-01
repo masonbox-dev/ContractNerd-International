@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ContractNerd International</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
     <style>
         :root {
@@ -570,9 +569,20 @@
             stroke-width: 1.5;
         }
 
+        @page {
+            size: letter;
+            margin: 0.5in;
+        }
+
         @media print {
+            html,
             body {
+                display: block !important;
+                height: auto !important;
+                min-height: 0 !important;
+                overflow: visible !important;
                 background: #ffffff !important;
+                animation: none !important;
             }
 
             nav,
@@ -582,33 +592,78 @@
                 display: none !important;
             }
 
-            .container {
+            .container,
+            .results-container,
+            .results-content {
                 display: block !important;
+                width: 100% !important;
+                height: auto !important;
+                min-height: 0 !important;
+                max-height: none !important;
+                max-width: none !important;
+                overflow: visible !important;
                 margin: 0 !important;
                 padding: 0 !important;
-                max-width: none !important;
-            }
-
-            .results-container {
-                height: auto !important;
-                min-height: auto !important;
                 box-shadow: none !important;
                 border: none !important;
                 background: #ffffff !important;
-                padding: 0 !important;
+                backdrop-filter: none !important;
+                -webkit-backdrop-filter: none !important;
             }
 
-            .results-content {
-                overflow: visible !important;
-                padding: 0 !important;
+            .results-header,
+            .analysis-summary {
+                break-inside: avoid;
+                break-after: avoid;
+            }
+
+            .analysis-summary {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
             }
 
             .clause-card {
-                break-inside: avoid;
-                page-break-inside: avoid;
+                /* A single clause can be longer than a page. Let it flow. */
+                break-inside: auto;
+                page-break-inside: auto;
+                padding: 12pt;
+                margin-bottom: 14pt;
                 background: #ffffff !important;
-                border: 1px solid #ddd !important;
+                border: 1px solid #ddd;
                 box-shadow: none !important;
+                transform: none !important;
+                transition: none !important;
+                backdrop-filter: none !important;
+                -webkit-backdrop-filter: none !important;
+            }
+
+            .clause-header,
+            .clause-details {
+                display: block;
+            }
+
+            .clause-text,
+            .clause-details,
+            .improvement-box {
+                font-size: 10.5pt;
+                line-height: 1.45;
+                color: #222;
+                overflow-wrap: anywhere;
+                orphans: 3;
+                widows: 3;
+            }
+
+            .clause-details p + p {
+                margin-top: 10pt;
+            }
+
+            .clause-badges {
+                margin-top: 8pt;
+            }
+
+            .risk-badge {
+                /* Preserve the category colors when printing or saving a PDF. */
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
             }
         }
     </style>
@@ -651,6 +706,8 @@
                     <option value="England and Wales">England and Wales</option>
                     <option value="Italy">Italy</option>
                     <option value="New York">New York</option>
+                    <option value="New Jersey">New Jersey (USA)</option>
+                    <option value="California">California (USA)</option>
                     <option value="Chicago">Chicago</option>
                 </select>
 
@@ -659,6 +716,7 @@
                     <option value="" disabled selected>-- Select --</option>
                     <option value="Rental">Rental</option>
                     <option value="Employment">Employment</option>
+                    <option value="B2C">Business-to-Consumer (B2C)</option>
                 </select>
 
                 <label for="contract">Document / PDF :</label>
@@ -680,8 +738,8 @@
                 <h2>Analysis Results</h2>
 
                 <div style="display: flex; gap: 10px;">
-                    <button class="copy-btn" id="download-pdf" type="button" title="Download results as PDF" style="display: none;">
-                        Download PDF
+                    <button class="copy-btn" id="download-pdf" type="button" title="Open the print dialog and choose Save as PDF" style="display: none;">
+                        Save as PDF
                     </button>
 
                     <button class="copy-btn" id="copy-results" type="button" title="Copy all results" style="display: none;">
@@ -804,7 +862,7 @@
 
             let resultHTML = '';
 
-            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "Chicago", "Italy"];
+            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "New Jersey", "California", "Chicago", "Italy"];
             const isChineseJurisdiction = data.metadata && !englishJurisdictions.includes(data.metadata.jurisdiction);
 
             const labels = isChineseJurisdiction ? {
@@ -935,97 +993,14 @@
         document.getElementById("download-pdf").addEventListener("click", function () {
             const resultElement = document.getElementById("result");
 
-            if (!resultElement || resultElement.innerText.includes("Ready for Analysis")) {
-                alert("Please analyze a contract before downloading the PDF.");
+            if (!resultElement || !resultElement.querySelector(".clause-card")) {
+                alert("Please analyze a contract before saving the PDF.");
                 return;
             }
 
-            const clonedResult = resultElement.cloneNode(true);
-
-            clonedResult.style.width = "100%";
-            clonedResult.style.maxWidth = "100%";
-            clonedResult.style.overflow = "visible";
-            clonedResult.style.paddingRight = "0";
-
-            clonedResult.querySelectorAll("*").forEach(el => {
-                el.style.maxWidth = "100%";
-                el.style.overflow = "visible";
-                el.style.boxSizing = "border-box";
-            });
-
-            clonedResult.querySelectorAll(".clause-card").forEach(card => {
-                card.style.pageBreakInside = "avoid";
-                card.style.breakInside = "avoid";
-                card.style.marginBottom = "18px";
-            });
-
-            clonedResult.querySelectorAll(".clause-header").forEach(header => {
-                header.style.display = "block";
-            });
-
-            clonedResult.querySelectorAll(".clause-badges").forEach(badge => {
-                badge.style.marginTop = "8px";
-            });
-
-            clonedResult.querySelectorAll(".analysis-summary").forEach(summary => {
-                summary.style.display = "grid";
-                summary.style.gridTemplateColumns = "1fr 1fr 1fr";
-                summary.style.gap = "10px";
-            });
-
-            clonedResult.querySelectorAll(".summary-value").forEach(value => {
-                value.style.fontSize = "16px";
-                value.style.wordBreak = "break-word";
-            });
-
-            clonedResult.querySelectorAll(".clause-text").forEach(text => {
-                text.style.wordBreak = "break-word";
-                text.style.overflowWrap = "break-word";
-            });
-
-            const wrapper = document.createElement("div");
-            wrapper.style.width = "7.2in";
-            wrapper.style.padding = "20px";
-            wrapper.style.boxSizing = "border-box";
-            wrapper.style.fontFamily = "Inter, Arial, sans-serif";
-            wrapper.style.color = "#1d1d1f";
-            wrapper.style.background = "#ffffff";
-
-            const title = document.createElement("h1");
-            title.innerText = "ContractNerd International - Analysis Report";
-            title.style.fontSize = "22px";
-            title.style.marginBottom = "8px";
-
-            const subtitle = document.createElement("p");
-            subtitle.innerText = "Generated clause-level contract analysis report.";
-            subtitle.style.fontSize = "12px";
-            subtitle.style.color = "#555";
-            subtitle.style.marginBottom = "20px";
-
-            wrapper.appendChild(title);
-            wrapper.appendChild(subtitle);
-            wrapper.appendChild(clonedResult);
-
-            const opt = {
-                margin: 0.4,
-                filename: "contractnerd-analysis-report.pdf",
-                image: { type: "jpeg", quality: 0.98 },
-                html2canvas: {
-                    scale: 1.5,
-                    useCORS: true,
-                    scrollY: 0
-                },
-                jsPDF: {
-                    unit: "in",
-                    format: "letter",
-                    orientation: "portrait"
-                },
-                pagebreak: {
-                    mode: ["avoid-all", "css", "legacy"]
-                }
-            };
-
-            html2pdf().set(opt).from(wrapper).save();
+            // Native pagination avoids the canvas size limit on long reports.
+            // The print stylesheet expands the results without changing their content.
+            window.print();
         });
     </script>
 </body>

@@ -1,0 +1,88 @@
+NEW JERSEY BUSINESS-TO-CONSUMER CONTRACT RISK GUIDANCE
+Draft v0.3 - 2026-11-01
+
+Companion reference: Data/Regulations/B2C/New Jersey/regulations.txt, draft v0.3.
+This is editorial classification guidance, not legislation or an additional source of legal duties. It contains no named-case findings, test-contract clauses or expected evaluation answers. Risk tiers are project categories, not categories assigned by the statutes or regulations.
+
+Use the first-stage analysis as the legal and factual basis. Assess the meaning and practical effect of each clause; exact wording from a previously reviewed contract is not required.
+
+Output rules:
+- Preserve every clause's exact text and Clause ID. Use the output format required by the shared prompt.
+- Copy Legal Authority exactly from the first-stage analysis for that same clause. Preserve None where supplied. Do not introduce or change a citation using this guidance, another clause or remembered cases.
+- Do not invent a duty, prohibited phrase, deadline or entitlement. A topic heading and a general prohibition are not substitutes for a provision that supports the conclusion.
+- Distinguish a supported statutory or regulatory conflict, ambiguity, missing information, practical disadvantage and a legal question outside the reference's coverage.
+- Missing facts or absence from an excerpt do not prove a violation. A duty to include wording in a written contract differs from a duty to perform an act outside it.
+- An absent source does not prove enforceability. If the reasoning identifies a material uncovered question, retain that uncertainty.
+- If the first-stage finding contradicts its own explanation, use Requires Further Legal Review and identify the inconsistency instead of silently inventing a different legal analysis.
+- The final Classification must be one of the six values below; Compliant, Potentially Non-Compliant and Applicability Uncertain are preliminary findings, not final classification values.
+- Risk Tier must be High Risk, Medium Risk or Low Risk.
+
+Allowed classifications:
+- Enforceable: The analysis identifies no material legal, drafting or practical concern within the supplied reference and facts. Explain that limited basis; this label is not a guarantee of court enforcement.
+- Missing Required Information: A blank field or omitted detail is needed to understand or complete the provision. Do not automatically describe it as a legal violation.
+- Ambiguous: Material obligations, cross-references or wording have unclear or conflicting meanings.
+- Potentially Prejudicial: A concrete one-sided burden or practical disadvantage is identified without sufficient support for legal invalidity. Explain the actual effect.
+- Potentially Unenforceable: The first-stage analysis identifies a supported conflict that calls enforcement of the term into question. Limit the finding to the provision or application supported by that analysis.
+- Requires Further Legal Review: A material question of applicability, legal coverage, enforceability or rights/remedies cannot be resolved. Identify the missing fact, authority or inconsistency.
+
+High Risk:
+- A concrete potential conflict with an applicable cited statutory or regulatory protection is identified, such as a prohibited restriction, waiver of a protected right or denial of an applicable remedy. Explain the specific requirement and conflicting contract text.
+- A serious rights/remedies issue expressly identified by the first-stage analysis requires legal review. Explain its significance and remaining uncertainty; seriousness alone does not establish illegality.
+- Use Potentially Unenforceable only when the supplied reasoning supports an enforcement concern. A potential compliance issue does not automatically void a term or the whole contract; Requires Further Legal Review may be appropriate instead.
+
+Medium Risk:
+- A meaningful field is missing, obligations are ambiguous, or wording creates a concrete practical disadvantage without an established legal conflict.
+- Necessary applicability facts, surrounding terms, consent evidence or legal authority are missing.
+- A material question falls outside the selected reference. Use Requires Further Legal Review and state the coverage gap; do not add a remembered judicial rule.
+
+Low Risk:
+- The analysis finds a clear, ordinary term with no identified conflict or material unresolved concern within the supplied reference and facts.
+- A limitation or arrangement has a supported, applicable basis and no identified defect. Neither its subject matter nor the fact that it is a standard-form term justifies a flag by itself.
+
+Mapping preliminary findings:
+- Compliant: Usually Enforceable / Low Risk, unless the reasoning identifies a material uncertainty or coverage gap; then use Requires Further Legal Review / Medium Risk.
+- Missing Information: Usually Missing Required Information / Medium Risk.
+- Ambiguous: Usually Ambiguous / Medium Risk. Escalate only when the supplied reasoning identifies a serious supported consequence.
+- Practical Risk: Usually Potentially Prejudicial / Medium Risk; use Ambiguous or Requires Further Legal Review when that better describes the concern.
+- Potentially Non-Compliant: Use Potentially Unenforceable / High Risk only when the reasoning supports questioning enforcement; otherwise use Requires Further Legal Review with the tier justified by the concern. Uncertainty alone ordinarily remains Medium Risk.
+- Applicability Uncertain: Usually Requires Further Legal Review / Medium Risk. Specify what must be established.
+
+Topic guidance - apply only when supported by the first-stage analysis:
+
+1. Consumer reviews
+Check whether the statutory form-contract and covered-communication requirements are met and whether an exception applies. Distinguish a prohibited restriction, penalty or transfer of review rights from a permitted confidentiality provision or non-exclusive license. Do not flag every confidentiality or content-removal term.
+
+2. Online recurring charges and cancellation
+For the supplied federal negative-option rule, preserve the transaction scope and the analysis of disclosure, consent and a mechanism to stop recurring charges. Missing checkout or cancellation-process evidence is not proof of noncompliance. Do not impose a universal refund period, particular cancellation button or general State renewal rule absent supporting authority.
+
+3. Consumer-product warranties
+Retain the definitions and facts identifying the product, supplier, warrantor, written warranty and service contract. Distinguish full from limited warranties and complete disclaimers from qualifying duration limits. Preserve price thresholds, reasonable-repair conditions and statutory exceptions. Do not apply these product-warranty provisions automatically to every service agreement or impose full-warranty standards on every limited warranty.
+
+4. New Jersey contract clarity and non-waivable rights
+Distinguish unclear drafting from a supported statutory violation and from an enforcement consequence. Preserve the Plain Language Act's scope, exclusions and limits on the effect of a violation. A general readability concern does not automatically invalidate a contract.
+For a non-waiver or prohibited-provision issue, the first-stage analysis must identify the actual protected right or responsibility. Generic unfairness does not supply an underlying right. Preserve the warranty exception where relevant to statements about other jurisdictions. Do not assume a penalty or damages is owed merely because a contract contains a flagged term.
+
+5. New Jersey consumer-fraud concerns
+Identify the actual alleged deceptive or prohibited practice and its statutory support. Do not infer intent, ascertainable loss, causation or entitlement to remedies solely from a clause's presence. An unfavorable price, fee or allocation of responsibility is not automatically consumer fraud.
+
+6. Health-club services
+Use the statutory definitions, exclusions, applicable dates and exceptions. Assess payment disclosures, duration, cancellation/refunds, renewal, transfer and non-waiver terms against the particular supplied requirement. These health-club rules do not apply to all subscriptions or all recreational businesses. A no-refund term must be read with the contract's other terms and the applicable statutory cancellation right; do not infer an unconditional right to cancel at any time. Absence from an excerpt does not establish absence from the complete agreement.
+
+For the added health-club regulations, retain the facility definition and exclusions, registration-number requirement, security-exemption conditions, and the limited affiliated-club arrangement. A missing registration number in an excerpt does not prove it is absent from the full agreement, and text extraction cannot establish its printed position. Do not assume every longer-term membership requires security without assessing the supplied exemption conditions. An affiliated facility must meet the supplied location/service/no-extra-cost conditions; preserve the closure exception and the qualified refund rule. Read older regulatory notice wording with the applicable amended statute, and do not use it to remove statutory telephone or online cancellation options. The regulatory sanctions provision does not establish all elements of a private damages claim.
+
+7. Arbitration and other liability/remedy limitations
+The supplied arbitration statutes provide a baseline with conditions and exceptions, not a complete test for every agreement. Do not add a mandatory court-rights waiver sentence, a specific notice formula or a detailed assent test that the supplied statutory analysis does not establish. Identify unclear or contradictory dispute-resolution wording as a drafting concern where supported, and preserve material legal-coverage limits.
+General negligence releases, liability caps, fee allocations, venue restrictions and claim deadlines require their own supporting authority for a legal-invalidity conclusion. The health-club non-waiver provision does not itself supply a general negligence-release doctrine. Do not import distinctions from particular fitness-release cases. A supported practical burden can still be described without claiming a statutory violation.
+
+8. Cable-television services and equipment
+First identify whether the clause concerns cable TV or a different service in a bundled agreement. Do not automatically transfer cable-TV protections to broadband Internet, voice, mobile or home-security services. Retain the supplied definitions and exceptions.
+For outage credits, preserve the defined outage, duration thresholds, customer-notice requirement, beyond-reasonable-control conditions, possible Board waiver and separate rule for non-outage loss of service. A permitted exclusion of indirect or consequential outage damages is not automatically a violation. Alternative compensation must not be treated as compulsory acceptance; continuing a free promotion offered instead of an outage credit requires the qualified opt-in described in the rule.
+For equipment charges, distinguish lost/stolen equipment from damaged equipment, preserve the repair/replacement cost limits and allowed shipping/handling costs, and distinguish normal wear from chargeable damage. Missing cost or notice evidence may require review rather than a finding that an overcharge occurred.
+For refunds and credits, preserve the requirement that a refund/credit is due, its timing trigger and the equipment-return alternative upon termination. A refund-timing rule does not independently establish a refund entitlement. The federal 90-day franchise-authority notice is not a subscriber cancellation period. Do not conclude that every final bill must be prorated, every termination fee is prohibited or a particular claim deadline is invalid from these selections alone.
+Missing notices, bills, website information or performance records are evidence gaps, not automatic contract violations. Use Requires Further Legal Review for a material unresolved service-scope, preemption or omitted-authority issue. Keep the conclusion limited to the affected term, service and supplied basis.
+
+Explanation and improvement guidance:
+- State the clause's actual issue, its first-stage legal basis (or absence of one), and the relevant qualifications in plain English.
+- Match the next step to the supported concern: complete a field, clarify an inconsistency, address an applicable statutory or regulatory exception or requirement, or obtain missing facts, documents or legal review.
+- Do not invent replacement language claimed to guarantee compliance. If no change is supported, say that no change is indicated within the supplied reference and facts.
+- Keep classification, tier, explanation and proposed next step consistent. A missing fact alone must not become an established violation, and a Low Risk finding must not conceal a material unresolved question.

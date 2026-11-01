@@ -98,7 +98,19 @@ def analyze():
             ),
         }
 
-        if jurisdiction in ["India - Delhi", "England and Wales"]:
+        if contract_type == "B2C":
+            # Do not silently analyze B2C without its matching risk guidance.
+            missing_resources = [
+                os.path.basename(legal_resources[name])
+                for name in ("regulations", "risky_clauses")
+                if not os.path.isfile(legal_resources[name])
+            ]
+            if missing_resources:
+                return jsonify({
+                    "error": f"{jurisdiction} / {contract_type} analysis is unavailable: missing " + ", ".join(missing_resources) + "."
+                }), 400
+
+        elif jurisdiction in ["India - Delhi", "England and Wales"]:
             if not os.path.exists(legal_resources['regulations']):
                 return jsonify({
                     "error": (
@@ -136,7 +148,7 @@ def analyze():
             contract_path=contract_path,
             law_path=legal_resources['regulations'],
             risky_clauses=legal_resources['risky_clauses'],
-            model=os.environ.get("LLM_MODEL", "gpt-4o-mini"),
+            model="gpt-6-luna",
             role="user",
             api_base=os.environ.get("OPENAI_API_BASE", "https://api.openai.com/v1"),
             api_key=os.environ.get("OPENAI_API_KEY", "YOUR_API_KEY_HERE"),
@@ -229,8 +241,9 @@ def analyze():
 
         for c in clauses:
             authority = c['details'].get('regulations', '')
+            # Remove list markers only; keep statute titles such as 15 U.S.C.
             authority = re.sub(
-                r'^(?:\d+[\.\s]+|\([0-9]+\)\s*)',
+                r'^(?:\d+[.)]\s+|\([0-9]+\)\s*)',
                 '',
                 authority
             ).strip()

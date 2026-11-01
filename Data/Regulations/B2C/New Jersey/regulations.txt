@@ -1,0 +1,1239 @@
+NEW JERSEY - BUSINESS-TO-CONSUMER CONTRACTS
+SELECTED FEDERAL + NEW JERSEY STATUTES AND REGULATIONS - DRAFT v0.3
+
+Revised: 2026-11-01
+New Jersey statutory source: New Jersey Legislature, General and Permanent Statutes.
+New Jersey source edition: UPDATED THROUGH P.L.2026, c.50, and J.R.1.
+Federal statutory source: Office of the Law Revision Counsel, U.S. House of Representatives.
+Federal source edition: through Public Law 119-124 (October 15, 2026).
+This is a selected academic reference, not a complete New Jersey consumer-law code.
+Parts A-B contain the existing statutory selection. Part C adds selected health-club and cable-TV regulations with source editions and selection boundaries.
+
+EDITORIAL SCOPE AND READING NOTES (NOT AUTHORITATIVE LEGAL TEXT)
+Coverage: selected federal consumer protections; New Jersey consumer-contract clarity, consumer fraud, non-waivable rights, health-club services contracts, selected arbitration provisions; and selected health-club and cable-TV administrative rules.
+
+1. Apply the supplied statutory and regulatory rules to the meaning and effect of each clause, including unfamiliar wording. No exact match to another contract or decided dispute is required. Identify the clause language, applicable provision, relevant conditions and exceptions, and the reason for any conflict.
+2. Use New Jersey as the selected review jurisdiction while checking whether its law applies to the issue. Do not invent a governing-law clause, consumer location, transaction date or other missing fact. Federal and State provisions are not automatically all applicable to every contract.
+3. Part A supplies selected federal statutes; Part B supplies selected New Jersey statutes; Part C supplies selected New Jersey and federal regulations. Existing statutory blocks retain their wording and amendment histories. New regulatory selections preserve the wording of the selected rules and identify omissions; PDF page furniture, line wrapping and verified extraction artifacts are normalized. Editorial notes are explanatory, not additional legal requirements. This file contains no judicial case summaries, test-contract clauses or expected evaluation results.
+4. Read the surrounding agreement where available. A term absent from an excerpt is not necessarily absent from the full contract. Distinguish a duty to include text in a contract from a duty to perform an act outside the document. Do not assume missing performance evidence proves non-performance.
+5. Missing applicability facts, blank fields and an uncovered legal question support a qualified finding, not an invented violation. A statutory definition, general prohibition or unrelated section does not establish a specific duty it does not state.
+6. Cite only a supplied provision that supports the claim. CITE AS labels and source URLs identify provenance; they do not add rules or trigger web retrieval. Do not substitute remembered case outcomes for the supplied statutory and regulatory text.
+7. The identified editions are not a historical reconstruction. Apply the law in force for the relevant transaction or dispute; later amendments must not be attributed retroactively to an earlier event. The health-club section identifies selected amendment dates.
+8. Coverage gaps include detailed arbitration-assent and delegation standards, general negligence-release and unconscionability doctrines, complete State warranty/remedies law, debt-adjuster licensing, the full service-contract scheme, sector-specific administrative rules beyond the Part C selection, consumer credit, privacy, general automatic-renewal law beyond the provisions supplied, and general venue/choice-of-law rules. A statutory cross-reference does not reproduce all of the referenced law.
+9. Identify material coverage gaps rather than declaring a term universally enforceable or unenforceable. Describe supported ambiguity or practical disadvantage separately from legal invalidity. PDF text extraction alone does not establish original font size, layout, visual prominence, notice or acceptance.
+
+END EDITORIAL SCOPE NOTES
+
+PART A - SELECTED FEDERAL STATUTES
+The following is the same selected federal material as the United States reference, including its applicability notes, conditions, exceptions and selection boundaries.
+
+================================================================
+1. CONSUMER REVIEW RESTRICTIONS AND PENALTIES
+[CITE AS: 15 U.S.C. § 45b]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s45b/
+Selection: Subsections (a)-(c) and (g)-(i). Enforcement/education subsections (d)-(f) omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+This applies to the defined form contracts and covered communications. Read the exceptions in (b)(2)-(3) before flagging a confidentiality or content-removal term. A non-exclusive license is expressly excepted in (b)(1)(C). A restriction on an honest consumer review, a fee for such a review, or a prohibited transfer of review-content rights may conflict with (b)(1). A general confidentiality provision is not automatically unlawful. Subsection (i) controls temporal applicability; this is not a basis for claiming that this Act decided a case from before its enactment. The invalidity language concerns the offending provision, not automatically the entire agreement.
+
+BEGIN OFFICIAL STATUTORY TEXT — CRFA / excerpt 1
+(a)  Definitions
+
+In this section:
+
+(1)  Commission
+
+The term “Commission” means the Federal Trade Commission.
+
+(2)  Covered communication
+
+The term “covered communication” means a written, oral, or pictorial review, performance assessment of, or other similar analysis of, including by electronic means, the goods, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
+
+(3)  Form contract
+(A)  In general
+
+Except as provided in subparagraph (B), the term “form contract” means a contract with standardized terms—
+
+(i)  used by a person in the course of selling or leasing the person’s goods or services; and
+
+(ii)  imposed on an individual without a meaningful opportunity for such individual to negotiate the standardized terms.
+
+(B)  Exception
+
+The term “form contract” does not include an employer-employee or independent contractor contract.
+
+(4)  Pictorial
+The term “pictorial” includes pictures, photographs, video, illustrations, and symbols.
+
+(b)  Invalidity of contracts that impede consumer reviews
+
+(1)  In general
+
+Except as provided in paragraphs (2) and (3), a provision of a form contract is void from the inception of such contract if such provision—
+
+(A)  prohibits or restricts the ability of an individual who is a party to the form contract to engage in a covered communication;
+(B)  imposes a penalty or fee against an individual who is a party to the form contract for engaging in a covered communication; or
+
+(C)  transfers or requires an individual who is a party to the form contract to transfer to any person any intellectual property rights in review or feedback content, with the exception of a non-exclusive license to use the content, that the individual may have in any otherwise lawful covered communication about such person or the goods or services provided by such person.
+(2)  Rule of construction
+
+Nothing in paragraph (1) shall be construed to affect—
+
+(A)  any duty of confidentiality imposed by law (including agency guidance);
+
+(B)  any civil cause of action for defamation, libel, or slander, or any similar cause of action;
+
+(C)  any party’s right to remove or refuse to display publicly on an Internet website or webpage owned, operated, or otherwise controlled by such party any content of a covered communication that—
+(i)  contains the personal information or likeness of another person, or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, or is inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic;
+
+(ii)  is unrelated to the goods or services offered by or available at such party’s Internet website or webpage; or
+
+(iii)  is clearly false or misleading; or
+(D)  a party’s right to establish terms and conditions with respect to the creation of photographs or video of such party’s property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
+
+(3)  Exceptions
+Paragraph (1) shall not apply to the extent that a provision of a form contract prohibits disclosure or submission of, or reserves the right of a person or business that hosts online consumer reviews or comments to remove—
+
+(A)  trade secrets or commercial or financial information obtained from a person and considered privileged or confidential;
+
+(B)  personnel and medical files and similar information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+(C)  records or information compiled for law enforcement purposes, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+
+(D)  content that is unlawful or otherwise meets the requirements of paragraph (2)(C); or
+
+(E)  content that contains any computer viruses, worms, or other potentially damaging computer code, processes, programs, applications, or files.
+
+(c)  Prohibition
+It shall be unlawful for a person to offer a form contract containing a provision described as void in subsection (b).
+END OFFICIAL STATUTORY TEXT
+
+[EDITORIAL OMISSION MARKER: intervening text not included; see Selection above.]
+
+BEGIN OFFICIAL STATUTORY TEXT — CRFA / excerpt 2
+(g)  Relation to State causes of action
+Nothing in this section shall be construed to affect any cause of action brought by a person that exists or may exist under State law.
+
+(h)  Savings provision
+
+Nothing in this section shall be construed to limit, impair, or supersede the operation of the Federal Trade Commission Act [15 U.S.C. 41 et seq.] or any other provision of Federal law.
+
+(i)  Effective dates
+
+This section shall take effect on December 14, 2016, except that—
+(1)  subsections (b) and (c) shall apply with respect to contracts in effect on or after the date that is 90 days after December 14, 2016; and
+
+(2)  subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after December 14, 2016.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+2. ONLINE NEGATIVE-OPTION SUBSCRIPTIONS AND RECURRING CHARGES
+[CITE AS: 15 U.S.C. § 8403]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s8403/
+Selection: Entire operative section.
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Applies to goods or services sold in a transaction effected on the Internet through a negative option feature. Negative option arrangements generally treat a customer's silence or failure to cancel as acceptance, including automatic renewal and free-to-paid conversion. This description is editorial context, not additional statutory wording. Missing evidence of the checkout screen, consent process, cancellation mechanism, or timing of disclosures is an information gap; an uploaded contract may not establish those facts. The section requires simple mechanisms to stop recurring charges; it does not itself prescribe a particular cancellation button, a fixed notice period, or a universal refund entitlement. Do not infer that every automatic renewal is prohibited. State renewal rules and other federal provisions are not included in this baseline.
+
+BEGIN OFFICIAL STATUTORY TEXT — ROSCA
+It shall be unlawful for any person to charge or attempt to charge any consumer for any goods or services sold in a transaction effected on the Internet through a negative option feature (as defined in the Federal Trade Commission’s Telemarketing Sales Rule in part 310 of title 16, Code of Federal Regulations), unless the person—
+(1)  provides text that clearly and conspicuously discloses all material terms of the transaction before obtaining the consumer’s billing information;
+
+(2)  obtains a consumer’s express informed consent before charging the consumer’s credit card, debit card, bank account, or other financial account for products or services through such transaction; and
+(3)  provides simple mechanisms for a consumer to stop recurring charges from being placed on the consumer’s credit card, debit card, bank account, or other financial account.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+3. CONSUMER PRODUCT WARRANTY DEFINITIONS
+[CITE AS: 15 U.S.C. § 2301]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s2301/
+Selection: Entire operative section, paragraphs (1)-(15).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Use these definitions with the following warranty provisions. Consumer product means the defined tangible personal property, not every service or digital subscription. Identify the supplier, warrantor, and party making any written warranty or service contract. An implied warranty arises under State law as modified by the cited federal provisions. This file does not supply the applicable State's implied-warranty rules. Definitions do not by themselves establish a violation.
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-DEFINITIONS
+For the purposes of this chapter:
+
+(1)  The term “consumer product” means any tangible personal property which is distributed in commerce and which is normally used for personal, family, or household purposes (including any such property intended to be attached to or installed in any real property without regard to whether it is so attached or installed).
+
+(2)  The term “Commission” means the Federal Trade Commission.
+(3)  The term “consumer” means a buyer (other than for purposes of resale) of any consumer product, any person to whom such product is transferred during the duration of an implied or written warranty (or service contract) applicable to the product, and any other person who is entitled by the terms of such warranty (or service contract) or under applicable State law to enforce against the warrantor (or service contractor) the obligations of the warranty (or service contract).
+(4)  The term “supplier” means any person engaged in the business of making a consumer product directly or indirectly available to consumers.
+
+(5)  The term “warrantor” means any supplier or other person who gives or offers to give a written warranty or who is or may be obligated under an implied warranty.
+
+(6)  The term “written warranty” means—
+(A)  any written affirmation of fact or written promise made in connection with the sale of a consumer product by a supplier to a buyer which relates to the nature of the material or workmanship and affirms or promises that such material or workmanship is defect free or will meet a specified level of performance over a specified period of time, or
+(B)  any undertaking in writing in connection with the sale by a supplier of a consumer product to refund, repair, replace, or take other remedial action with respect to such product in the event that such product fails to meet the specifications set forth in the undertaking,
+
+which written affirmation, promise, or undertaking becomes part of the basis of the bargain between a supplier and a buyer for purposes other than resale of such product.
+(7)  The term “implied warranty” means an implied warranty arising under State law (as modified by sections 2308 and 2304(a) of this title) in connection with the sale by a supplier of a consumer product.
+
+(8)  The term “service contract” means a contract in writing to perform, over a fixed period of time or for a specified duration, services relating to the maintenance or repair (or both) of a consumer product.
+(9)  The term “reasonable and necessary maintenance” consists of those operations (A) which the consumer reasonably can be expected to perform or have performed and (B) which are necessary to keep any consumer product performing its intended function and operating at a reasonable level of performance.
+
+(10)  The term “remedy” means whichever of the following actions the warrantor elects:
+
+(A)  repair,
+
+(B)  replacement, or
+
+(C)  refund;
+except that the warrantor may not elect refund unless (i) the warrantor is unable to provide replacement and repair is not commercially practicable or cannot be timely made, or (ii) the consumer is willing to accept such refund.
+
+(11)  The term “replacement” means furnishing a new consumer product which is identical or reasonably equivalent to the warranted consumer product.
+(12)  The term “refund” means refunding the actual purchase price (less reasonable depreciation based on actual use where permitted by rules of the Commission).
+
+(13)  The term “distributed in commerce” means sold in commerce, introduced or delivered for introduction into commerce, or held for sale or distribution after introduction into commerce.
+
+(14)  The term “commerce” means trade, traffic, commerce, or transportation—
+
+(A)  between a place in a State and any place outside thereof, or
+(B)  which affects trade, traffic, commerce, or transportation described in subparagraph (A).
+
+(15)  The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+4. DISCLAIMERS AND DURATION LIMITS ON IMPLIED WARRANTIES
+[CITE AS: 15 U.S.C. § 2308]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s2308/
+Selection: Entire operative section, subsections (a)-(c).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Assess whether the supplier making the disclaimer also makes a written warranty or enters into the relevant service contract at sale or within 90 days. Do not assume a retailer makes a manufacturer's warranty merely because it sells the product. If the statutory trigger is unknown, state that applicability is uncertain. Subsection (b) allows a qualifying duration limitation; it does not authorize complete elimination of the implied warranty. Full warranties have the additional duration restriction in § 2304(a)(2). When (a) is not triggered, this reference does not establish whether an 'as is' clause is valid under State law.
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-DISCLAIMERS
+(a)  Restrictions on disclaimers or modifications
+
+No supplier may disclaim or modify (except as provided in subsection (b)) any implied warranty to a consumer with respect to such consumer product if (1) such supplier makes any written warranty to the consumer with respect to such consumer Product, or (2) at the time of sale, or within 90 days thereafter, such supplier enters into a service contract with the consumer which applies to such consumer product.
+(b)  Limitation on duration
+
+For purposes of this chapter (other than section 2304(a)(2) of this title), implied warranties may be limited in duration to the duration of a written warranty of reasonable duration, if such limitation is conscionable and is set forth in clear and unmistakable language and prominently displayed on the face of the warranty.
+
+(c)  Effectiveness of disclaimers, modifications, or limitations
+A disclaimer, modification, or limitation made in violation of this section shall be ineffective for purposes of this chapter and State law.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+5. NAMED-BRAND WARRANTY CONDITIONS AND SCOPE LIMITS
+[CITE AS: 15 U.S.C. § 2302(b)(2), (c), (e)]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s2302/
+Selection: Only subsection (b)(2), subsection (c), and subsection (e); other portions omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+The named-brand condition in (c) has exceptions for articles/services supplied without charge under the warranty and for an FTC waiver. Subsection (e) limits this section to products actually costing more than $5. Confirm the product price and the facts relevant to an exception. The section does not mean that every maintenance requirement is forbidden, nor does it automatically require a written warranty on every product. Missing product price or waiver information is not itself proof of a breach.
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-TIE-IN / excerpt 1
+(2)  Nothing in this chapter (other than paragraph (3) of this subsection) shall be deemed to authorize the Commission to prescribe the duration of written warranties given or to require that a consumer product or any of its components be warranted.
+END OFFICIAL STATUTORY TEXT
+
+[EDITORIAL OMISSION MARKER: intervening text not included; see Selection above.]
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-TIE-IN / excerpt 2
+(c)  Prohibition on conditions for written or implied warranty; waiver by Commission
+
+No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer’s using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
+(1)  the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
+
+(2)  the Commission finds that such a waiver is in the public interest.
+The Commission shall identify in the Federal Register, and permit public comment on, all applications for waiver of the prohibition of this subsection, and shall publish in the Federal Register its disposition of any such application, including the reasons therefor.
+END OFFICIAL STATUTORY TEXT
+
+[EDITORIAL OMISSION MARKER: intervening text not included; see Selection above.]
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-TIE-IN / excerpt 3
+(e)  Applicability to consumer products costing more than $5
+
+The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+6. FULL VERSUS LIMITED WRITTEN WARRANTIES
+[CITE AS: 15 U.S.C. § 2303]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s2303/
+Selection: Entire operative section, subsections (a)-(d).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Distinguish a full warranty from a limited warranty before applying § 2304. Preserve the exclusions and thresholds in (b)-(d); do not apply the titling rule indiscriminately to every B2C agreement. Missing warranty pages or product price may prevent a conclusion. This selection does not include the separate FTC warranty-disclosure and pre-sale-availability rules.
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-TITLE
+(a)  Full (statement of duration) or limited warranty
+
+Any warrantor warranting a consumer product by means of a written warranty shall clearly and conspicuously designate such warranty in the following manner, unless exempted from doing so by the Commission pursuant to subsection (c) of this section:
+(1)  If the written warranty meets the Federal minimum standards for warranty set forth in section 2304 of this title, then it shall be conspicuously designated a “full (statement of duration) warranty”.
+
+(2)  If the written warranty does not meet the Federal minimum standards for warranty set forth in section 2304 of this title, then it shall be conspicuously designated a “limited warranty”.
+
+(b)  Applicability of requirements, standards, etc., to representations or statements of customer satisfaction
+This section and sections 2302 and 2304 of this title shall not apply to statements or representations which are similar to expressions of general policy concerning customer satisfaction and which are not subject to any specific limitations.
+
+(c)  Exemptions by Commission
+In addition to exercising the authority pertaining to disclosure granted in section 2302 of this title, the Commission may by rule determine when a written warranty does not have to be designated either “full (statement of duration)” or “limited” in accordance with this section.
+
+(d)  Applicability to consumer products costing more than $10 and not designated as full warranties
+The provisions of subsections (a) and (c) of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $10 and which are not designated “full (statement of duration) warranties”.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+7. FEDERAL MINIMUM STANDARDS FOR FULL WARRANTIES
+[CITE AS: 15 U.S.C. § 2304]
+Official source: https://uscode.house.gov/us/usc/119-124/t15/s2304/
+Selection: Entire operative section, subsections (a)-(e).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Read with §§ 2301 and 2303. These are the full-warranty minimum standards; do not impose them wholesale on a limited warranty. Subsection (a)(4) concerns a defect after a reasonable number of repair attempts; it is not a general change-of-mind return right. Subsection (a)(3) permits a conspicuous consequential-damages exclusion under this federal standard, but does not resolve separate State-law validity. Preserve the reasonableness qualifications in (b) and the consumer-damage/unreasonable-use exception in (c). If the warranty status or defect history is missing, describe the missing facts rather than assuming a violation.
+
+BEGIN OFFICIAL STATUTORY TEXT — MMWA-FULL
+(a)  Remedies under written warranty; duration of implied warranty; exclusion or limitation on consequential damages for breach of written or implied warranty; election of refund or replacement
+
+In order for a warrantor warranting a consumer product by means of a written warranty to meet the Federal minimum standards for warranty—
+(1)  such warrantor must as a minimum remedy such consumer product within a reasonable time and without charge, in the case of a defect, malfunction, or failure to conform with such written warranty;
+
+(2)  notwithstanding section 2308(b) of this title, such warrantor may not impose any limitation on the duration of any implied warranty on the product;
+(3)  such warrantor may not exclude or limit consequential damages for breach of any written or implied warranty on such product, unless such exclusion or limitation conspicuously appears on the face of the warranty; and
+(4)  if the product (or a component part thereof) contains a defect or malfunction after a reasonable number of attempts by the warrantor to remedy defects or malfunctions in such product, such warrantor must permit the consumer to elect either a refund for, or replacement without charge of, such product or part (as the case may be).
+The Commission may by rule specify for purposes of this paragraph, what constitutes a reasonable number of attempts to remedy particular kinds of defects or malfunctions under different circumstances. If the warrantor replaces a component part of a consumer product, such replacement shall include installing the part in the product without charge.
+(b)  Duties and conditions imposed on consumer by warrantor
+(1)  In fulfilling the duties under subsection (a) respecting a written warranty, the warrantor shall not impose any duty other than notification upon any consumer as a condition of securing remedy of any consumer product which malfunctions, is defective, or does not conform to the written warranty, unless the warrantor has demonstrated in a rulemaking proceeding, or can demonstrate in an administrative or judicial enforcement proceeding (including private enforcement), or in an informal dispute settlement proceeding, that such a duty is reasonable.
+(2)  Notwithstanding paragraph (1), a warrantor may require, as a condition to replacement of, or refund for, any consumer product under subsection (a), that such consumer product shall be made available to the warrantor free and clear of liens and other encumbrances, except as otherwise provided by rule or order of the Commission in cases in which such a requirement would not be practicable.
+(3)  The Commission may, by rule define in detail the duties set forth in subsection (a) of this section and the applicability of such duties to warrantors of different categories of consumer products with “full (statement of duration)” warranties.
+
+(4)  The duties under subsection (a) extend from the warrantor to each person who is a consumer with respect to the consumer product.
+
+(c)  Waiver of standards
+The performance of the duties under subsection (a) shall not be required of the warrantor if he can show that the defect, malfunction, or failure of any warranted consumer product to conform with a written warranty, was caused by damage (not resulting from defect or malfunction) while in the possession of the consumer, or unreasonable use (including failure to provide reasonable and necessary maintenance).
+
+(d)  Remedy without charge
+For purposes of this section and of section 2302(c) of this title, the term “without charge” means that the warrantor may not assess the consumer for any costs the warrantor or his representatives incur in connection with the required remedy of a warranted consumer product.
+An obligation under subsection (a)(1)(A) to remedy without charge does not necessarily require the warrantor to compensate the consumer for incidental expenses; however, if any incidental expenses are incurred because the remedy is not made within a reasonable time or because the warrantor imposed an unreasonable duty upon the consumer as a condition of securing remedy, then the consumer shall be entitled to recover reasonable incidental expenses which are so incurred in any action against the warrantor.
+(e)  Incorporation of standards to products designated with full warranty for purposes of judicial actions
+
+If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under section 2310(d) of this title or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+8. FEDERAL ARBITRATION ACT: COMMERCE DEFINITION AND STATUTORY EXCLUSION
+[CITE AS: 9 U.S.C. § 1]
+Official source: https://uscode.house.gov/us/usc/119-124/t9/s1/
+Selection: Entire operative section.
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Scope provision for the following arbitration baseline. Employment is outside this B2C module. A reference to arbitration in a consumer contract does not establish that every condition for enforcement is satisfied.
+
+BEGIN OFFICIAL STATUTORY TEXT — FAA-SCOPE
+“Maritime transactions”, as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; “commerce”, as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+9. FEDERAL ARBITRATION ACT: BASELINE ENFORCEABILITY
+[CITE AS: 9 U.S.C. § 2]
+Official source: https://uscode.house.gov/us/usc/119-124/t9/s2/
+Selection: Entire operative section.
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+This is a general statutory baseline, not a complete enforceability test. It preserves grounds at law or equity for revoking any contract and the chapter 4 exception. It does not establish that every arbitration clause or class-action waiver is invalid, nor that every such clause must be enforced. Formation, notice/assent, generally applicable contract defenses, State-law limitations, federal preemption, delegation, and controlling judicial interpretation may be decisive. This file contains no comprehensive case-law treatment of those issues. An unusual venue, one-sided amendment power, fee shifting, or short claim deadline cannot be declared illegal solely by citing § 2; identify the need for the relevant additional authority and facts.
+
+BEGIN OFFICIAL STATUTORY TEXT — FAA-BASELINE
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+10. DEFINITIONS FOR THE SPECIFIC CHAPTER 4 ARBITRATION EXCEPTION
+[CITE AS: 9 U.S.C. § 401]
+Official source: https://uscode.house.gov/us/usc/119-124/t9/s401/
+Selection: Entire operative section, paragraphs (1)-(4).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Read with § 402 only when the relevant alleged conduct and dispute are present. Do not invent such a dispute merely because a contract contains a broad arbitration clause. The effective-date note accompanying this section states that the 2022 Act and amendments apply to disputes or claims arising or accruing on or after March 3, 2022.
+
+BEGIN OFFICIAL STATUTORY TEXT — FAA-CH4-DEFINITIONS
+In this chapter:
+
+(1)  Predispute arbitration agreement.—The term “predispute arbitration agreement” means any agreement to arbitrate a dispute that had not yet arisen at the time of the making of the agreement.
+(2)  Predispute joint-action waiver.—The term “predispute joint-action waiver” means an agreement, whether or not part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
+(3)  Sexual assault dispute.—The term “sexual assault dispute” means a dispute involving a nonconsensual sexual act or sexual contact, as such terms are defined in section 2246 of title 18 or similar applicable Tribal or State law, including when the victim lacks capacity to consent.
+
+(4)  Sexual harassment dispute.—The term “sexual harassment dispute” means a dispute relating to conduct that is alleged to constitute sexual harassment under applicable Federal, Tribal, or State law.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+11. SPECIFIC EXCEPTION FOR SEXUAL-ASSAULT OR SEXUAL-HARASSMENT DISPUTES
+[CITE AS: 9 U.S.C. § 402]
+Official source: https://uscode.house.gov/us/usc/119-124/t9/s402/
+Selection: Entire operative section, subsections (a)-(b).
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+The exception is at the election of the specified person or representative, concerns the specified case/dispute, and is subject to its effective date. It is not a universal ban on predispute arbitration or joint-action waivers in consumer contracts. A court determines the chapter's applicability, including despite a purported delegation clause. The official effective-date note links to the March 3, 2022 accrual rule under § 401.
+
+BEGIN OFFICIAL STATUTORY TEXT — FAA-CH4-EXCEPTION
+(a)  In General.—Notwithstanding any other provision of this title, at the election of the person alleging conduct constituting a sexual harassment dispute or sexual assault dispute, or the named representative of a class or in a collective action alleging such conduct, no predispute arbitration agreement or predispute joint-action waiver shall be valid or enforceable with respect to a case which is filed under Federal, Tribal, or State law and relates to the sexual assault dispute or the sexual harassment dispute.
+(b)  Determination of Applicability.—An issue as to whether this chapter applies with respect to a dispute shall be determined under Federal law.
+The applicability of this chapter to an agreement to arbitrate and the validity and enforceability of an agreement to which this chapter applies shall be determined by a court, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the contract containing such agreement, and irrespective of whether the agreement purports to delegate such determinations to an arbitrator.
+END OFFICIAL STATUTORY TEXT
+
+================================================================
+PART B — NEW JERSEY STATUTES
+
+================================================================
+B1. NEW JERSEY ARBITRATION ACT — SCOPE AND VALIDITY
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+These sections set out selected scope, validity and decision-making provisions of the New Jersey arbitration statute. Read the dates and scope in section 3 alongside the federal provisions. Section 6 recognizes agreements in a record subject to grounds for revocation of a contract; it does not resolve every formation or enforceability question. The supplied statutory text does not give a detailed test for required consumer waiver wording, notice, assent, arbitration costs or federal delegation/preemption issues. Do not derive a mandatory phrase or a conclusion about such an issue solely from this baseline; identify the missing authority and facts. Ordinary unclear or contradictory wording can still be described as a drafting concern.
+
+[CITE AS: N.J.S.A. 2A:23B-1]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 2A:23B-1)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 2A:23B-1
+2A:23B-1  Definitions relative to arbitration after 2002.
+
+	1.	Definitions. For the purposes of this act:
+
+	"Arbitration organization" means an association, agency, board, commission or other entity that is neutral and initiates, sponsors or administers an arbitration proceeding or is involved in the appointment of an arbitrator.
+
+	"Arbitrator" means an individual appointed either as a neutral arbitrator or as a party arbitrator to render an award, alone or with others, in a controversy that is subject to an agreement to arbitrate.
+
+	"Court" means the Superior Court of New Jersey.
+
+	"Court rules" means the Rules Governing the Courts of the State of New Jersey.
+
+	"Knowledge" means actual knowledge.
+
+	"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government; governmental subdivision, agency, or instrumentality; public corporation; or any other legal or commercial entity.
+
+	"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+	L.2003,c.95,s.1.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 2A:23B-3]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 2A:23B-3)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 2A:23B-3
+2A:23B-3  When act applies.
+
+	3.	When Act Applies.
+
+	a.	This act governs all agreements to arbitrate made on or after January 1, 2003 with the exception of an arbitration between an employer and a duly elected representative of employees under a collective bargaining agreement or collectively negotiated agreement.
+
+	b.	This act governs an agreement to arbitrate made before January 1, 2003 if all the parties to the agreement or to the arbitration proceeding so agree in a record with the exception of an arbitration between an employer and a duly elected representative of employees under a collective bargaining agreement or collectively negotiated agreement.
+
+	c.	On or after January 1, 2005, this act governs an agreement to arbitrate whenever made with the exception of an arbitration between an employer and a duly elected representative of employees under a collective bargaining agreement or collectively negotiated agreement.
+
+	d.	This act shall not apply to agreements to arbitrate made before July 4, 1923.
+
+	L.2003,c.95,s.3.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 2A:23B-6]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 2A:23B-6)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 2A:23B-6
+2A:23B-6  Validity of agreement to arbitrate.
+
+	6.	Validity of Agreement to Arbitrate.
+
+	a.	An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.
+
+	b.	The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate.
+
+	c.	An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.
+
+	d.	If a party to a judicial proceeding challenges the existence of, or claims that a controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders.
+
+	L.2003,c.95,s.6.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+================================================================
+B2. NEW JERSEY PLAIN LANGUAGE ACT
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Read the consumer-contract definition and dollar limitation before applying the Act. Section 10 sets out statutory guidelines considered in evaluating the contract as a whole; not every awkward sentence establishes a violation. Technical terminology is not by itself a violation. Section 11 expressly limits the effect of a violation on the contract's validity. Civil remedies, good-faith limitations and statutory-language exceptions have conditions in the sections reproduced below. The extracted text alone cannot establish actual type size or visual prominence. Sections 7, 8, 12 and 13 are not reproduced.
+
+[CITE AS: N.J.S.A. 56:12-1]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-1)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-1
+56:12-1  Definitions.
+ 
+ 	1.	As used in this act:
+
+	"Consumer contract" means a written agreement in which an individual:
+ 
+	a.	Leases or licenses real or personal property;
+ 
+	b.	Obtains credit;
+ 
+	c.	Obtains insurance coverage, except insurance coverage contained in policies subject to the "Life and Health Insurance Policy Language Simplification Act," P.L.1979, c.167 (C.17B:17-17 et seq.);
+ 
+	d.	Borrows money;
+ 
+	e.	Purchases real or personal property;
+ 
+	f.	Contracts for services including professional services;
+ 
+	g.	Enters into a service contract, as defined in section 1 of P.L.2013, c.197 (C.56:12-87), 
+
+for cash or on credit and the money, property or services are obtained for personal, family or household purposes.  "Consumer contract" includes writings required to complete the consumer transaction. "Consumer contract" does not include a written agreement involving a transaction in securities with a broker-dealer registered with the Securities and Exchange Commission, or a transaction in commodities with a futures commission merchant registered with the Commodity Futures Trading Commission.
+ 
+	L.1980, c.125, s.1; amended 1981, c.464, s.1 (s.11 amended 1982, c.88, s.6); 1982, c.195; 2013, c.197, s.11.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-2]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-2)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-2
+56:12-2.  Contracts to be written in simple, clear, understandable and easily readable way
+    A consumer contract entered into on or after the effective date of this amendatory and supplementary act shall be written in a simple, clear, understandable and easily readable way.  In determining whether a consumer contract has been written in a simple, clear, understandable and easily readable way as a whole, a court, the Attorney General or the Commissioner of Insurance, in regard to contracts of insurance provided for in subsection c. of  section 1 of this act (C. 56:12-1c.), shall take into consideration the guidelines set forth in section 10 of this act.  Use of technical terms or words of art shall not in and of itself be a violation of this act.
+
+     L.1980, c. 125, s. 2, eff. Oct. 16, 1980.  Amended by L.1981, c. 464, s. 2; L.1982, c. 88, s. 1, eff. July 23, 1982.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-3]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-3)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-3
+56:12-3.  Failure to comply;  liability
+    A creditor, seller, insurer or lessor who fails to comply with section 2 of  this act shall be liable to a consumer who is a party to the consumer contract  for actual damages sustained, if the violation caused the consumer to be  substantially confused about the rights, obligations or remedies of the contract, plus punitive damages in an amount up to $50.00. The creditor, seller, insurer or lessor shall also be liable for the consumer's reasonable attorney's fees and costs, not to exceed $2,500.00.
+
+     L.1980, c. 125, s. 3, eff. Oct. 16, 1980.  Amended by L.1981, c. 464, s. 3.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-4]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-4)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-4
+56:12-4.  Class actions;  limitation on punitive damages
+    Class actions may be brought under the provisions of this act, but the amount of punitive damages shall be limited to $10,000.00 against any one seller, lessor, insurer or creditor and the amount of attorney's fees may not exceed $10,000.00.
+
+     L.1980, c. 125, s. 4, eff. Oct. 16, 1980.  Amended by L.1981, c. 464, s. 4.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-4.1]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-4.1)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-4.1
+56:12-4.1.  Reform or limit of provision of consumer contract by court; findings
+    In addition to the remedies provided in this act, a court reviewing a consumer contract may reform or limit a provision so as to avoid an unfair result if it finds that:
+
+    a.  a material provision of the contract violates this act;
+
+     b.  the violation caused the consumer to be substantially confused about any  of the rights, obligations or remedies of the contract;  and
+
+     c.  the violation has caused or is likely to cause financial detriment to the consumer.
+
+     If the court reforms or limits a provision of a consumer contract, the court  shall also make orders necessary to avoid unjust enrichment. Bringing a claim  for relief pursuant to this section does not entitle a consumer to withhold  performance of an otherwise valid contractual obligation.  No relief shall be  granted pursuant to this section unless the claim is brought before the  obligations of the contract have been fully performed.
+
+     L.1981, c. 464, s. 9.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-5]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-5)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-5
+56:12-5.  Nonliability conditions
+    There shall be no liability under sections 3 and 4 if:  a. both parties to the contract have performed their obligations under the contract, b. the creditor, seller, insurer or lessor attempts in good faith to comply with this act in preparing the consumer contract, c. the contract is in conformity with a  rule, regulation, or the opinion or interpretation of the Attorney General or  the Commissioner of Insurance, in regard to contracts of insurance provided for  in subsection c. of section 1 of this act (C. 56:12-1c.), or d. the consumer  supplied the contract or the portion of the contract to which the consumer  objects.
+
+     L.1980, c. 125, s. 5, eff. Oct. 16, 1980.  Amended by L.1981, c. 464, s. 5; L.1982, c. 88, s. 2, eff. July 23, 1982.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-6]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-6)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-6
+56:12-6.  Use of specific language
+    The use of specific language in a consumer contract required, permitted or approved by a law, regulation, rule or published interpretation of a State or Federal agency shall not violate this act.
+
+     L.1980, c. 125, s. 6, eff. Oct. 16, 1980.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-9]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-9)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-9
+56:12-9.  Application to dollar limitation on consumer contracts; nonapplication to real estate or insurance contracts
+    This act shall not apply to consumer contracts involving amounts of more than $50,000.00, but no dollar limitation shall apply to consumer contracts involving real estate or insurance.
+
+     L.1980, c. 125, s. 9, eff. Oct. 16, 1980.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-10]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-10)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-10
+56:12-10.  Guidelines
+    a.  To insure that a consumer contract shall be simple, clear, understandable and easily readable, the following are examples of guidelines that a court, the Attorney General or the Commissioner of Insurance, in regard to contracts of insurance provided for in subsection c. of section 1 of this act (C. 56:12-1c.), may consider in determining whether a consumer contract as a whole complies with this act:
+
+    (1) Cross references that are confusing;
+
+     (2) Sentences that are of greater length than necessary;
+
+     (3) Sentences that contain double negatives and exceptions to exceptions;
+
+     (4) Sentences and sections that are in a confusing or illogical order;
+
+     (5) The use of words with obsolete meanings or words that differ in their legal meaning from their common ordinary meaning;
+
+     (6) Frequent use of Old English and Middle English words and Latin and French phrases.
+
+     b.  The following are examples of guidelines that a court, the Attorney General or the Commissioner of Insurance, in regard to contracts of insurance provided for in subsection c. of section 1 of this act (C. 56:12-1c.), may consider in determining whether the consumer contract as a whole complies with this act:
+
+     (1) Sections shall be logically divided and captioned;
+
+     (2) A table of contents or alphabetical index shall be used for all contracts with more than 3,000 words;
+
+     (3) Conditions and exceptions to the main promise of the agreement shall be  given equal prominence with the main promise, and shall be in at least 10 point  type.
+
+     L.1980, c. 125, s. 10, eff. Oct. 16, 1980.  Amended by L.1981, c. 464, s. 7; L.1982, c. 88, s. 4, eff. July 23, 1982.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-11]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-11)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-11
+56:12-11.  Waiver of rights under act;  effect of violation of act
+    No consumer contract shall contain a waiver of any rights under this act. A  violation of this act will not render any consumer contract void or voidable,  or serve as a defense in an action to enforce the consumer contract for breach  thereof.
+
+     L.1980, c. 125, s. 11, eff. Oct. 16, 1980.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+================================================================
+B3. TRUTH-IN-CONSUMER CONTRACT, WARRANTY AND NOTICE ACT (TCCWNA)
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+Section 15 concerns a provision that violates a clearly established legal right or responsibility at the relevant time. Identify that underlying right and its supplied authority; this is not a universal ban on unfavorable terms. Read the exclusions. Section 16 separately prohibits waiver of this Act's rights and addresses statements about provisions being invalid in some jurisdictions, with an express warranty exception to that latter rule. Section 17 provides remedies to an aggrieved consumer. Its text does not by itself establish whether a particular person meets that requirement; do not assume entitlement to a penalty or damages solely from an uploaded clause.
+
+[CITE AS: N.J.S.A. 56:12-15]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-15)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-15
+56:12-15.  Consumer contract, warranty, notice or sign;  violation of legal  right of consumer or responsibility of seller, lessor, etc.; prohibition;   exemptions
+    No seller, lessor, creditor, lender or bailee shall in the course of his business offer to any consumer or prospective consumer or enter into any written consumer contract or give or display any written consumer warranty, notice or sign after the effective date of this act which includes any provision that violates any clearly established legal right of a consumer or responsibility of a seller, lessor, creditor, lender or bailee as established by State or Federal law at the time the offer is made or the consumer contract is signed or the warranty, notice or sign is given or displayed.  Consumer means any individual who buys, leases, borrows, or bails any money, property or  service which is primarily for personal, family or household purposes. The  provisions of this act shall not apply to residential leases or to the sale of  real estate, whether improved or not, or to the construction of new homes  subject to  "The New Home Warranty and Builders' Registration Act," P.L.1977,  c. 467 (C. 46:3B-1 et seq.).
+
+     L.1981, c. 454, s. 2.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-16]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-16)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-16
+56:12-16.  Provision for waiver of rights under act;  nullity; statement of  provisions void, unenforceable or inapplicable in New Jersey
+    No consumer contract, warranty, notice or sign, as provided for in this act,  shall contain any provision by which the consumer waives his rights under this  act.  Any such provision shall be null and void.  No consumer contract, notice  or sign shall state that any of its provisions is or may be void, unenforceable  or inapplicable in some jurisdictions without specifying which provisions are  or are not void, unenforceable or inapplicable within the State of New Jersey;   provided, however, that this shall not apply to warranties.
+
+     L.1981, c. 454, s. 3.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-17]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-17)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-17
+56:12-17.  Violations;  civil liability to aggrieved consumer;  action; termination of contract
+    Any person who violates the provisions of this act shall be liable to the aggrieved consumer for a civil penalty of not less than $100.00 or for actual damages, or both at the election of the consumer, together with reasonable attorney's fees and court costs.  This may be recoverable by the consumer in a civil action in a court of competent jurisdiction or as part of a counterclaim by the consumer against the seller, lessor, creditor, lender or bailee or assignee of any of the aforesaid, who aggrieved him.  A consumer also shall have the right to petition the court to terminate a contract which violates the  provisions of section 2 of this act and the court in its discretion may void  the contract.
+
+     L.1981, c. 454, s. 4.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:12-18]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:12-18)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:12-18
+56:12-18.  Act as additional to other rights, remedies and prohibitions
+    The rights, remedies and prohibitions accorded by the provisions of this act  are hereby declared to be in addition to and cumulative of any other right,  remedy or prohibition accorded by common law, Federal law or statutes of this  State, and nothing contained herein shall be construed to deny, abrogate or  impair any such common law or statutory right, remedy or prohibition.
+
+     L.1981, c. 454, s. 5.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+================================================================
+B4. CONSUMER FRAUD ACT — DEFINITIONS, PROHIBITION AND PRIVATE REMEDIES
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+These are selected provisions, not the entire Consumer Fraud Act or its regulations. The general prohibition does not establish every sector-specific rule. Describe the actual deceptive, abusive or unconscionable practice supported by the evidence. The statute's knowing-omission language includes an intent requirement; do not infer that state of mind merely from an incomplete excerpt. Section 19 addresses ascertainable loss caused by an unlawful practice and remedies; the contract text alone does not prove loss or causation. Contract unfairness, non-enforceability, a statutory violation, and entitlement to damages are distinct conclusions.
+
+[CITE AS: N.J.S.A. 56:8-1]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-1)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-1
+56:8-1  Definitions.
+
+	1. (a) The term "advertisement" shall include the attempt directly or indirectly by publication, dissemination, solicitation, indorsement or circulation or in any other way to induce directly or indirectly any person to enter or not enter into any obligation or acquire any title or interest in any merchandise or to increase the consumption thereof or to make any loan;
+
+	(b)	The term "Attorney General" shall mean the Attorney General of the State of New Jersey or any person acting on his behalf;
+
+	(c)	The term "merchandise" shall include any objects, wares, goods, commodities, services or anything offered, directly or indirectly to the public for sale;
+
+	(d)	The term "person" as used in this act shall include any natural person or his legal representative, partnership, corporation, company, trust, business entity or association, and any agent, employee, salesman, partner, officer, director, member, stockholder, associate, trustee or cestuis que trustent thereof;
+
+	(e)	The term "sale" shall include any sale, rental or distribution, offer for sale, rental or distribution or attempt directly or indirectly to sell, rent or distribute;
+
+	(f)	The term "senior citizen" means a natural person 60 years of age or older.
+
+	L.1960,c.39,s.1; amended 1967, c.301, s.1; 1999, c.298, s.2.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-2]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-2)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-2
+56:8-2.  Fraud, etc., in connection with sale or advertisement of merchandise or real estate as unlawful practice.
+	2.	The act, use or employment by any person of any commercial practice that is unconscionable or abusive, deception, fraud, false pretense, false promise, misrepresentation, or the knowing, concealment, suppression, or omission of any material fact with intent that others rely upon such concealment, suppression or omission, in connection with the sale or advertisement of any merchandise or real estate, or with the subsequent performance of such person as aforesaid, whether or not any person has in fact been misled, deceived or damaged thereby, is declared to be an unlawful practice; provided, however, that nothing herein contained shall apply to the owner or publisher of newspapers, magazines, publications or printed matter wherein such advertisement appears, or to the owner or operator of a radio or television station which disseminates such advertisement when the owner, publisher, or operator has no knowledge of the intent, design or purpose of the advertiser.
+
+     L.1960, c. 39, p. 138, s. 2.  Amended by L.1967, c. 301, s. 2, eff. Feb. 15, 1968;  L.1971, c. 247, s. 1, eff. June 29, 1971;  L.1975, c. 294, s. 1, eff. Jan.  19, 1976; 2022, c.96, s.1.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-19]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-19)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-19
+56:8-19  Action, counterclaim by injured person; recovery of damages, costs.
+
+	7.	Any person who suffers any ascertainable loss of moneys or property, real or  personal, as a result of the use or employment by another person of any method,  act, or practice declared unlawful under this act or the act hereby amended and  supplemented may bring an action or assert a counterclaim therefor in any court  of competent jurisdiction.  In any action under this section the court shall,  in addition to any other appropriate legal or equitable relief, award threefold  the damages sustained by any person in interest.  In all actions under this section, including those brought by the Attorney General, the court shall also award reasonable attorneys' fees, filing fees and reasonable costs of suit.
+
+	L.1971,c.247,s.7;  amended 1997, c.359.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+================================================================
+B5. HEALTH CLUB SERVICES CONTRACTS — SELECTED CONSUMER PROTECTIONS
+
+EDITORIAL APPLICABILITY NOTE (NOT STATUTORY TEXT):
+These provisions concern defined health-club services, not all B2C services. Read section 47's exclusions and section 41(b)'s security exception. Section 42 includes written-contract/disclosure requirements, term limits, cancellation rights, renewal termination and ownership-transfer provisions. Section 42.1 defines its subscription service specifically as health-club services; do not apply it to every subscription. Assess a no-refund term against the particular applicable cancellation/refund provision, not an assumed unconditional refund right. Section 45(b) prohibits waiver of this Act's protections; it does not state a general rule on all negligence releases. General release doctrine and the implementing administrative rules are outside this selection.
+
+EDITORIAL AMENDMENT-DATE NOTE (NOT STATUTORY TEXT):
+P.L.2023, c.241 was approved January 8, 2024 and took effect on the first day of the third following month (April 1, 2024). It amended section 42 and added section 42.1.
+Source: https://pub.njleg.gov/Bills/2022/AL23/241_.HTM (section 3).
+P.L.2026, c.16 was approved June 30, 2026, took effect immediately, and applies to health-club services contracts entered into on or after that date. It added ownership-transfer provisions to section 42.
+Source: https://pub.njleg.gov/Bills/2026/AL26/16_.HTM (section 2).
+The text below is the compiled version in the identified edition, not a reconstruction of pre-amendment law. Check the applicable date before relying on an amended requirement. This selection does not include proposed bills as operative law.
+
+[CITE AS: N.J.S.A. 56:8-39]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-39)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-39
+56:8-39.     Definitions 
+    As used in this act: 
+
+   a.   "Director" means the Director of the Division of Consumer Affairs in the Department of Law and Public Safety. 
+
+   b.   "Health club" means an establishment which devotes or will devote 40% or more of its square footage to providing services or facilities for the preservation, maintenance, encouragement or development of physical fitness or physical well-being.  The term includes an establishment designated as "reducing salon," "health spa," "spa," "exercise gym," "health studio," "health club," or by other terms of similar import. 
+
+   c.   "Health club services" means those services offered by a health club for the preservation, maintenance, encouragement or development of physical fitness or physical well-being. 
+
+   d.   "Health club services contract" means an agreement under which the buyer of health club services purchases or becomes obligated to purchase health club services. 
+
+   e.   "Operating day" means any calendar day on which patrons may inspect and use the health club's facilities and services during a period of at least eight hours, except holidays and Sundays. 
+
+   L. 1987, c. 238, s. 1.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-40]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-40)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-40
+56:8-40.     Registration 
+    Each person who sells or offers for sale health club services in this State shall register with the director on forms the director provides.  The registration shall be renewed every two years.  Upon the sale of the health club facility or a change in the majority ownership of the stock of the corporate owner, the health club facility shall reregister with the director and shall pay the registration fee.  The person shall provide the full name and address of each business location where health club services are sold in the State as well as any other information regarding the ownership and operation of each health club that the director deems appropriate.  The registration and renewal fees shall be established or changed by the director and shall be fixed at a level to allow for the proper administration and enforcement of this act, but shall not be fixed at a level that will raise amounts in excess of the amount estimated to be so required. 
+
+   L. 1987, c. 238, s. 2.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-41]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-41)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-41
+56:8-41.     Security 
+    a.   A person who sells or offers for sale health club services shall, for each health club facility operated in the State, maintain a bond issued by a surety authorized to transact business in this State or maintain an irrevocable letter of credit by a bank or maintain with the director securities, moneys or other security acceptable to the director to fulfill the requirements of this subsection.  The principal sum of the bond, letter of credit, or securities, moneys or other security shall be 10% of the health club's gross income for health club services during the club's last fiscal year, except that the principal sum of the bond, letter of credit, or securities, moneys or other security shall not be less than $25,000.00, nor more than $50,000.00.  However, the principal sum of the bond, letter of credit, or securities, moneys or other security shall be $50,000.00 for any period of time that a person sells or offers for sale health club services prior to the opening of the health club facility.  After the health club facility opens, the bond, letter of credit, or securities, moneys or other security shall be adjusted to the appropriate sum.  The bond, letter of credit, or securities, moneys or other security shall be filed or deposited with the director and shall be executed to the State of New Jersey for the use of any person who, after entering into a health club services contract, is damaged or suffers any loss by reason of breach of contract or bankruptcy by the seller.  Any person claiming against the bond, letter of credit, or securities, moneys, or other security may maintain an action at law against the health club and the surety, bank or director, as the case may be.  The aggregate liability of the surety, bank, or the director to all persons for all breaches of the conditions of the bond, letter of credit, or the securities, moneys or other security held by the director shall not exceed the amount of the bond, letter of credit, or the securities, moneys or other security held by the director. 
+
+   In the case of a bond, the health club shall file a copy of the bond with the director and a certificate by the surety that the surety will notify the director at least 10 days in advance of the date of any cancellation or material change in the bond. 
+
+   b.   The provisions of subsection a. of this section shall not be applicable to a person who sells or offers for sale health club services in which the buyer of the health club services purchases or becomes obligated to purchase health club services to be rendered over a period no longer than three months and in which the seller of the health club services requires or collects no more than three months' payment in advance.  The person who sells or offers for sale health club services under contracts provided for in this subsection shall file with the director, within 30 days following the effective date of this act and no later than January 15 of every even-numbered year, a declaration, executed under penalty of perjury, stating he sells or offers for sale only health club services under contracts which comply with this subsection.  Any person who has filed a declaration pursuant to this subsection and who intends to sell or offer for sale health club services under contracts with longer terms or greater payments in advance than those provided in this subsection shall comply with subsection a. of this section. 
+
+   L. 1987, c. 238, s. 3.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-42]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-42)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-42
+56:8-42.     Health club services contract; definitions.
+	4.	a. Every contract for health club services shall be in writing.  A copy of the written contract shall be given to the buyer at the time the buyer signs the contract. 
+ 
+	b.	A health club services contract shall specifically set forth in a conspicuous manner on the first page of the contract the buyer's total payment obligation for health club services to be received pursuant to the contract. 
+ 
+	c.	A health club services contract of a health club facility which maintains a bond, irrevocable letter of credit or securities, moneys, or other security pursuant to subsection a. of section 3 of this act shall set forth that a bond, irrevocable letter of credit or securities, moneys, or other security is filed or deposited with the Director of the Division of Consumer Affairs to protect buyers of these contracts who are damaged or suffer any loss by reason of breach of contract or bankruptcy by the seller. 
+ 
+	d.	Services to be rendered to the buyer under the contract shall not obligate the buyer for more than three years from the date the contract is signed by the buyer. 
+ 
+	e.	A contract for new or increased health club services may be cancelled by the buyer for any reason at any time before midnight of the third operating day after the buyer receives a copy of the contract.  In order to cancel a contract, the buyer shall notify the health club of cancellation by telephone to the health club facility location where the contract was entered into or online, if the contract was entered into online; by regular, registered, or certified mail received within the three-day period, return receipt requested; or personal delivery to the address specified in the contract.  All moneys paid pursuant to the cancelled contract shall be fully refunded within 30 days of receipt of the notice of cancellation.  If the customer has executed any credit or loan agreement through the health club to pay all or part of health club services, the negotiable instrument executed by the buyer shall also be returned within 30 days.  The contract shall contain a conspicuous notice printed in at least 10-point bold-faced type as follows:
+ 
+			
+ 
+			 “NOTICE TO CUSTOMER”
+ 
+	You are entitled to a copy of this contract at the time you sign it. 
+ 
+	You may cancel this contract at any time before midnight of the third operating day after receiving a copy of this contract.  If you choose to cancel this contract, you must take any one of the following actions: 
+ 
+	1.	Send a signed and dated written notice of cancellation by regular, registered, or certified mail, return receipt requested;  
+ 
+	2.	Personally deliver a signed and dated written notice of cancellation to: ..................................... (Name of health club) ..................................... (Address of health club);
+ 
+	3.	Personally place a telephone call to the health club facility location where the agreement was initially entered into; or
+ 
+	4.	If you entered into the contract online, use either the direct link on the health club facility's Internet website, the user settings on your smartphone or tablet, or a termination email formatted and provided by the health club facility to cancel the contract online.
+ 
+	If you cancel this contract within the three-day period, you are entitled to a full refund of your money.  If the third operating day falls on a Sunday or holiday, notice is timely given if it is mailed or delivered as specified in this notice on the next operating day.  Refunds must be made within 30 days of receipt of the cancellation notice to the health club. 
+ 
+	'Operating day' means any calendar day on which patrons may inspect and use the health club's facilities and services during a period of at least eight hours, except holidays and Sundays."
+ 
+	f.	A health club services contract shall provide that it is subject to cancellation by telephone or written notice online, if the contract was entered into online; sent by regular, registered, or certified mail, return receipt requested; or personally delivered to the address of the health club specified in the contract upon the buyer's death or permanent disability, if the permanent disability is fully described and confirmed to the health club by a physician.  In a cancellation under this subsection, the health club may retain the portion of the total contract price representing the services used plus reimbursement for expenses incurred in an amount not to exceed 10% of the total contract price. 
+ 
+	g.	A health club services contract shall provide that it is subject to cancellation by telephone or written notice online if the contract was entered into online; sent by regular, registered, or certified mail, return receipt requested; or personally delivered to the address of the health club specified in the contract upon the buyer's change of permanent residence to a location more than 25 miles from the health club or an affiliated health club offering the same or similar services and facilities at no additional expense to the buyer.  In a cancellation under this subsection, the health club may require proof of the new permanent residence and may retain a prorated share of the total contract price based upon the date the notice was received plus reimbursement for expenses incurred in an amount not to exceed 10% of the total contract price.
+ 
+	h.	A health club services contract shall provide that if a health club facility is closed for a period longer than 30 days through no fault of the buyer of the health club services contract, the buyer is entitled to either extend the contract for a period equal to that during which the facility is closed or to receive a prorated refund of the amount paid by the buyer under the contract.
+ 
+	i.	A health club services contract shall not obligate the buyer to renew the contract. A buyer who entered into a health club services contract online shall be provided with the option to terminate the automatic renewal of the health club services contract online through a direct link or button on the health club facility's Internet website. The link or button shall be in a prominent location on the health club facility's Internet website and in clear and conspicuous text. 
+ 
+	j.	If a health club facility is not in existence on the date the contract is executed, the health club services contract shall provide that a buyer of a contract may cancel the contract if the facility is not open for business on a date which shall be set forth in the contract and receive a full refund of any deposit or payment on the contract.
+ 
+	k. (1) If a health club facility is to change ownership but the new ownership does not result in contract alterations regarding a decrease in service offerings or increase in price, but does result in a change in the name of the business, upon the ownership transfer, the facility shall notify, by mail or electronically and at least 60 days in advance, and again by mail or electronically and at least 30 days in advance, the buyer of a health club services contract: of a change in ownership of the health club facility; that membership rates and services remain the same; the business name of the facility under new ownership; the date billing under the new business entity begins; and a stipulation that the contract shall not be assigned to the new owner if the buyer of the contract denies, through written, electronic, or in-person communication, assignment of the contract to the new owners seven days before the date billing under the new entity begins in which to nullify the contract.  If the buyer of the contract allows the contract to be assigned to the new owners of the health club facility, the buyer shall have up to seven days before the date billing under the new entity begins in which to nullify the contract.  If any charges were made against the account of the buyer, including after a buyer requested nullification of a contract but not before the request was made, during the seven-day period before the date billing under the new business entity begins, the health club facility shall have up to 30 days from the receipt of the request for nullification to issue a refund of the charges.
+ 
+	 (2) If a health club facility is to change ownership and if new ownership results in contract alterations regarding a decrease in service offerings or an increase in membership rates upon ownership transfer, the facility shall notify, by mail or electronically and at least 60 days in advance, and again by mail or electronically and at least 30 days in advance, the buyer of a health club services contract: of a change in ownership; the change in services and, if applicable, the new membership rates and the date when the change in services and new rates take effect; the business name of the facility under new ownership; the date the billing under the new business entity begins; and that the contract shall be assigned to the new owner if the buyer of the contract consents to the transfer through written, electronic, or in-person communication to the health club facility within 30 days of the date of transfer.  If the consent is not received by the health club facility within 30 days before the transfer of ownership, the contract will be deemed cancelled.  The buyer of the contract shall have up to seven days before the date billing under the new entity begins in which to nullify the assignment of the contract.  If any charges were made against the account of the buyer during the seven-day period before the date billing under the new entity begins, including after a buyer requested cancellation of a contract but not before the request was made, the health club facility shall have up to 30 days from the receipt of the request for cancellation to issue a refund of the charges.
+ 
+	(3)	If a health club facility is to change ownership, the owner of the health club facility shall post a notice, at least 30 days in advance of the transfer in ownership and for 26 days after the transfer in ownership, in a prominent location in the facility with the following information:
+ 
+	(a) the name of the new business entity;
+ 
+	(b) the date billing under the new entity begins; and
+ 
+	(c) that the buyer of the contract may elect to decline or approve to have their contract assigned to the new owner for up to the applicable timeframe as set forth in paragraphs (1) and (2) of this subsection.	 
+ 
+	(4)  Paragraphs (1), (2), and (3) of this subsection shall only apply to transfers of ownership and shall not apply to facility closures.	
+ 
+	l.  If there is no change in ownership of a health club facility but the business entity that owns the facility is to change, the facility shall give notice to buyers of a contract with the facility 30 days prior to the change in business entity.	
+ 
+	m.	As used in this section:
+ 
+	“Automatic renewal” means a plan or arrangement in which a health club services contract is automatically renewed at the end of a definite term for a subsequent term.
+ 
+	 “Change in ownership” means a change in the ownership of a health club facility upon completion of a transaction that results in the sale, transfer, assignment, or other disposition of: 1) all or substantially all of the assets of a health club facility; or 2) 51 percent or more of the outstanding equity of a health club facility, whether in memberships, shares of capital stock, or other ownership interests.
+ 
+	“Clear and conspicuous” means in larger type than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same size, or set off from the surrounding text of the same size by symbols or other marks, in a manner that clearly calls attention to the language.
+
+   L. 1987, c. 238, s. 4; amended 2023, c.241, s.2; 2026, c.16.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-42.1]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-42.1)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-42.1
+56:8-42.1  Subscription service provider, health club services, online termination; definitions.
+	1. a. A subscription service provider selling subscription services online shall provide a consumer with an online option to initiate the termination of the subscription service entered into online in accordance with the established billing terms and conditions of the agreement.  The subscription service provider or a person administering the subscription service shall provide to any eligible consumer, in an easily accessible location, a direct link or button on the subscription service provider's Internet website through which a consumer can initiate termination of the automatic renewal of the subscription service.  The direct link or button shall be in a prominent location immediately accessible through:
+ 
+	(1) a customer account or profile on the subscription service provider's internet website, or the user settings on a consumer's smartphone or tablet; or 
+ 
+	(2) a termination email formatted and provided by the subscription service provider that a consumer can email to the subscription service provider without being required to provide any additional information.
+ 
+	b.	As used in this section:
+ 
+	"Automatic renewal" means a plan or arrangement in which a paid subscription service is automatically renewed at the end of a definite term for a subsequent term.
+ 
+	"Clear and conspicuous" means in larger type than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same size, or set off from the surrounding text of the same size by symbols or other marks, in a manner that clearly calls attention to the language.
+ 
+	"Consumer" means a resident of this State to whom a subscription service is sold online.
+ 
+	"Subscription service provider" means a person who sells a subscription service to a consumer online.
+ 
+	"Subscription service" means health club services provided on a subscription basis in exchange for a reoccurring payment, including, but not limited to, a weekly, monthly, or annual payment charged to and made by a consumer.
+ 
+	c.	It shall be an unlawful practice and a violation of P.L.1960, c.39 (C.56:8-1 et seq.) for any person to violate the provisions of this section.
+ 
+L.2023, c.241, s.1.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-43]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-43)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-43
+56:8-43.     Right of action 
+    a.   A health club services contract shall not require the execution of any note or series of notes by the buyer which, if separately negotiated, will cut off as to third parties any right of action or defense which the buyer has against the health club. 
+
+   b.   A right of action or defense arising out of a health club services contract which the buyer has against the health club shall not be cut off by assignment of the contract whether or not the assignee acquires the contract in good faith and for value. 
+
+   L. 1987, c. 238, s. 5.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-44]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-44)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-44
+56:8-44.     25% limit 
+    A health club may not charge and accept a down payment exceeding 25% of the total contract price prior to opening the health club facility. 
+
+   L. 1987, c. 238, s. 6.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-45]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-45)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-45
+56:8-45.     Contracts voidable 
+    a.   Any health club services contract entered into in reliance upon any fraudulent or substantially and willfully false or misleading information, representation, notice or advertisement of the health club is voidable at the option of the buyer of the contract.  Any health club services contract which does not comply with the applicable provisions of this act is voidable at the option of the buyer of the contract. 
+
+   b.   Any waiver by the buyer of the provisions of this act is void. 
+
+   L. 1987, c. 238, s. 7.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-46]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-46)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-46
+56:8-46.     Violation 
+    It is an unlawful practice and a violation of P.L. 1960, c. 39 (C. 56:8-1 et seq.) to violate the provisions of this act. 
+
+   L. 1987, c. 238, s. 8.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+[CITE AS: N.J.S.A. 56:8-47]
+Official source: https://pub.njleg.gov/statutes/STATUTES-TEXT.zip (STATUTES.TXT; section 56:8-47)
+Selection: Complete compiled section, including the source's amendment-history line.
+
+BEGIN OFFICIAL NEW JERSEY STATUTORY TEXT — 56:8-47
+56:8-47.     Nonapplicability 
+    The provisions of this act shall not apply to any nonprofit public or private school, college or university; the State or any of its political subdivisions; or any bona fide nonprofit, religious, ethnic, or community organization. 
+
+   L. 1987, c. 238, s. 9.
+END OFFICIAL NEW JERSEY STATUTORY TEXT
+
+PART C - SELECTED HEALTH-CLUB AND CABLE-TV REGULATIONS
+
+EDITORIAL SOURCE AND APPLICABILITY NOTES (NOT REGULATORY TEXT):
+These are general rules, not findings about any particular contract or lawsuit. The selection does not supply a complete regulatory code. Health-club text comes from the DCA compilation dated June 20, 2022. Its older wording must be read alongside the later health-club statutes already in Part B5; do not use it to remove a method of cancellation permitted by the applicable statute. The older posted-cancellation notice in 13:45A-25.2(h)-(i) is deliberately not reproduced here.
+
+Cable selections use the State Library code archives and the adopted 2014 amendments, checked against the BPU's 2022 chapter readoption and a current reproduction of the selected rules. The BPU index lists the chapter's expiration as March 9, 2029. The April 2026 cable/telecom rulemaking shown as a proposal on that index is not treated here as an adopted rule. These source editions are recorded, not a certification that the full regulatory framework is current or complete. Check the version and applicability for the transaction under review.
+
+Missing evidence of a refund, notice, registration or other act outside the agreement is not proof that the act did not occur. A duty to provide a notice elsewhere is not automatically a duty to repeat it in the uploaded contract. For cable services, separate the TV component from other bundled products. This selection does not resolve federal preemption disputes, every prorated cancellation-charge question or all sector-specific notices. Preserve uncertainty where the necessary authority or facts are missing.
+
+C1. HEALTH-CLUB SERVICES
+
+================================================================
+[CITE AS: N.J.A.C. 13:45A-25.1]
+Official source: https://www.njconsumeraffairs.gov/regulations/Chapter-45-Subchapter-25-Sellers-of-Health-Club-Services.pdf (DCA compilation dated June 20, 2022)
+Selection: Complete rule, including exclusions.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+Read with the statutory definitions and exclusions in Part B5. A facility is not covered merely because its activities involve exercise.
+
+BEGIN REGULATORY TEXT
+a) The term “health club” shall include any establishment which:
+
+1) Devotes at least 40 percent of its facility to the preservation, maintenance, encouragement or basic development of physical fitness or physical well-being through physical exercise; and
+
+2) Where patron use is predominantly at will (that is, usage is permitted whenever the establishment is open or during specified time periods, such as “weekends”, “weekdays”, “mornings”, etc.).
+
+b) The term “health club” shall not include a single focus establishment/facility that is devoted to the development of one particular physical skill, or activity or enjoyment of one specific sport. The following facilities are not subject to the Act Regulating Sellers of Health Club Services, P.L. 1987, c. 238 (“Act”):
+
+1) Basic aerobic and “dance exercise” centers operating on a scheduled lesson or hourly basis;
+
+2) Children’s gyms (commercial play-spaces with trampolines and other gymnastic equipment) operating on a scheduled lesson or hourly basis;
+
+3) Martial arts schools (for example, karate institutes);
+
+4) Dancing schools (for example, ballet and jazz);
+
+5) Gymnastic schools operating on a scheduled lesson or hourly basis;
+
+6) Tanning salons (“sun studios”);
+
+7) Weight control centers;
+
+8) Metabolic and nutrition centers;
+
+9) Other single sport centers (for example, swim clubs, tennis clubs and racquetball clubs).
+
+c) Health club facilities located in hotels, motels, condominiums, cooperatives, corporate offices or other business facilities and which charge fees comparable to other for-profit health clubs are subject to the Act unless usage is limited to guests, residents or employees at no charge or at nominal cost, in which event the facilities are not within the scope of the Act.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 13:45A-25.2(d)]
+Official source: https://www.njconsumeraffairs.gov/regulations/Chapter-45-Subchapter-25-Sellers-of-Health-Club-Services.pdf (DCA compilation dated June 20, 2022)
+Selection: Subsection (d) only; other registration, fee, posting and website-notice provisions omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+The supplied subsection requires the registration number in the contract. Extracted text alone cannot verify its position on the page.
+
+BEGIN REGULATORY TEXT
+d) Each contract for health club services shall contain, in the upper right-hand corner, the facility’s Certificate of Registration number.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 13:45A-25.4]
+Official source: https://www.njconsumeraffairs.gov/regulations/Chapter-45-Subchapter-25-Sellers-of-Health-Club-Services.pdf (DCA compilation dated June 20, 2022)
+Selection: Complete rule.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+This is an exemption from the security requirement, not an exemption from every health-club obligation. Check the applicable contract term, billing arrangement, closure term and declaration; absence of bonding information in an excerpt alone does not establish a violation.
+
+BEGIN REGULATORY TEXT
+A separate Declaration of Exemption from Security Requirement shall be filed for each facility claiming exemption from the bond/letter of credit/security requirement of N.J.S.A. 56:8-41 because its membership contracts are for a period of no longer than three months. An exemption from the security requirement shall also be available to a health club that sells contracts for more than three months if it charges a fee for only one month at a time and the contract states that it is voidable by the consumer if the health club closes for more than 30 consecutive days. When the Declaration of Exemption from Security Requirement is filed, it must be accompanied by a copy of a written contract as proof that the contract duration is for a period of no longer than three months. The Declaration of Exemption from Security Requirement shall be available upon request from the Health Club Coordinator, Office of Consumer Protection, Post Office Box 45025, Newark, NJ 07101.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 13:45A-25.6]
+Official source: https://www.njconsumeraffairs.gov/regulations/Chapter-45-Subchapter-25-Sellers-of-Health-Club-Services.pdf (DCA compilation dated June 20, 2022)
+Selection: Complete rule, including the defined terms and the closure exception.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+Read with N.J.S.A. 56:8-42(g)-(h), including the later statutory amendments in Part B5. This rule describes a limited affiliated-club arrangement following relocation; it does not permit an arbitrary replacement facility or extra expense. Do not read its older "sent or delivered" language as eliminating the telephone or online notice methods in the applicable amended statute. If the provisions cannot be reconciled on the supplied facts, identify the issue for legal review rather than narrowing a statutory right.
+
+BEGIN REGULATORY TEXT
+a) For the purpose of this section, the following words and terms shall have the following meanings, unless the context clearly indicates otherwise:
+
+“Affiliated health club” means a health club located within 25 miles of a member’s new permanent residence that will provide the same or similar services and facilities to the member as the originating health club.
+
+“Member” means a buyer of a health club services contract from the originating health club.
+
+“Originating health club” means the health club that is party to a contract sought to be cancelled.
+
+“Originating health club’s facility” means the facility identified in the contract between a member and the originating health club by name and street address as the health club that the member joined.
+
+b) A health club services contract subject to cancellation pursuant to N.J.S.A. 56:8-42g shall not be cancelled if, after receipt of a notice of cancellation from a member, which notice shall be sent or delivered to the originating health club’s facility, the originating health club reaffirms the contract in writing to the member guarantying that there is an affiliated health club or clubs that will provide to that member the use of the same or similar services and facilities as the originating health club at no additional expense for the remaining term of the contract, giving the name and address of the affiliated club or clubs. This subsection is not applicable if the originating health club closes for a period longer than 30 consecutive days.
+
+c) If, during the remaining term of a health club services contract that is subject to cancellation but for (b) above, the services and facilities contracted for become unavailable from the affiliated health club without additional expense and the originating health club receives notice from the member to that effect, the originating health club shall refund to the member, within 30 days of receipt of notice, the pro rata portion of the contract price paid to the originating health club that relates to the portion of the contract term for which the services and facilities are unavailable and the member shall have no further obligation under the contract.
+
+d) The obligation to make the refund provided for in (c) above, is an obligation of the originating health club under the health club services contract secured by any bond or other security it maintains under N.J.S.A. 56:8-41.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 13:45A-25.7]
+Official source: https://www.njconsumeraffairs.gov/regulations/Chapter-45-Subchapter-25-Sellers-of-Health-Club-Services.pdf (DCA compilation dated June 20, 2022)
+Selection: Complete rule.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+An enforcement/sanctions provision does not by itself establish that every element of a private damages claim is met. Read the separate requirements of N.J.S.A. 56:8-19.
+
+BEGIN REGULATORY TEXT
+Without limiting the prosecution of any other practices which may be unlawful under the Consumer Fraud Act, N.J.S.A. 56:8-1 et seq., any violation of the provisions of this subchapter shall be subject to the sanctions contained in the Consumer Fraud Act.
+END REGULATORY TEXT
+
+
+C2. NEW JERSEY CABLE-TELEVISION CONSUMER RULES
+
+================================================================
+[CITE AS: N.J.A.C. 14:18-1.1]
+Official source: https://dspace.njstatelib.org/server/api/core/bitstreams/119d8706-fca9-4dc0-8e80-58c9f4013f4a/content (NJ State Library code archive); https://www.nj.gov/bpu/pdf/rules/R2014d158_46NJR2165a.pdf (2014 adopted amendments); chapter readoption: https://www.nj.gov/bpu/agenda/rules/ (2022 readoption, 54 N.J.R. 630(a))
+Selection: Complete rule; annotations omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+The supplied cable rules concern cable television. In a bundled agreement, identify the affected service and equipment. Do not automatically apply these rules to broadband Internet, voice, mobile, home-security or unrelated services.
+
+BEGIN REGULATORY TEXT
+(a) These regulations are promulgated in accordance with the authority provided the Office of Cable Television, Board of Public Utilities, under N.J.S.A. 48:5A-1 et seq. to regulate cable television corporations in the public interest.
+
+(b) The purpose and intent of these regulations is to enforce the statutory mandate of the Legislature, which directs the Office of Cable Television, Board of Public Utilities, to promulgate rules and regulations necessary to effect the purposes of the act.
+
+(c) These regulations apply to:
+
+1. Cable television companies which own, control, operate or manage a cable television system;
+
+2. Municipalities, cities and counties where applicable.
+
+(d) These regulations do not limit the duties now imposed upon these companies but merely serve to define such duties and to establish standards for their performance.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 14:18-1.2]
+Official source: https://dspace.njstatelib.org/server/api/core/bitstreams/119d8706-fca9-4dc0-8e80-58c9f4013f4a/content (NJ State Library code archive); https://www.nj.gov/bpu/pdf/rules/R2014d158_46NJR2165a.pdf (2014 adopted amendments); chapter readoption: https://www.nj.gov/bpu/agenda/rules/ (2022 readoption, 54 N.J.R. 630(a))
+Selection: Selected complete definitions only: Board; cable television company/operator; cable television service; cable television system (all six exclusions and concluding facility limitation); customer; distribution plant; Office; outage. Other definitions omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+Use these definitions for the selected New Jersey cable rules. Internet protocol as a delivery technology within the cable-system definition does not make every Internet access service cable television. The distinct defined outage and other loss of service in 14:18-3.5(d) must not be collapsed into one test.
+
+BEGIN REGULATORY TEXT
+The following words and terms, when used in this chapter, shall have the following meanings unless the context clearly indicates otherwise:
+
+"Board" means the Board of Public Utilities, as defined by N.J.S.A. 48:1-1 et seq.
+
+"Cable television company or cable television operator" means any person or group of persons who provides cable television service over a cable television system and directly or through one or more affiliates owns a significant interest in such cable television system, or who otherwise controls or is responsible for, through any arrangement, the management and operation of such a cable system.
+
+"Cable television service" means (1) the one-way transmission to subscribers of video programming or other programming service; and (2) subscriber interaction, if any, which is required for the selection or use of such video programming or other programming service, regardless of the technology utilized by a cable television company to enable such selection or use.
+
+"Cable television system" means a facility, consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment, that is designed to provide cable television service, which includes video programming, without regard to the technology used to deliver such video programming, including Internet protocol technology or any successor technology, and which is provided to multiple customers within a community, but such term does not include:
+
+1. A facility that serves only to retransmit the television signals of one or more television broadcast stations;
+
+2. A facility that serves customers without using any public right-of-way;
+
+3. A facility of a common carrier, which is subject, in whole or in part, to regulation by the Board pursuant to Title 48 of the Revised Statutes, except that such facility shall be considered a cable television system to the extent such facility is used in the transmission of video programming directly to customers, unless the extent of such use is solely to provide interactive on-demand services;
+
+4. An open video system that has been certified by the Federal Communications Commission as being in compliance with the provisions of Part 76, "Multichannel Video and Cable Television Service," of Title 47 of the Code of Federal Regulations;
+
+5. Any facilities of any electric public utility used solely for operating its electric utility systems; or
+
+6. A facility of an electric public utility, which is subject, in whole or in part, to regulation by the Board pursuant to Title 48 of the Revised Statutes, except that such facility shall be considered a cable television system solely to the extent that such facility is used in the transmission of video programming directly to the customers.
+
+The term "facility" as used in this section is limited to the optical spectrum wavelengths, bandwidth, or other current or future technological capacity used for the transmission of video programming directly to customers.
+
+"Customer" means any individual, partnership, firm, corporation, government subdivision or agency receiving service from a cable television company.
+
+"Distribution plant" is the hardware, wires, electronics, equipment and other instrumentalities which deliver cable television service to the drop line feeding an individual customer's home.
+
+"Office" means the Office of Cable Television established by N.J.S.A. 48:5A-1 et seq.
+
+"Outage" means the total loss of audio or visual portion of any level of cable television service for which the cable television company imposes a separate charge and which affects the cable television company's distribution plant.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 14:18-3.5]
+Official source: https://dspace.njstatelib.org/server/api/core/bitstreams/119d8706-fca9-4dc0-8e80-58c9f4013f4a/content (NJ State Library code archive); https://www.nj.gov/bpu/pdf/rules/R2014d158_46NJR2165a.pdf (2014 adopted amendments); chapter readoption: https://www.nj.gov/bpu/agenda/rules/ (2022 readoption, 54 N.J.R. 630(a))
+Selection: Complete rule as amended effective November 3, 2014; preserved by the 2022 chapter readoption. Annotations omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+Keep the six-hour threshold, notice requirement, beyond-reasonable-control conditions, possible Board waiver and separate 24-hour non-outage provision together. The authority permits specified limitations on indirect/consequential damages; such a limitation is not automatically invalid. An alternative compensation offer is not compulsory acceptance. The promotional-service opt-in in (a)8 concerns compensation for an outage, not every promotion. The cross-referenced complaint procedure is not reproduced here.
+
+BEGIN REGULATORY TEXT
+(a) The cable television operator shall credit customers for outages as follows:
+
+1. In the event of an outage lasting six or more hours, the cable television company shall make an appropriate credit on the customer's bill.
+
+2. The amount of credit shall be in one-day units, prorated on the basis of the customer's monthly rate for each service not available.
+
+3. For outages, which extend more than 24 hours, customers shall receive a credit for each calendar day or part thereof if greater than six hours, during which service is out.
+
+4. The cable television company shall not be liable to a customer for any indirect or consequential damages resulting from the outage unless the cable television company expressly agrees to such liability.
+
+5. In order to obtain a credit, customers must notify the cable television company by phone or in writing within 30 days of any such outage, or else within 30 days notify the Office or other designated complaint officer. A customer who contacts the cable television company during an outage requesting a credit shall be entitled to receive credit for service based on that contact, if applicable.
+
+6. A cable television company may, at its option, provide a customer with a rebate rather than a credit on the customer's bill to fulfill the requirements of this subsection.
+
+7. In lieu of credit or rebate, a cable television company may offer to provide a customer an alternate form of compensation for the outage. Nothing in this paragraph shall require a customer to accept an alternate form of compensation from the cable television company.
+
+8. A customer that agrees to take a free promotional service in lieu of credit or rebate must affirmatively request to continue the promotion after the free period is over. No cable television company shall continue to charge a customer for a free promotional service provided in lieu of an outage credit or rebate after the promotional period is over, unless the customer requests that it be continued.
+
+(b) A cable television company shall not be required to provide a credit or rebate under (a) above if:
+
+1. The cable television company can demonstrate that restoration of service was not possible within the six-hour period due to factors beyond the reasonable control of their company; and
+
+2. If service is restored within six hours after the restoration of service becomes possible.
+
+(c) Any cable television company may petition the Board for a waiver of providing credit required by (a) above in the event it can clearly demonstrate that such credits would create an undue hardship on the cable television company.
+
+(d) In instances where a customer is without cable television service for at least 24 hours, and the loss of the service is not the result of an outage, the cable television company shall credit or rebate, at the cable television company's option, the customer for one day unit for each 24-hour period in which the customer was without service. No cable television company shall be required to provide a customer with a rebate or credit if the loss of service was caused by an act on the part of the customer requesting such a credit or rebate.
+
+(e) Intermittent or cumulative service interruptions and other service related complaints are to be analyzed in accordance with the complaint procedure pursuant to N.J.A.C. 14:17-6.5.
+
+(f) Each cable television company shall quarterly inform its customers of the procedures by which a customer may obtain a credit.
+
+1. If a cable television company provides information in an electronic format on its Internet website in a manner that reasonably conveys the content of the periodic written outage credit notices, and which allows its customers to make informed decisions concerning compensation for service outages, it shall not be required to provide quarterly outage credit notice to customers.
+
+2. A cable television company that provides electronic notice on its Internet website shall offer each existing and every new customer the option to receive periodic outage credit notices in written form on at least an annual basis.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 14:18-3.23]
+Official source: https://dspace.njstatelib.org/server/api/core/bitstreams/fb79d8e1-b6e8-4192-a0f1-0b7a0aafea6d/content (NJ State Library code archive, page 18-17 through 18-18); chapter readoption: https://www.nj.gov/bpu/agenda/rules/
+Selection: Complete rule; annotations omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+Distinguish lost/stolen equipment from damaged equipment, and normal wear from customer-caused damage. Preserve the allowed shipping/handling costs and notice requirements. These provisions do not establish a universal right to keep unreturned equipment without paying.
+
+BEGIN REGULATORY TEXT
+(a) The cost charged to customers by cable television operators to replace lost or stolen converters or other auxiliary equipment shall be in an amount not to exceed the cable television operator's current replacement cost of the equipment.
+
+(b) The cost charged to customers by cable television operators for damaged equipment shall not exceed the reasonable repair costs or actual replacement cost, whichever is lesser.
+
+(c) A cable television company shall not charge a customer for any damage to converters or other auxiliary equipment which may have resulted from the design, operation or maintenance of the equipment or from normal wear and tear.
+
+(d) In the event the cable television company seeks to impose a charge for a customer pursuant to this section, the cable television company shall give written notice to the customer of the amount sought and the reasons for the charge. The customer shall also be notified of the opportunity to refer the matter to the Office of Cable Television or the appropriate complaint officer pursuant to N.J.S.A. 48:5A-26.
+
+(e) Cable television operators shall provide written notification to all new customers and customers receiving new or additional equipment of the rights and obligations of this section.
+
+(f) The cable television operator's replacement cost may include normal postage, shipping and handling costs.
+END REGULATORY TEXT
+
+================================================================
+[CITE AS: N.J.A.C. 14:18-3.25]
+Official source: https://dspace.njstatelib.org/server/api/core/bitstreams/fb79d8e1-b6e8-4192-a0f1-0b7a0aafea6d/content (NJ State Library code archive, page 18-18); chapter readoption: https://www.nj.gov/bpu/agenda/rules/
+Selection: Complete rule; annotations omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+This sets timing when a refund or credit is due; it does not independently create a refund for every cancellation. Preserve the equipment-return alternative when service ends. Do not invent a duty to include these timing rules verbatim in every contract.
+
+BEGIN REGULATORY TEXT
+(a) Where a customer is due a refund, refund checks shall be issued promptly, but no later than either:
+
+1. The customer's next billing cycle following the resolution of the issue giving cause for the rebate, or 30 days whichever is earlier; or
+
+2. The return of the equipment supplied by the cable television operator if service is terminated.
+
+(b) Credits for service shall be issued no later than the customer's next billing cycle following the determination that a credit is warranted.
+END REGULATORY TEXT
+
+
+C3. FEDERAL CABLE CUSTOMER-SERVICE REFUNDS AND CREDITS
+
+================================================================
+[CITE AS: 47 C.F.R. § 76.309]
+Official source: https://www.ecfr.gov/current/title-47/chapter-I/subchapter-C/part-76/subpart-H/section-76.309 (eCFR Title 47 displayed as current through October 28, 2026)
+Selection: Subsections (a), (b), the introductory sentence of (c), and (c)(3) only. Subsections (c)(1), (c)(2), (c)(4), the cross-reference note and amendment history omitted.
+
+EDITORIAL APPLICABILITY NOTE (NOT REGULATORY TEXT):
+These are cable-operator customer-service standards. The 90-day notice in (a) is a franchise authority notice to the operator before enforcement, not a subscriber cancellation period. Preserve the State/local protections in (b), the refund conditions, the equipment-return alternative and the credit timing. This selection does not cover all federal cable notice, billing, rate-change or service rules.
+
+BEGIN REGULATORY TEXT
+(a) A cable franchise authority may enforce the customer service standards set forth in paragraph (c) of this section against cable operators. The franchise authority must provide affected cable operators ninety (90) days written notice of its intent to enforce the standards.
+
+(b) Nothing in this rule should be construed to prevent or prohibit:
+
+(1) A franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards set forth in paragraph (c) of this section;
+
+(2) A franchising authority from enforcing, through the end of the franchise term, pre-existing customer service requirements that exceed the standards set forth in paragraph (c) of this section and are contained in current franchise agreements;
+
+(3) Any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not specifically preempted herein; or
+
+(4) The establishment or enforcement of any State or municipal law or regulation concerning customer service that imposes customer service requirements that exceed, or address matters not addressed by the standards set forth in paragraph (c) of this section.
+
+(c) Cable operators are subject to the following customer service standards:
+END REGULATORY TEXT
+
+[EDITORIAL OMISSION MARKER: (c)(1)-(2) not supplied.]
+
+BEGIN REGULATORY TEXT
+(3) Communications between cable operators and cable subscribers —
+
+(i) Refunds —Refund checks will be issued promptly, but no later than either—
+
+(A) The customer's next billing cycle following resolution of the request or thirty (30) days, whichever is earlier, or
+
+(B) The return of the equipment supplied by the cable operator if service is terminated.
+
+(ii) Credits —Credits for service will be issued no later than the customer's next billing cycle following the determination that a credit is warranted.
+END REGULATORY TEXT
+

@@ -22,14 +22,25 @@ def clause_comparison(
     client = openai.OpenAI(api_key=api_key, base_url=api_base)
 
     def call_llm(prompt: str) -> str:
+        debug_prompts = os.environ.get("DEBUG_PROMPTS") == "1"
+
+        if debug_prompts:
+            print("\n========== FULL PROMPT ==========", flush=True)
+            print(prompt, flush=True)
+            
         response = client.chat.completions.create(
             model=model,
             messages=[{"role": role, "content": prompt}],
-            temperature=temperature,
-            top_p=top_p,
-            max_tokens=max_tokens,
+            max_completion_tokens=25000,
         )
-        return response.choices[0].message.content
+
+        result = response.choices[0].message.content
+
+        if debug_prompts:
+            print("\n========== MODEL RESPONSE ==========", flush=True)
+            print(result, flush=True)
+
+        return result
 
     def law_comparison(contract: str, laws: str) -> str:
         prompt = f"""

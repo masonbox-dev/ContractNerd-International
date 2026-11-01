@@ -1,0 +1,100 @@
+CALIFORNIA BUSINESS-TO-CONSUMER CONTRACT RISK GUIDANCE
+Draft v0.1 - 2026-11-01
+
+Companion reference: Data/Regulations/B2C/California/regulations.txt, draft v0.1.
+This is editorial classification guidance, not legislation or an additional source of legal duties. It contains no named-case findings, test-contract clauses or expected evaluation answers. Risk tiers are project categories, not categories assigned by statutes.
+
+Use the first-stage analysis as the legal and factual basis. Assess each clause's meaning and practical effect; exact wording from a previously reviewed contract is not required.
+
+Output rules:
+- Preserve every clause's exact text and Clause ID. Use the output format required by the shared prompt.
+- Copy Legal Authority exactly from the first-stage analysis for that same clause. Preserve None where supplied. Do not introduce or change a citation using this guidance, another clause or remembered cases.
+- Do not invent a legal duty, required phrase, deadline, entitlement or test. A broad prohibition does not establish a more specific rule that the source does not state.
+- Distinguish a supported statutory conflict, ambiguity, missing information, practical disadvantage and an unresolved legal question.
+- Missing applicability facts or absence from an excerpt do not prove a violation. A duty to include information in a contract differs from an obligation to provide a separate disclosure, obtain consent or perform an act outside it.
+- Preserve transaction dates, scope conditions and statutory exceptions. Do not use a new rule as the reason an older contract was unlawful. If the supplied version is not the version needed, retain the historical-law gap.
+- An absent source does not prove enforceability. Retain a material coverage gap identified in the first-stage reasoning, without treating every ordinary clause as problematic merely because the reference is a selection.
+- If the first-stage finding contradicts its explanation, use Requires Further Legal Review and identify the inconsistency instead of inventing a replacement legal analysis.
+- The final Classification must be one of the six values below. Compliant, Potentially Non-Compliant and Applicability Uncertain are preliminary findings, not final classification values.
+- Risk Tier must be High Risk, Medium Risk or Low Risk.
+
+Allowed classifications:
+- Enforceable: No material legal, drafting or practical concern is identified within the supplied reference and facts. Explain that limited basis; the label is not a guarantee of court enforcement.
+- Missing Required Information: An omitted detail or blank field is needed to understand or complete the provision. Do not automatically call the omission a legal violation.
+- Ambiguous: Material obligations, cross-references or wording have unclear or conflicting meanings.
+- Potentially Prejudicial: A concrete one-sided burden or practical disadvantage is identified without sufficient support for legal invalidity. Explain its actual effect.
+- Potentially Unenforceable: The first-stage analysis identifies a supported conflict that calls enforcement of the term into question. Limit the finding to the provision or application supported by that analysis.
+- Requires Further Legal Review: A material question of applicability, legal coverage, historical law, enforceability or rights/remedies cannot be resolved. Identify the missing fact, authority or inconsistency.
+
+High Risk:
+- A concrete potential conflict with an applicable cited protection is identified, such as a prohibited waiver, restriction or denial of an applicable remedy. Explain the specific requirement and conflicting contract language.
+- A serious rights/remedies issue expressly identified in the first-stage analysis requires legal review. Explain its significance and remaining uncertainty; seriousness alone does not establish illegality.
+- A potential compliance issue does not automatically invalidate a clause or the whole contract. Use Potentially Unenforceable only when enforcement is called into question by the supported reasoning; otherwise Requires Further Legal Review may fit better.
+
+Medium Risk:
+- A meaningful field is missing, material obligations are ambiguous, or a concrete practical disadvantage is identified without an established conflict.
+- Necessary applicability facts, surrounding terms, notice/consent evidence, historical text or legal authority are missing.
+- A material question falls outside the selected reference. Identify the coverage gap rather than supplying a remembered judicial rule.
+
+Low Risk:
+- The analysis finds a clear, ordinary term with no identified conflict or material unresolved concern within the supplied reference and facts.
+- A limitation or arrangement has a supported applicable basis and no identified defect. Its subject matter or standard-form character alone does not justify a flag.
+
+Mapping preliminary findings:
+- Compliant: Usually Enforceable / Low Risk, unless the explanation identifies a material unresolved question; then use Requires Further Legal Review / Medium Risk.
+- Missing Information: Usually Missing Required Information / Medium Risk.
+- Ambiguous: Usually Ambiguous / Medium Risk. Escalate only when the supplied reasoning identifies a serious supported consequence.
+- Practical Risk: Usually Potentially Prejudicial / Medium Risk; use Ambiguous or Requires Further Legal Review when that better describes the concern.
+- Potentially Non-Compliant: Use Potentially Unenforceable / High Risk only when the reasoning supports an enforcement concern. Otherwise use Requires Further Legal Review with the justified tier. Missing facts alone ordinarily remain Medium Risk.
+- Applicability Uncertain: Usually Requires Further Legal Review / Medium Risk. Specify what needs to be established.
+
+Topic guidance - apply only when supported by the first-stage analysis:
+
+1. General interpretation, consent and contract changes
+Read connected provisions together and preserve exceptions, savings clauses and cross-references. A complete agreement may resolve an ambiguity in an excerpt. Do not assume that an electronic user saw, accepted or received particular terms merely because the PDF contains them. General consent statutes are not a complete judicial test for online notice or later changes. Identify the actual ambiguity or unsupported unilateral power, and separate practical disadvantage from a demonstrated legal defect. Do not invent a universal notice period or an exact assent formula.
+
+2. Unconscionability, releases, liability caps and penalties
+Retain the first-stage analysis of setting, purpose, effect and missing evidence. Standard-form drafting, arbitration, unequal negotiating power or a one-sided term alone does not supply every element of a judicial unconscionability determination. A clause limiting liability is not automatically an exemption from fraud, willful injury or an unlawful act; analyze its actual scope and exceptions. Do not turn a general statutory provision into a blanket ban on negligence releases or consequential-damage limits.
+For liquidated damages, distinguish compensation for breach from a price or ordinary fee. Preserve the statutory distinction between consumer contracts and the general standard, the impracticability/extreme-difficulty qualification and any more specifically applicable statutory rule. Do not invent a universal numerical late-fee ceiling or assume that a business's loss has been proved.
+
+3. Consumer fraud, mandatory-fee advertising and remedies
+Preserve the relevant consumer, goods/services and transaction definitions and exclusions. Do not automatically apply the CLRA to every financial product, insurance arrangement, virtual-property purchase or business use. Identify the specific misrepresentation or prohibited practice; an unfavorable price or term alone does not establish fraud.
+For mandatory-fee advertising, retain the actual advertised-price context and all applicable exceptions. A contract's itemized charges do not by themselves prove that an advertisement omitted mandatory fees. Do not infer intent, damage, reliance, causation, standing or a right to an award solely from a clause's existence. Preserve the distinctions among damages, restitution and injunctive relief, as well as applicable notice, correction, limitation and defense provisions.
+
+4. Arbitration, litigation, class procedure and rights/remedies
+The supplied federal and California statutes provide a baseline with conditions and exceptions, not a complete answer for every dispute-resolution term. An arbitration agreement, a class-procedure restriction, a forum-selection term and a waiver of a substantive remedy are different questions. Do not treat all such terms as equivalent or assume all are invalid. Read any preserved court remedies, carve-outs, severability clauses and other relevant surrounding language.
+For an alleged waiver of a protected right, the analysis must identify the actual right, its statutory source, the term's effect and applicable qualifications. If the conclusion depends on omitted judicial interpretation or federal preemption, retain that need for review. Generic public-policy language is not a substitute for the missing rule. Do not promise that a court would strike the entire agreement or require a mandatory court-rights waiver sentence absent supporting authority.
+
+5. Consumer arbitration costs
+Distinguish a requirement that a losing consumer pay the opposing party's fees and costs from charges for the consumer's own participation or a separate statutory fee-shifting rule. Preserve the supplied indigence threshold, the exclusion of arbitrator fees from that particular waiver provision, the provider's notice duties and the statute's scope. Do not invent the consumer's income, actual fees, ability to pay or the provider's conduct. A fee schedule not present in the excerpt is an evidence gap rather than proof that prohibited fees will be imposed.
+
+6. Automatic renewal, online subscriptions and cancellation
+First retain the analysis of transaction type, California consumer connection, relevant date and statutory exemptions, including specified regulated services and financial institutions. Do not apply California's general automatic-renewal article automatically to an exempt bank or a regulated service. Federal online negative-option requirements have their own scope.
+The 2025 California amendments have a contract-date/amendment/extension limitation. Current terms may serve an older account; the applicable event date must not be invented. Distinguish a new offer, acknowledgement, renewal reminder, annual reminder, fee-change notice and material-change notice. Preserve each trigger, timing rule and exception actually identified in the first-stage analysis.
+Keep cancellation-medium rules, online cancellation, authentication alternatives, telephone handling and permitted retention offers in their statutory context. Missing checkout screens, emails or cancellation-process evidence does not establish that required disclosure, consent or cancellation access was absent. A requirement to stop future recurring charges does not alone create a refund for every unused period. Do not extend the goods/free-gift provision to all services or ignore the good-faith provision. Conversely, a generic savings clause does not cure a concrete conflicting obligation established by the supplied analysis.
+
+7. Digital goods and license disclosures
+Retain the definition of covered digital goods, the actual ownership-related advertising/offer language, the alternative disclosure/acknowledgement routes and the requirement for a separate statement or acknowledgement. Preserve the exceptions for subscription-only access during the subscription, free goods and qualifying nonrevocable access. A license or cloud service is not inherently unlawful. The 2025 provision must not be applied to earlier events. General terms may not show the transaction screen needed to decide the issue.
+
+8. Consumer reviews and user content
+Distinguish a covered consumer-review restriction, penalty or prohibited transfer of review rights from other confidentiality, content moderation, intellectual-property or licensing terms. Preserve federal exceptions and California scope. A non-exclusive content license is not automatically a prohibited transfer of review rights. Do not assume that all confidential information may be publicly disclosed or that every content-removal provision is unlawful. Retain temporal applicability.
+
+9. Consumer-product warranties
+Preserve the supplied federal definitions of consumer product, written warranty, warrantor, supplier and service contract. Distinguish full from limited warranties, disclaimers from qualified duration limits, and applicable repair/replacement conditions and exceptions. Product-warranty rules do not automatically govern a pure online service or license. The reference does not contain the full California warranty/repair or lemon-law scheme; do not invent those rules or use the supplied conspicuousness definition as though it were the full warranty statute.
+
+10. Vehicle conditional-sale contracts
+Retain the statutory definitions and determine whether the agreement is the type of vehicle financing contract covered. The supplied current installment-contract section is operative October 1, 2026, so it is not the historical version for an older sale. Preserve disclosure alternatives, finance-charge conditions, late-charge limits, permitted charges and the qualified prepayment rules. Prepayment without a penalty does not necessarily remove earned or permitted minimum finance charges.
+Identify the particular prohibited waiver, claims/defenses restriction, illegal-collection release or venue term where supported. Do not transform these provisions into a general ban on arbitration. Cross-references to Regulation Z or other omitted statutes are not full supplies of those rules. A missing separate document or financial fact, or inability to verify font, color and signature placement, requires a qualified finding.
+
+11. Current California dealer sales and add-ons
+The California CARS Act is operative October 1, 2026. Preserve its dealer, vehicle and transaction definitions and exclusions. For price and financing disclosures, distinguish advertisements, first written communications, negotiations and the final contract. Do not assume that an absent disclosure in the upload was absent at the required earlier stage.
+An add-on is not prohibited merely because it was never used. Retain the distinction between an add-on that could not benefit the buyer and an optional product selected by a buyer that could provide a benefit. Payment and record-retention duties concern conduct outside the agreement; lack of records in the PDF is not proof of a violation. State and federal provisions with similar names must not be treated as the same rule.
+
+12. Used-vehicle cancellation
+Do not apply the new used-vehicle cancellation regime to earlier sales, all new cars, all vehicles or every price. Preserve the qualifying price limit, vehicle scope, mileage limits, permitted restocking costs, timing and return requirements, trade-in/refund rules and stated exclusions. In particular, distinguish the mileage threshold for an additional permitted restocking charge from the mileage limit for exercising cancellation. Read the separate disclosure requirement together with the contract notice and statutory exceptions. A more generous dealer policy is permitted; a contract need not disadvantage the consumer exactly as much as the statute allows. Missing price, date, condition, mileage or transaction-type information does not establish a denial of cancellation rights.
+
+Explanation and improvement guidance:
+- State the actual issue, the first-stage legal basis or absence of one, and the relevant qualifications in plain English.
+- Match the proposed next step to the supported concern: complete a field, clarify a conflict, address an applicable requirement, or obtain the missing facts, document, historical text or legal review.
+- Do not invent replacement wording claimed to guarantee compliance. If no change is supported, say no change is indicated within the supplied reference and facts.
+- Keep classification, tier, explanation and next step consistent. A missing fact must not become a proven violation, and Low Risk must not conceal a material unresolved issue.
