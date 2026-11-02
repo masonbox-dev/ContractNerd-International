@@ -36,6 +36,7 @@ Medium Risk:
 - A material question falls outside the selected reference. Use Requires Further Legal Review and state the coverage gap; do not add a remembered judicial rule.
 
 Low Risk:
+- Pure titles and editorial metadata: if the first-stage analysis identifies only non-operative context, has Legal Authority: None and finds no substantive issue, use Enforceable / Low Risk under the existing schema. Explain that this entry contains no contractual obligation to assess, rather than claiming legal enforceability. Missing transaction facts alone do not make pure metadata risky. For introductions containing definitions, acceptance language, incorporated policies, obligations or restrictions, assess those terms normally. Do not override a substantive concern or inconsistency in the first-stage analysis merely because an entry is introductory.
 - The analysis finds a clear, ordinary term with no identified conflict or material unresolved concern within the supplied reference and facts.
 - A limitation or arrangement has a supported, applicable basis and no identified defect. Neither its subject matter nor the fact that it is a standard-form term justifies a flag by itself.
 
@@ -44,8 +45,8 @@ Mapping preliminary findings:
 - Missing Information: Usually Missing Required Information / Medium Risk.
 - Ambiguous: Usually Ambiguous / Medium Risk. Escalate only when the supplied reasoning identifies a serious supported consequence.
 - Practical Risk: Usually Potentially Prejudicial / Medium Risk; use Ambiguous or Requires Further Legal Review when that better describes the concern.
-- Potentially Non-Compliant: Use Potentially Unenforceable / High Risk only when the reasoning supports questioning enforcement; otherwise use Requires Further Legal Review with the tier justified by the concern. Uncertainty alone ordinarily remains Medium Risk.
-- Applicability Uncertain: Usually Requires Further Legal Review / Medium Risk. Specify what must be established.
+- Potentially Non-Compliant: The preliminary label alone does not justify High Risk. Use Potentially Unenforceable / High Risk only if the first-stage reasoning identifies a supported enforcement concern after considering relevant exceptions and contractual safeguards. Requires Further Legal Review / High Risk is appropriate only for a concrete serious rights/remedies issue explained in that reasoning. If the reasoning identifies only material missing facts, unresolved applicability or omitted legal interpretation, without a supported conflict or concrete serious concern, use Requires Further Legal Review / Medium Risk. Do not invent a new concern or disregard qualifications to justify a higher tier.
+- Applicability Uncertain: Use Requires Further Legal Review / Medium Risk when the uncertainty concerns missing facts, applicability, or missing legal interpretation. Use High Risk only when the first-stage reasoning also identifies a concrete, serious consequence supported by the supplied facts, after considering relevant exceptions and safeguards. Explicitly explain that consequence. The importance of the topic alone does not justify High Risk.
 
 Topic guidance - apply only when supported by the first-stage analysis:
 
