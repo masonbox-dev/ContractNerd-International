@@ -1,0 +1,82 @@
+COLORADO BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Prepared 2026-11-09 for academic issue spotting.
+
+Coverage: Selected comparative-negligence, assumption-of-risk and arbitration provisions. These are not a complete consumer-protection code and do not supply the judicial test for an adult recreational release. Section 13-21-111.7 was added effective July 1, 1986; section 13-22-206 was reenacted in 2004. Do not use those versions to decide earlier agreements without historical authority.
+
+Editorial scope note (not legislation): Apply only provisions relevant to the actual contract and supplied facts. Preserve qualifications and exceptions. Do not import unrelated hypothetical disputes. Missing judicial interpretation or historical authority is a coverage gap, not proof that a term is lawful or unlawful. Quoted statutes are separated from these editorial notes; source links and versions are provided. No benchmark contract or expected court outcome is included.
+
+C.R.S. § 13-21-111
+Source: https://olls.info/crs/crs2025-title-13.pdf
+Source version: 2025 Colorado Revised Statutes; historical dates discussed in coverage note
+
+13-21-111. Negligence cases - comparative negligence as measure of damages. (1) 
+Contributory negligence shall not bar recovery in any action by any person or his legal
+representative to recover damages for negligence resulting in death or in injury to person or
+property, if such negligence was not as great as the negligence of the person against whom
+recovery is sought, but any damages allowed shall be diminished in proportion to the amount of
+negligence attributable to the person for whose injury, damage, or death recovery is made.
+(2) In any action to which subsection (1) of this section applies, the court, in a nonjury
+trial, shall make findings of fact or, in a jury trial, the jury shall return a special verdict which
+shall state:
+(a) The amount of the damages which would have been recoverable if there had been no
+contributory negligence; and
+(b) The degree of negligence of each party, expressed as a percentage.
+(3) Upon the making of the finding of fact or the return of a special verdict, as is
+required by subsection (2) of this section, the court shall reduce the amount of the verdict in
+
+
+
+proportion to the amount of negligence attributable to the person for whose injury, damage, or
+death recovery is made; but, if the said proportion is equal to or greater than the negligence of
+the person against whom recovery is sought, then, in such event, the court shall enter a judgment
+for the defendant.
+(3.5) and (4) Repealed.
+
+C.R.S. § 13-21-111.7
+Source: https://olls.info/crs/crs2025-title-13.pdf
+Source version: 2025 Colorado Revised Statutes; historical dates discussed in coverage note
+
+13-21-111.7. Assumption of risk - consideration by trier of fact. Assumption of a risk
+by a person shall be considered by the trier of fact in apportioning negligence pursuant to section
+13-21-111. For the purposes of this section, a person assumes the risk of injury or damage if he
+voluntarily or unreasonably exposes himself to injury or damage with knowledge or appreciation
+of the danger and risk involved. In any trial to a jury in which the defense of assumption of risk
+is an issue for determination by the jury, the court shall instruct the jury on the elements as
+described in this section.
+
+C.R.S. § 13-22-206
+Source: https://olls.info/crs/crs2025-title-13.pdf
+Source version: 2025 Colorado Revised Statutes; historical dates discussed in coverage note
+
+13-22-206. Validity of agreement to arbitrate. (1) An agreement contained in a record
+to submit to arbitration any existing or subsequent controversy arising between the parties to the
+agreement is valid, enforceable, and irrevocable except on a ground that exists at law or in equity
+for the revocation of a contract.
+(2) The court shall decide whether an agreement to arbitrate exists or a controversy is
+subject to an agreement to arbitrate.
+(3) An arbitrator shall decide whether a condition precedent to arbitrability has been
+fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.
+(4) If a party to a judicial proceeding challenges the existence of, or claims that a
+controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue
+pending final resolution of the issue by the court, unless the court otherwise orders.
+
+FEDERAL ARBITRATION - FAA1
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+FEDERAL ARBITRATION - FAA2
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+FEDERAL ARBITRATION - FAA5
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

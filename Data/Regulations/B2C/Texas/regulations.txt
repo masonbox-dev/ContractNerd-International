@@ -1,0 +1,152 @@
+TEXAS BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Prepared 2026-11-09 for academic issue spotting.
+
+Coverage: Selected DTPA scope, waiver and remedy provisions; state and federal arbitration baselines. This selection does not supply the common-law tests for contract formation, consideration or illusory promises. An unrestricted modification clause may require those omitted authorities; do not invent a statutory prohibition.
+
+Editorial scope note (not legislation): Apply only provisions relevant to the actual contract and supplied facts. Preserve qualifications and exceptions. Do not import unrelated hypothetical disputes. Missing judicial interpretation or historical authority is a coverage gap, not proof that a term is lawful or unlawful. Quoted statutes are separated from these editorial notes; source links and versions are provided. No benchmark contract or expected court outcome is included.
+
+Tex. Bus. & Com. Code § 17.42
+Source: https://tcss.legis.texas.gov/Docs/BC/htm/BC.17.htm
+Source version: official online text retrieved 2026-11-09; historical amendments are listed at source
+
+Sec. 17.42. WAIVERS: PUBLIC POLICY. (a) Any waiver by a consumer of the provisions of this subchapter is contrary to public policy and is unenforceable and void; provided, however, that a waiver is valid and enforceable if:
+(1) the waiver is in writing and is signed by the consumer;
+(2) the consumer is not in a significantly disparate bargaining position; and
+(3) the consumer is represented by legal counsel in seeking or acquiring the goods or services.
+(b) A waiver under Subsection (a) is not effective if the consumer's legal counsel was directly or indirectly identified, suggested, or selected by a defendant or an agent of the defendant.
+(c) A waiver under this section must be:
+(1) conspicuous and in bold-face type of at least 10 points in size;
+(2) identified by the heading "Waiver of Consumer Rights," or words of similar meaning; and
+(3) in substantially the following form:
+"I waive my rights under the Deceptive Trade Practices-Consumer Protection Act, Section 17.41 et seq., Business & Commerce Code, a law that gives consumers special rights and protections. After consultation with an attorney of my own selection, I voluntarily consent to this waiver."
+(d) The waiver required by Subsection (c) may be modified to waive only specified rights under this subchapter.
+(e) The fact that a consumer has signed a waiver under this section is not a defense to an action brought by the attorney general under Section 17.47.
+
+Tex. Bus. & Com. Code § 17.45
+Source: https://tcss.legis.texas.gov/Docs/BC/htm/BC.17.htm
+Source version: official online text retrieved 2026-11-09; historical amendments are listed at source
+
+Sec. 17.45. DEFINITIONS. As used in this subchapter:
+(1) "Goods" means tangible chattels or real property purchased or leased for use.
+(2) "Services" means work, labor, or service purchased or leased for use, including services furnished in connection with the sale or repair of goods.
+(3) "Person" means an individual, partnership, corporation, association, or other group, however organized.
+(4) "Consumer" means an individual, partnership, corporation, this state, or a subdivision or agency of this state who seeks or acquires by purchase or lease, any goods or services, except that the term does not include a business consumer that has assets of $25 million or more, or that is owned or controlled by a corporation or entity with assets of $25 million or more.
+(5) "Unconscionable action or course of action" means an act or practice which, to a consumer's detriment, takes advantage of the lack of knowledge, ability, experience, or capacity of the consumer to a grossly unfair degree.
+(6) "Trade" and "commerce" mean the advertising, offering for sale, sale, lease, or distribution of any good or service, of any property, tangible or intangible, real, personal, or mixed, and any other article, commodity, or thing of value, wherever situated, and shall include any trade or commerce directly or indirectly affecting the people of this state.
+(7) "Documentary material" includes the original or a copy of any book, record, report, memorandum, paper, communication, tabulation, map, chart, photograph, mechanical transcription, or other tangible document or recording, wherever situated.
+(8) "Consumer protection division" means the consumer protection division of the attorney general's office.
+(9) "Knowingly" means actual awareness, at the time of the act or practice complained of, of the falsity, deception, or unfairness of the act or practice giving rise to the consumer's claim or, in an action brought under Subdivision (2) of Subsection (a) of Section 17.50, actual awareness of the act, practice, condition, defect, or failure constituting the breach of warranty, but actual awareness may be inferred where objective manifestations indicate that a person acted with actual awareness.
+(10) "Business consumer" means an individual, partnership, or corporation who seeks or acquires by purchase or lease, any goods or services for commercial or business use. The term does not include this state or a subdivision or agency of this state.
+(11) "Economic damages" means compensatory damages for pecuniary loss, including costs of repair and replacement. The term does not include exemplary damages or damages for physical pain and mental anguish, loss of consortium, disfigurement, physical impairment, or loss of companionship and society.
+(12) "Residence" means a building:
+(A) that is a single-family house, duplex, triplex, or quadruplex or a unit in a multiunit residential structure in which title to the individual units is transferred to the owners under a condominium or cooperative system; and
+(B) that is occupied or to be occupied as the consumer's residence.
+(13) "Intentionally" means actual awareness of the falsity, deception, or unfairness of the act or practice, or the condition, defect, or failure constituting a breach of warranty giving rise to the consumer's claim, coupled with the specific intent that the consumer act in detrimental reliance on the falsity or deception or in detrimental ignorance of the unfairness. Intention may be inferred from objective manifestations that indicate that the person acted intentionally or from facts showing that a defendant acted with flagrant disregard of prudent and fair business practices to the extent that the defendant should be treated as having acted intentionally.
+(14) "Vehicle protection product":
+(A) means a product or system, including a written warranty:
+(i) that is:
+(a) installed on or applied to a vehicle; and
+(b) designed to prevent loss of or damage to a vehicle from a specific cause; and
+(ii) under which, after installation or application of the product or system described by Subparagraph (i), if loss or damage results from the failure of the product or system to perform as represented in the warranty, the warrantor, to the extent agreed on as part of the warranty, is required to pay expenses to the person in this state who purchases or otherwise possesses the product or system for the loss of or damage to the vehicle; and
+(B) may also include identity recovery, as defined by Section 1304.003, Occupations Code, if the product or system described by Paragraph (A) is financed under Chapter 348 or 353, Finance Code.
+(15) "Warrantor" means a person named under the terms of a vehicle protection product warranty as the contractual obligor to a person in this state who purchases or otherwise possesses a vehicle protection product.
+(16) "Loss of or damage to the vehicle," for purposes of Subdivision (14)(A)(ii), may also include unreimbursed incidental expenses that may be incurred by the warrantor, including expenses for a replacement vehicle, temporary vehicle rental expenses, and registration expenses for replacement vehicles.
+(17) "Building materials" includes lumber, windows, and other materials used in the construction or repair of improvements to real property.
+
+Tex. Bus. & Com. Code § 17.49
+Source: https://tcss.legis.texas.gov/Docs/BC/htm/BC.17.htm
+Source version: official online text retrieved 2026-11-09; historical amendments are listed at source
+
+Sec. 17.49. EXEMPTIONS. (a) Nothing in this subchapter shall apply to the owner or employees of a regularly published newspaper, magazine, or telephone directory, or broadcast station, or billboard, wherein any advertisement in violation of this subchapter is published or disseminated, unless it is established that the owner or employees of the advertising medium have knowledge of the false, deceptive, or misleading acts or practices declared to be unlawful by this subchapter, or had a direct or substantial financial interest in the sale or distribution of the unlawfully advertised good or service. Financial interest as used in this section relates to an expectation which would be the direct result of such advertisement.
+(b) Nothing in this subchapter shall apply to acts or practices authorized under specific rules or regulations promulgated by the Federal Trade Commission under Section 5(a)(1) of the Federal Trade Commission Act [15 U.S.C.A. 45(a)(1)]. The provisions of this subchapter do apply to any act or practice prohibited or not specifically authorized by a rule or regulation of the Federal Trade Commission. An act or practice is not specifically authorized if no rule or regulation has been issued on the act or practice.
+(c) Nothing in this subchapter shall apply to a claim for damages based on the rendering of a professional service, the essence of which is the providing of advice, judgment, opinion, or similar professional skill. This exemption does not apply to:
+(1) an express misrepresentation of a material fact that cannot be characterized as advice, judgment, or opinion;
+(2) a failure to disclose information in violation of Section 17.46(b)(24);
+(3) an unconscionable action or course of action that cannot be characterized as advice, judgment, or opinion;
+(4) breach of an express warranty that cannot be characterized as advice, judgment, or opinion; or
+(5) a violation of Section 17.46(b)(26).
+(d) Subsection (c) applies to a cause of action brought against the person who provided the professional service and a cause of action brought against any entity that could be found to be vicariously liable for the person's conduct.
+(e) Except as specifically provided by Subsections (b) and (h), Section 17.50, nothing in this subchapter shall apply to a cause of action for bodily injury or death or for the infliction of mental anguish.
+(f) Nothing in the subchapter shall apply to a claim arising out of a written contract if:
+(1) the contract relates to a transaction, a project, or a set of transactions related to the same project involving total consideration by the consumer of more than $100,000;
+(2) in negotiating the contract the consumer is represented by legal counsel who is not directly or indirectly identified, suggested, or selected by the defendant or an agent of the defendant; and
+(3) the contract does not involve the consumer's residence.
+(g) Nothing in this subchapter shall apply to a cause of action arising from a transaction, a project, or a set of transactions relating to the same project, involving total consideration by the consumer of more than $500,000, other than a cause of action involving a consumer's residence.
+(h) A person who violates Section 17.46(b)(26) is jointly and severally liable under that subdivision for actual damages, court costs, and attorney's fees. Subject to Chapter 41, Civil Practice and Remedies Code, exemplary damages may be awarded in the event of fraud or malice.
+(i) Nothing in this subchapter shall apply to a claim against a person licensed as a broker or salesperson under Chapter 1101, Occupations Code, arising from an act or omission by the person while acting as a broker or salesperson. This exemption does not apply to:
+(1) an express misrepresentation of a material fact that cannot be characterized as advice, judgment, or opinion;
+(2) a failure to disclose information in violation of Section 17.46(b)(24); or
+(3) an unconscionable action or course of action that cannot be characterized as advice, judgment, or opinion.
+
+Tex. Bus. & Com. Code § 17.50
+Source: https://tcss.legis.texas.gov/Docs/BC/htm/BC.17.htm
+Source version: official online text retrieved 2026-11-09; historical amendments are listed at source
+
+Sec. 17.50. RELIEF FOR CONSUMERS. (a) A consumer may maintain an action where any of the following constitute a producing cause of economic damages or damages for mental anguish:
+(1) the use or employment by any person of a false, misleading, or deceptive act or practice that is:
+(A) specifically enumerated in a subdivision of Subsection (b) of Section 17.46 of this subchapter; and
+(B) relied on by a consumer to the consumer's detriment;
+(2) breach of an express or implied warranty;
+(3) any unconscionable action or course of action by any person; or
+(4) the use or employment by any person of an act or practice in violation of Chapter 541, Insurance Code.
+(b) In a suit filed under this section, each consumer who prevails may obtain:
+(1) the amount of economic damages found by the trier of fact. If the trier of fact finds that the conduct of the defendant was committed knowingly, the consumer may also recover damages for mental anguish, as found by the trier of fact, and the trier of fact may award not more than three times the amount of economic damages; or if the trier of fact finds the conduct was committed intentionally, the consumer may recover damages for mental anguish, as found by the trier of fact, and the trier of fact may award not more than three times the amount of damages for mental anguish and economic damages;
+(2) an order enjoining such acts or failure to act;
+(3) orders necessary to restore to any party to the suit any money or property, real or personal, which may have been acquired in violation of this subchapter; and
+(4) any other relief which the court deems proper, including the appointment of a receiver or the revocation of a license or certificate authorizing a person to engage in business in this state if the judgment has not been satisfied within three months of the date of the final judgment. The court may not revoke or suspend a license to do business in this state or appoint a receiver to take over the affairs of a person who has failed to satisfy a judgment if the person is a licensee of or regulated by a state agency which has statutory authority to revoke or suspend a license or to appoint a receiver or trustee. Costs and fees of such receivership or other relief shall be assessed against the defendant.
+(c) On a finding by the court that an action under this section was groundless in fact or law or brought in bad faith, or brought for the purpose of harassment, the court shall award to the defendant reasonable and necessary attorneys' fees and court costs.
+(d) Each consumer who prevails shall be awarded court costs and reasonable and necessary attorneys' fees.
+(e) In computing additional damages under Subsection (b), attorneys' fees, costs, and prejudgment interest may not be considered.
+(f) A court may not award prejudgment interest applicable to:
+(1) damages for future loss under this subchapter; or
+(2) additional damages under Subsection (b).
+(g) Chapter 41, Civil Practice and Remedies Code, does not apply to a cause of action brought under this subchapter.
+(h) Notwithstanding any other provision of this subchapter, if a claimant is granted the right to bring a cause of action under this subchapter by another law, the claimant is not limited to recovery of economic damages only, but may recover any actual damages incurred by the claimant, without regard to whether the conduct of the defendant was committed intentionally. For the purpose of the recovery of damages for a cause of action described by this subsection only, a reference in this subchapter to economic damages means actual damages. In applying Subsection (b)(1) to an award of damages under this subsection, the trier of fact is authorized to award a total of not more than three times actual damages, in accordance with that subsection.
+
+Tex. Civ. Prac. & Rem. Code § 171.001
+Source: https://tcss.legis.texas.gov/Docs/CP/htm/CP.171.htm
+Source version: official online text including 2025 amendments; scope is essential
+
+Sec. 171.001. ARBITRATION AGREEMENTS VALID. (a) A written agreement to arbitrate is valid and enforceable if the agreement is to arbitrate a controversy that:
+(1) exists at the time of the agreement; or
+(2) arises between the parties after the date of the agreement.
+(b) A party may revoke the agreement only on a ground that exists at law or in equity for the revocation of a contract.
+
+Tex. Civ. Prac. & Rem. Code § 171.002
+Source: https://tcss.legis.texas.gov/Docs/CP/htm/CP.171.htm
+Source version: official online text including 2025 amendments; scope is essential
+
+Sec. 171.002. SCOPE OF CHAPTER. (a) This chapter does not apply to:
+(1) a collective bargaining agreement between an employer and a labor union;
+(2) an agreement for the acquisition by one or more individuals of property, services, money, or credit in which the total consideration to be furnished by the individual is not more than $50,000, except as provided by Subsection (b);
+(3) a claim for personal injury, except as provided by Subsection (c);
+(4) a claim for workers' compensation benefits; or
+(5) an agreement made before January 1, 1966.
+(b) An agreement described by Subsection (a)(2) is subject to this chapter if:
+(1) the parties to the agreement agree in writing to arbitrate; and
+(2) the agreement is signed by each party and each party's attorney.
+(c) A claim described by Subsection (a)(3) is subject to this chapter if:
+(1) each party to the claim, on the advice of counsel, agrees in writing to arbitrate; and
+(2) the agreement is signed by each party and each party's attorney.
+(d) This chapter does not confer on the business court any new or additional jurisdiction.
+
+FEDERAL ARBITRATION - FAA1
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+FEDERAL ARBITRATION - FAA2
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+FEDERAL ARBITRATION - FAA5
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

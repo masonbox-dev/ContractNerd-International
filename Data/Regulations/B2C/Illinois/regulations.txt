@@ -1,0 +1,42 @@
+ILLINOIS BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Selected reference prepared 2026-11-08; added for academic issue-spotting tests on 2026-11-09. Coverage limits are stated below.
+
+Coverage: Selected Article 2 goods-contract unconscionability/remedy provisions and federal arbitration baseline. This is not a full warranty reference: warranty creation/disclaimer rules, notice evidence, federal warranty legislation and judicial interpretation are not supplied. Article 2 is not a universal services-contract rule.
+
+Editorial scope note (not legislation): Use the actual transaction, applicable law and dates. The provisions below are a selection, not a complete enforceability test. Preserve conditions and exceptions. Missing facts or omitted judicial interpretation are coverage gaps, not proof of a violation. Do not introduce unrelated hypothetical disputes. Later statutory text does not establish the rule governing an earlier contract or decision. The statutes are transcribed from the cited public sources, with layout normalized; introductory labels and this note are editorial.
+
+810 ILCS 5/2-302 - Unconscionable contract or clause
+Source: https://www.ilga.gov/documents/legislation/ilcs/documents/081000050K2-302.htm
+Source version: official online statutory text; source note Laws 1961, p. 2101
+
+(1) If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
+(2) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.
+
+810 ILCS 5/2-719 - Contractual modification or limitation of remedy
+Source: https://ilga.gov/documents/legislation/ilcs/documents/081000050K2-719.htm
+Source version: official online statutory text; verify historical version for historical evaluation
+
+(1) Subject to the provisions of subsections (2) and (3) of this section and of the preceding section on liquidation and limitation of damages,
+(a) the agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts; and
+(b) resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.
+(2) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this Act.
+(3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.
+
+FEDERAL ARBITRATION PROVISIONS - APPLY ONLY WITHIN THEIR SCOPE
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

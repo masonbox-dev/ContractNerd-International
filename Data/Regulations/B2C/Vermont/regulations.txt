@@ -1,0 +1,164 @@
+VERMONT BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Prepared 2026-11-09 for academic issue spotting.
+
+Coverage: Selected consumer-protection and recreational inherent-risk provisions. The scope of obvious and necessary inherent risks is not an automatic determination of whether a particular negligence release is enforceable. Judicial public-policy analysis and accident facts may be required.
+
+Editorial scope note (not legislation): Apply only provisions relevant to the actual contract and supplied facts. Preserve qualifications and exceptions. Do not import unrelated hypothetical disputes. Missing judicial interpretation or historical authority is a coverage gap, not proof that a term is lawful or unlawful. Quoted statutes are separated from these editorial notes; source links and versions are provided. No benchmark contract or expected court outcome is included.
+
+9 V.S.A. § 2451a
+Source: https://legislature.vermont.gov/statutes/section/09/063/02451a
+Source version: legislative website text including 2026 session; site identifies its copy as unofficial
+
+(Cite as: 9 V.S.A. § 2451a)
+§ 2451a. Definitions
+As used in this chapter:
+(1) “Consumer” means any person who purchases, leases, contracts for, or otherwise agrees
+to pay consideration for goods or services not for resale in the ordinary course of
+the person’s trade or business but for the person’s use or benefit or the use or benefit
+of a member of the person’s household, or in connection with the operation of the
+person’s household or a farm whether or not the farm is conducted as a trade or business,
+or a person who purchases, leases, contracts for, or otherwise agrees to pay consideration
+for goods or services not for resale in the ordinary course of the person’s trade
+or business but for the use or benefit of the person’s business or in connection with
+the operation of the person’s business.
+(2) “Goods” or “services” shall include any objects, wares, goods, commodities, work,
+labor, intangibles, courses of instruction or training, securities, bonds, debentures,
+stocks, real estate, or other property or services of any kind. The term also includes
+bottled liquified petroleum (LP or propane) gas.
+(3) “Seller” means a person regularly and principally engaged in a business of selling
+goods or services to consumers.
+(4) “Home solicitation sale” means the sale or lease, or the offer for sale or lease,
+of goods or services with a purchase price of $5.00 or more, whether under single
+or multiple contracts, where the sale, lease, or offer thereof is either personally
+solicited or consummated by a seller at the residence or place of business or employment
+of the consumer, or at a seller’s transient quarters, or solicited or consummated
+by a seller wholly or in part by telephone with a consumer at the residence or place
+of business or employment of the consumer. Transient quarters includes hotel or motel
+rooms, or any other place utilized as a temporary business location. The term “home
+solicitation sale” does not include a transaction:
+(A) Made pursuant to prior negotiations in the course of a visit by the consumer to a
+retail business establishment having a fixed permanent location where the goods are
+exhibited or the services are offered for sale on a continuing basis.
+(B) In which the consumer has initiated the contact and specifically requested the seller
+to visit the consumer’s home for the purpose of repairing or performing maintenance
+upon the consumer’s personal property. If, in the course of such a visit, the seller
+sells the consumer the right to receive additional services or goods other than replacement
+parts necessarily used in performing the maintenance or in making the repairs, the
+sale of those additional goods or services would not fall within this exclusion.
+(C) Conducted and consummated entirely by mail and without any other contact between the
+consumer and the seller prior to delivery of the goods or performance of the services.
+(D) With a purchase price of under $25.00 where the consumer is not required to sign any
+contract, receipt, sales ticket, evidence of indebtedness, or other writing, and the
+goods, services, or merchandise purchased are capable of delivery or performance at
+one time.
+(E) Pertaining to the sale or rental of real property, to the sale of insurance, to the
+sale of securities by a broker dealer registered with the Securities and Exchange
+Commission, or to the sale of commodities by any person registered with the Commodity
+Futures Trading Commission.
+(F) Where, in the case of goods, the buyer may at any time:
+(i)(I) cancel the order prior to delivery of the goods and receive a full refund for any
+monies paid;
+(II) refuse to accept the goods when delivered, without incurring any obligation to pay
+for them and receive a full refund for any monies paid; or
+(III) return the goods to the seller and receive a full refund for any monies paid;
+(ii) the buyer’s right to cancel the order or return the goods without obligation or charge
+at any time and receive a full refund for any monies paid is clearly and unmistakably
+set forth on the face or reverse side of the sales ticket; and
+(iii) the goods or merchandise purchased under an agreement meeting the requirements specified
+in subdivisions (i) and (ii) of this subdivision (F) are capable of delivery at one
+time.
+(G) Solicited or consummated wholly or in part by telephone where the seller offers a
+full refund and right of cancellation for at least ten days after receipt of the goods
+or services, and a full refund within 30 days of return of the goods or cancellation
+of the services or under terms no more restrictive than those set forth in subsections
+2454(a), (c), and (d) of this title, and the right of refund and cancellation is conspicuously
+disclosed with the goods or services.
+(H) Solicited or consummated wholly or in part by a federally insured depository institution
+or its subsidiary, affiliate, or parent organizations, or by a public utility regulated
+by the Federal Communications Commission or the Vermont Public Utility Commission.
+(I) In response to an order placed by a farmer for farm-related goods or services, whether
+in person, by telephone, or otherwise, and the farmer has a preexisting open end credit
+plan with the seller.
+(5) “Business day” means any calendar day except Saturday, Sunday, or any day classified
+as a holiday under 1 V.S.A. § 371.
+(6) “Purchase price” means the total price paid or to be paid for the consumer goods or
+services, including all interest and service charges.
+(7) “Lessor” means a person engaged in a business of leasing goods to consumers.
+(8) “Collusion” means an agreement, contract, combination in the form of trusts or otherwise,
+or conspiracy to engage in price fixing, bid rigging, or market division or allocation
+of goods or services between or among persons. (Added 1973, No. 221 (Adj. Sess.), § 3, eff. June 7, 1974; amended 1985, No. 34, § 1; 1985, No. 61; 1993, No. 99, § 3; 1995, No. 23, § 1; 1997, No. 42, § 1; 2001, No. 42, § 2; 2011, No. 168 (Adj. Sess.), § 3, eff. May 18, 2012; 2021, No. 20, § 16.)
+
+9 V.S.A. § 2453
+Source: https://legislature.vermont.gov/statutes/section/09/063/02453
+Source version: legislative website text including 2026 session; site identifies its copy as unofficial
+
+(Cite as: 9 V.S.A. § 2453)
+§ 2453. Practices prohibited; antitrust and consumer protection
+(a) Unfair methods of competition in commerce and unfair or deceptive acts or practices
+in commerce are hereby declared unlawful.
+(b) It is the intent of the Legislature that in construing subsection (a) of this section,
+the courts of this State will be guided by the construction of similar terms contained
+in Section 5(a)(1) of the Federal Trade Commission Act as from time to time amended
+by the Federal Trade Commission and the courts of the United States.
+(c) The Attorney General shall adopt rules, when necessary and proper to carry out the
+purposes of this chapter, relating to unfair methods of competition in commerce and
+unfair or deceptive acts or practices in commerce. The rules shall not be inconsistent
+with the rules, regulations, and decisions of the Federal Trade Commission and the
+federal courts interpreting the Federal Trade Commission Act.
+(d) Violation of a rule adopted by the Attorney General is prima facie proof of the commission
+of an unfair or deceptive act in commerce.
+(e) The provisions of subsections (a), (c), and (d) of this section shall also be applicable
+to real estate transactions. (Added 1967, No. 132, § 1, eff. April 17, 1967; amended 1969, No. 45, § 8, eff. April 4, 1969; 1969, No. 278 (Adj. Sess.); 1973, No. 221 (Adj. Sess.), § 1, eff. June 7, 1974; 1999, No. 65 (Adj. Sess.), § 2; 2011, No. 109 (Adj. Sess.), § 2, eff. May 8, 2012; 2011, No. 136 (Adj. Sess.), § 1a, eff. May 18, 2012; 2017, No. 74, § 13.)
+
+9 V.S.A. § 2461
+Source: https://legislature.vermont.gov/statutes/section/09/063/02461
+Source version: legislative website text including 2026 session; site identifies its copy as unofficial
+
+(Cite as: 9 V.S.A. § 2461)
+§ 2461. Civil penalty
+(a) Any person who violates the terms of an injunction issued under section 2458 of this title shall forfeit and pay to the State a civil penalty of not more than $10,000.00 for
+each violation. For the purposes of this section, the court issuing such injunction
+shall retain jurisdiction, and the cause shall be continued, and in such cases the
+Attorney General or a State’s Attorney acting in the name of the State may petition
+for recovery of such civil penalty.
+(b) Any consumer who contracts for goods or services in reliance upon false or fraudulent
+representations or practices prohibited by section 2453 of this title, or who sustains damages or injury as a result of any false or fraudulent representations
+or practices prohibited by section 2453 of this title, or prohibited by any rule or regulation made pursuant to section 2453 of this title, may sue for appropriate equitable relief and may sue and recover from the seller,
+solicitor, or other violator the amount of his or her damages, or the consideration
+or the value of the consideration given by the consumer, reasonable attorney’s fees,
+and exemplary damages not exceeding three times the value of the consideration given
+by the consumer. Any language, written or oral, used by a seller or solicitor, that
+attempts to exclude or modify recovery of the penalty or reasonable attorney’s fees
+shall be unenforceable.
+(c) Any person alleged to have violated the terms of subsection (b) of this section shall
+be entitled to a trial by jury, unless waived according to law. (Added 1967, No. 132, § 1, eff. April 17, 1967; amended 1969, No. 45, § 7, eff. April 4, 1969; 1971, No. 235 (Adj. Sess.), § 2; 1973, No. 110, § 5.)
+
+12 V.S.A. § 1037
+Source: https://legislature.vermont.gov/statutes/section/12/027/01037
+Source version: legislative website text including 2026 session; site identifies its copy as unofficial
+
+(Cite as: 12 V.S.A. § 1037)
+§ 1037. Acceptance of inherent risks
+Notwithstanding the provisions of section 1036 of this title, a person who takes part in any sport accepts as a matter of law the dangers that
+inhere therein insofar as they are obvious and necessary. (Added 1977, No. 119 (Adj. Sess.), § 2, eff. Feb. 7, 1978.)
+
+FEDERAL ARBITRATION - FAA1
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+FEDERAL ARBITRATION - FAA2
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+FEDERAL ARBITRATION - FAA5
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

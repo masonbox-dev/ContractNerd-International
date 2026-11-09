@@ -1,0 +1,71 @@
+CONNECTICUT BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Prepared 2026-11-09 for academic issue spotting.
+
+Coverage: Selected unfair-practices scope, exceptions and remedies, plus arbitration baselines. Recreational negligence-release enforceability and public-policy tests are not supplied by these statutes. Do not treat an injury or a broad release as automatically establishing a consumer-protection violation.
+
+Editorial scope note (not legislation): Apply only provisions relevant to the actual contract and supplied facts. Preserve qualifications and exceptions. Do not import unrelated hypothetical disputes. Missing judicial interpretation or historical authority is a coverage gap, not proof that a term is lawful or unlawful. Quoted statutes are separated from these editorial notes; source links and versions are provided. No benchmark contract or expected court outcome is included.
+
+Conn. Gen. Stat. § 42-110a
+Source: https://prdext3.cga.ct.gov/current/pub/chap_735a.htm
+Source version: official online chapter retrieved 2026-11-09; statute text only, annotations excluded
+
+Sec. 42-110a. Definitions. As used in this chapter:
+(1) “Commissioner” means the Commissioner of Consumer Protection;
+(2) “Documentary material” means the original or a copy of a book, record, report, memorandum, paper, communication, tabulation, map, chart, photograph, mechanical transcription, or other tangible document or recording, wherever situate;
+(3) “Person” means a natural person, corporation, limited liability company, trust, partnership, incorporated or unincorporated association, and any other legal entity;
+(4) “Trade” and “commerce” means the advertising, the sale or rent or lease, the offering for sale or rent or lease, or the distribution of any services and any property, tangible or intangible, real, personal or mixed, and any other article, commodity, or thing of value in this state.
+
+Conn. Gen. Stat. § 42-110b
+Source: https://prdext3.cga.ct.gov/current/pub/chap_735a.htm
+Source version: official online chapter retrieved 2026-11-09; statute text only, annotations excluded
+
+Sec. 42-110b. Unfair trade practices prohibited. Legislative intent. (a) No person shall engage in unfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce.
+(b) It is the intent of the legislature that in construing subsection (a) of this section, the commissioner and the courts of this state shall be guided by interpretations given by the Federal Trade Commission and the federal courts to Section 5(a)(1) of the Federal Trade Commission Act (15 USC 45(a)(1)), as from time to time amended.
+(c) The commissioner may, in accordance with chapter 54, establish by regulation acts, practices or methods which shall be deemed to be unfair or deceptive in violation of subsection (a) of this section. Such regulations shall not be inconsistent with the rules, regulations and decisions of the federal trade commission and the federal courts in interpreting the provisions of the Federal Trade Commission Act.
+(d) It is the intention of the legislature that this chapter be remedial and be so construed.
+
+Conn. Gen. Stat. § 42-110c
+Source: https://prdext3.cga.ct.gov/current/pub/chap_735a.htm
+Source version: official online chapter retrieved 2026-11-09; statute text only, annotations excluded
+
+Sec. 42-110c. Exceptions. (a) Nothing in this chapter shall apply to: (1) Transactions or actions otherwise permitted under law as administered by any regulatory board or officer acting under statutory authority of the state or of the United States; or (2) acts done by the publisher, owner, agent or employee of a newspaper, periodical or radio or television station in the publication or dissemination of an advertisement, where the publisher, owner, agent or employee did not have knowledge of the false, misleading, unfair or deceptive character of the advertisement, and did not have direct financial interest in the sale or distribution of the advertised product or service.
+(b) The burden of proving exemption, as provided in this section, from the provisions of this chapter shall be upon the person claiming the exemption.
+
+Conn. Gen. Stat. § 42-110g
+Source: https://prdext3.cga.ct.gov/current/pub/chap_735a.htm
+Source version: official online chapter retrieved 2026-11-09; statute text only, annotations excluded
+
+Sec. 42-110g. Action for damages. Class actions. Costs and fees. Equitable relief. Jury trial. (a) Any person who suffers any ascertainable loss of money or property, real or personal, as a result of the use or employment of a method, act or practice prohibited by section 42-110b, may bring an action in the judicial district in which the plaintiff or defendant resides or has his principal place of business or is doing business, to recover actual damages. Proof of public interest or public injury shall not be required in any action brought under this section. The court may, in its discretion, award punitive damages and may provide such equitable relief as it deems necessary or proper.
+(b) Persons entitled to bring an action under subsection (a) of this section may, pursuant to rules established by the judges of the Superior Court, bring a class action on behalf of themselves and other persons similarly situated who are residents of this state or injured in this state to recover damages.
+(c) Upon commencement of any action brought under subsection (a) of this section, the plaintiff shall mail a copy of the complaint to the Attorney General and the Commissioner of Consumer Protection and, upon entry of any judgment or decree in the action, shall mail a copy of such judgment or decree to the Attorney General and the Commissioner of Consumer Protection.
+(d) In any action brought by a person under this section, the court may award, to the plaintiff, in addition to the relief provided in this section, costs and reasonable attorneys' fees based on the work reasonably performed by an attorney and not on the amount of recovery. In a class action in which there is no monetary recovery, but other relief is granted on behalf of a class, the court may award, to the plaintiff, in addition to other relief provided in this section, costs and reasonable attorneys' fees. In any action brought under this section, the court may, in its discretion, order, in addition to damages or in lieu of damages, injunctive or other equitable relief.
+(e) Any final order issued by the Department of Consumer Protection and any permanent injunction, final judgment or final order of the court made under section 42-110d, 42-110m, 42-110o or 42-110p shall be prima facie evidence in an action brought under this section that the respondent or defendant used or employed a method, act or practice prohibited by section 42-110b, provided this section shall not apply to consent orders or judgments entered before any testimony has been taken.
+(f) An action under this section may not be brought more than three years after the occurrence of a violation of this chapter.
+(g) In any action brought by a person under this section there shall be a right to a jury trial except with respect to the award of punitive damages under subsection (a) of this section or the award of costs, reasonable attorneys' fees and injunctive or other equitable relief under subsection (d) of this section.
+
+Conn. Gen. Stat. § 52-408
+Source: https://prdext3.cga.ct.gov/current/pub/chap_909.htm
+Source version: official online chapter retrieved 2026-11-09; includes 2021 changes
+
+Sec. 52-408. Agreements to arbitrate. An agreement in any written contract, or in a separate writing executed by the parties to any written contract, to settle by arbitration any controversy thereafter arising out of such contract, or out of the failure or refusal to perform the whole or any part thereof, or a written provision in the articles of association or bylaws of an association or corporation of which both parties are members to arbitrate any controversy which may arise between them in the future, or an agreement in writing between two or more persons to submit to arbitration any controversy existing between them at the time of the agreement to submit, or an agreement in writing between the parties to a marriage to submit to arbitration any controversy between them with respect to the dissolution of their marriage shall be valid, irrevocable and enforceable, except when there exists sufficient cause at law or in equity for the avoidance of written contracts generally, subject to the requirements of subsection (e) of section 46b-66, in the case of an award with respect to a dissolution of marriage.
+
+FEDERAL ARBITRATION - FAA1
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+FEDERAL ARBITRATION - FAA2
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+FEDERAL ARBITRATION - FAA5
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code; date and scope must be checked for historical contracts
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

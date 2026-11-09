@@ -499,6 +499,11 @@
             color: white;
         }
 
+        .risk-unrated {
+            background: #6B7280;
+            color: white;
+        }
+
         .clause-details {
             display: flex;
             flex-direction: column;
@@ -708,6 +713,14 @@
                     <option value="New York">New York</option>
                     <option value="New Jersey">New Jersey (USA)</option>
                     <option value="California">California (USA)</option>
+                    <option value="Washington">Washington (USA)</option>
+                    <option value="Illinois">Illinois (USA)</option>
+                    <option value="Massachusetts">Massachusetts (USA)</option>
+                    <option value="Texas">Texas (USA)</option>
+                    <option value="Connecticut">Connecticut (USA)</option>
+                    <option value="Vermont">Vermont (USA)</option>
+                    <option value="Colorado">Colorado (USA)</option>
+                    <option value="United States - Maritime">United States - Maritime (selected federal law)</option>
                     <option value="Chicago">Chicago</option>
                 </select>
 
@@ -853,6 +866,16 @@
             `;
         }
 
+        function getRiskLevel(value) {
+            const tier = typeof value === 'string' ? value.trim().toLowerCase().replace(/\s+/g, ' ') : '';
+            const levels = {
+                'high risk': 'high', 'high': 'high', '高风险': 'high',
+                'medium risk': 'medium', 'medium': 'medium', '中风险': 'medium',
+                'low risk': 'low', 'low': 'low', '低风险': 'low'
+            };
+            return Object.hasOwn(levels, tier) ? levels[tier] : 'unrated';
+        }
+
         function displayResults(data) {
             const resultBox = document.getElementById("result");
             resultBox.classList.remove("empty-mode");
@@ -861,13 +884,19 @@
             document.getElementById("copy-results").style.display = "flex";
 
             let resultHTML = '';
+            const clauses = Array.isArray(data.clauses) ? data.clauses : [];
+            const riskCounts = { high: 0, medium: 0, low: 0, unrated: 0 };
+            clauses.forEach(clause => riskCounts[getRiskLevel(clause.risk_tier)]++);
 
-            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "New Jersey", "California", "Chicago", "Italy"];
+            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "New Jersey", "California", "Washington", "Illinois", "Massachusetts", "Texas", "Connecticut", "Vermont", "Colorado", "United States - Maritime", "Chicago", "Italy"];
             const isChineseJurisdiction = data.metadata && !englishJurisdictions.includes(data.metadata.jurisdiction);
 
             const labels = isChineseJurisdiction ? {
                 totalClauses: "条款总数",
-                flagged: "需审查条款",
+                highRisk: "高风险",
+                mediumRisk: "中风险",
+                lowRisk: "低风险",
+                unrated: "未评级",
                 jurisdiction: "司法管辖区",
                 legalAuthority: "相关法规",
                 explanation: "综合解释",
@@ -876,7 +905,10 @@
                 noClauses: "未找到条款"
             } : {
                 totalClauses: "Total Clauses",
-                flagged: "Flagged for Review",
+                highRisk: "High Risk",
+                mediumRisk: "Medium Risk",
+                lowRisk: "Low Risk",
+                unrated: "Unrated",
                 jurisdiction: "Jurisdiction",
                 legalAuthority: "Legal Authority",
                 explanation: "Explanation",
@@ -889,13 +921,25 @@
                 resultHTML += `
                     <div class="analysis-summary">
                         <div class="summary-card">
-                            <div class="summary-value">${data.metadata.clause_count}</div>
+                            <div class="summary-value">${clauses.length}</div>
                             <div class="summary-label">${labels.totalClauses}</div>
                         </div>
                         <div class="summary-card">
-                            <div class="summary-value" style="color:#FF3B30">${data.metadata.unenforceable_count}</div>
-                            <div class="summary-label">${labels.flagged}</div>
+                            <div class="summary-value" style="color:#D52B1E">${riskCounts.high}</div>
+                            <div class="summary-label">${labels.highRisk}</div>
                         </div>
+                        <div class="summary-card">
+                            <div class="summary-value" style="color:#9C5B00">${riskCounts.medium}</div>
+                            <div class="summary-label">${labels.mediumRisk}</div>
+                        </div>
+                        <div class="summary-card">
+                            <div class="summary-value" style="color:#228C3A">${riskCounts.low}</div>
+                            <div class="summary-label">${labels.lowRisk}</div>
+                        </div>
+                        ${riskCounts.unrated > 0 ? `<div class="summary-card">
+                            <div class="summary-value" style="color:#6B7280">${riskCounts.unrated}</div>
+                            <div class="summary-label">${labels.unrated}</div>
+                        </div>` : ''}
                         <div class="summary-card">
                             <div class="summary-value" style="font-size:1.1rem; line-height:1.5">${data.metadata.jurisdiction}</div>
                             <div class="summary-label">${labels.jurisdiction}</div>
@@ -904,29 +948,12 @@
                 `;
             }
 
-            if (data.clauses && data.clauses.length > 0) {
-                data.clauses.forEach(clause => {
-                    let cssClass = 'border-risk-low';
-                    let riskBadge = '';
-
-                    if (clause.risk_tier) {
-                        const riskLower = clause.risk_tier.toLowerCase();
-                        let riskClass = 'risk-low';
-
-                        if (riskLower.includes('high')) {
-                            riskClass = 'risk-high';
-                            cssClass = 'border-risk-high';
-                        } else if (riskLower.includes('medium') || riskLower.includes('not analyzed')) {
-                            // "Not Analyzed" clauses use the warning colour so they are not mistaken for low risk.
-                            riskClass = 'risk-medium';
-                            cssClass = 'border-risk-medium';
-                        } else {
-                            riskClass = 'risk-low';
-                            cssClass = 'border-risk-low';
-                        }
-
-                        riskBadge = `<span class="risk-badge ${riskClass}">${clause.risk_tier}</span>`;
-                    }
+            if (clauses.length > 0) {
+                clauses.forEach(clause => {
+                    const level = getRiskLevel(clause.risk_tier);
+                    // Unanalyzed or missing tiers are separate from assessed Low/Medium/High risk.
+                    const cssClass = level === 'unrated' ? 'border-risk-none' : `border-risk-${level}`;
+                    const riskBadge = `<span class="risk-badge risk-${level}">${clause.risk_tier || labels.unrated}</span>`;
 
                     resultHTML += `
                         <div class="clause-card ${cssClass}">

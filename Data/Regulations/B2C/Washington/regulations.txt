@@ -1,0 +1,80 @@
+WASHINGTON BUSINESS-TO-CONSUMER - SELECTED STATUTORY REFERENCE
+Selected reference prepared 2026-11-08; added for academic issue-spotting tests on 2026-11-09. Coverage limits are stated below.
+
+Coverage: Selected consumer-protection, debt-adjusting and arbitration statutes. Judicial tests for forum selection, unconscionability, severance and federal preemption are not supplied. The current debt-adjusting sections contain later amendments; do not apply them retroactively.
+
+Editorial scope note (not legislation): Use the actual transaction, applicable law and dates. The provisions below are a selection, not a complete enforceability test. Preserve conditions and exceptions. Missing facts or omitted judicial interpretation are coverage gaps, not proof of a violation. Do not introduce unrelated hypothetical disputes. Later statutory text does not establish the rule governing an earlier contract or decision. The statutes are transcribed from the cited public sources, with layout normalized; introductory labels and this note are editorial.
+
+RCW  19.86.020
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=19.86.020
+Source version: official online text retrieved 2026-11-08; see source history for earlier versions
+
+Unfair competition, practices, declared unlawful.
+Unfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce are hereby declared unlawful.
+
+RCW  19.86.090
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=19.86.090
+Source version: official online text retrieved 2026-11-08; see source history for earlier versions
+
+Civil action for damages—Treble damages authorized—Action by governmental entities.
+Any person who is injured in his or her business or property by a violation of RCW  19.86.020,  19.86.030,  19.86.040,  19.86.050, or  19.86.060, or any person so injured because he or she refuses to accede to a proposal for an arrangement which, if consummated, would be in violation of RCW  19.86.030,  19.86.040,  19.86.050, or  19.86.060, may bring a civil action in superior court to enjoin further violations, to recover the actual damages sustained by him or her, or both, together with the costs of the suit, including a reasonable attorney's fee. In addition, the court may, in its discretion, increase the award of damages up to an amount not to exceed three times the actual damages sustained: PROVIDED, That such increased damage award for violation of RCW  19.86.020 may not exceed twenty-five thousand dollars: PROVIDED FURTHER, That such person may bring a civil action in the district court to recover his or her actual damages, except for damages which exceed the amount specified in RCW  3.66.020, and the costs of the suit, including reasonable attorney's fees. The district court may, in its discretion, increase the award of damages to an amount not more than three times the actual damages sustained, but such increased damage award shall not exceed twenty-five thousand dollars. For the purpose of this section, "person" includes the counties, municipalities, and all political subdivisions of this state.
+Whenever the state of Washington is injured, directly or indirectly, by reason of a violation of RCW  19.86.030,  19.86.040,  19.86.050, or  19.86.060, it may sue therefor in superior court to recover the actual damages sustained by it, whether direct or indirect, and to recover the costs of the suit including a reasonable attorney's fee.
+
+RCW  18.28.010
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=18.28.010
+Source version: official online text retrieved 2026-11-08; see source history for earlier versions
+
+Definitions.
+Unless a different meaning is plainly required by the context, the following words and phrases as hereinafter used in this chapter shall have the following meanings:
+(1) "Debt adjuster," which includes any person known as a debt pooler, debt manager, debt consolidator, debt prorater, or credit counselor, is any person engaging in or holding himself or herself out as engaging in the business of debt adjusting for compensation. The term shall not include:
+(a) Attorneys-at-law, escrow agents, accountants, broker-dealers in securities, or investment advisors in securities, while performing services solely incidental to the practice of their professions;
+(b) Any person, partnership, association, or corporation doing business under and as permitted by any law of this state or of the United States relating to banks, consumer finance businesses, consumer loan companies, trust companies, mutual savings banks, savings and loan associations, building and loan associations, credit unions, crop credit associations, development credit corporations, industrial development corporations, title insurance companies, insurance companies, or third-party account administrators;
+(c) Persons who, as employees on a regular salary or wage of an employer not engaged in the business of debt adjusting, perform credit services for their employer;
+(d) Public officers while acting in their official capacities and persons acting under court order;
+(e) Any person while performing services incidental to the dissolution, winding up or liquidation of a partnership, corporation, or other business enterprise;
+(f) Nonprofit organizations dealing exclusively with debts owing from commercial enterprises to business creditors;
+(g) Nonprofit organizations engaged in debt adjusting and which do not assess against the debtor a service charge in excess of fifteen dollars per month.
+(2) "Debt adjusting" means the managing, counseling, settling, adjusting, prorating, or liquidating of the indebtedness of a debtor, or receiving funds for the purpose of distributing said funds among creditors in payment or partial payment of obligations of a debtor.
+(3) "Debt adjusting agency" is any partnership, corporation, or association engaging in or holding itself out as engaging in the business of debt adjusting.
+(4) "Fair share" means the creditor contributions paid to nonprofit debt adjusters by the creditors whose consumers receive debt adjusting services from the nonprofit debt adjusters and pay down their debt accordingly. "Fair share" does not include grants received by nonprofit debt adjusters for services unrelated to debt adjusting.
+(5) "Financial institution" means any person doing business under the laws of any state or the United States relating to commercial banks, bank holding companies, savings banks, savings and loan associations, trust companies, or credit unions.
+(6) "Third-party account administrator" means an independent entity that holds or administers a dedicated bank account for fees and payments to creditors, debt collectors, debt adjusters, or debt adjusting agencies in connection with the renegotiation, settlement, reduction, or other alteration of the terms of payment or other terms of a debt.
+
+RCW  18.28.080
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=18.28.080
+Source version: official online text retrieved 2026-11-08; see source history for earlier versions
+
+Fees for debt adjusting services—Limitations—Requirements.
+(1) By contract a debt adjuster may charge a reasonable fee for debt adjusting services. The total fee for debt adjusting services, including, but not limited to, any fee charged by a financial institution or a third-party account administrator, may not exceed fifteen percent of the total debt listed by the debtor on the contract. The fee retained by the debt adjuster from any one payment made by or on behalf of the debtor may not exceed fifteen percent of the payment not including fair share contributions to a nonprofit debt adjuster. The debt adjuster may make an initial charge of up to twenty-five dollars which shall be considered part of the total fee. If an initial charge is made, no additional fee may be retained which will bring the total fee retained to date to more than fifteen percent of the total payments made to date. No fee whatsoever shall be applied against rent and utility payments for housing.
+In the event of cancellation or default on performance of the contract by the debtor prior to its successful completion, the debt adjuster may collect in addition to fees previously received, six percent of that portion of the remaining indebtedness listed on said contract which was due when the contract was entered into, but not to exceed twenty-five dollars.
+(2) A debt adjuster shall not be entitled to retain any fee until notifying all creditors listed by the debtor that the debtor has engaged the debt adjuster in a program of debt adjusting.
+(3) The department of financial institutions has authority to enforce compliance with this section.
+
+RCW  7.04A.060
+Source: https://app.leg.wa.gov/RCW/default.aspx?cite=7.04A.060
+Source version: official online text retrieved 2026-11-08; see source history for earlier versions
+
+Validity of agreement to arbitrate.
+(1) An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of contract.
+(2) The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate.
+(3) An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.
+(4) If a party to a judicial proceeding challenges the existence of, or claims that a controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders.
+
+FEDERAL ARBITRATION PROVISIONS - APPLY ONLY WITHIN THEIR SCOPE
+9 U.S.C. § 1 - "Maritime transactions" and "commerce" defined; exceptions to operation of title
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+"Maritime transactions", as herein defined, means charter parties, bills of lading of water carriers, agreements relating to wharfage, supplies furnished vessels or repairs to vessels, collisions, or any other matters in foreign commerce which, if the subject of controversy, would be embraced within admiralty jurisdiction; "commerce", as herein defined, means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation, but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce.
+
+9 U.S.C. § 2 - Validity, irrevocability, and enforcement of agreements to arbitrate
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
+
+9 U.S.C. § 5 - Appointment of arbitrators or umpire
+Source: https://www.govinfo.gov/content/pkg/USCODE-2024-title9/pdf/USCODE-2024-title9-chap1.pdf
+Source version: 2024 U.S. Code edition; § 2 includes the 2022 amendment. Not a historical-law certification.
+
+If in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.

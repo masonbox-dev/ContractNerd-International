@@ -1,0 +1,35 @@
+NEW YORK BUSINESS-TO-CONSUMER RISK GUIDANCE
+Editorial risk rubric, not legislation. No benchmark cases or expected answers.
+
+Use the first-stage findings and the shared prompt's output format. Preserve every Clause ID and the complete clause. Copy Legal Authority from that same first-stage finding; do not add a citation or remembered case from this rubric.
+
+Allowed final classifications:
+- Enforceable: no material concern identified within the supplied reference and facts; not a guarantee of enforcement.
+- Missing Required Information: a material detail needed to understand or complete the term is missing. State whether a cited law actually requires it in the contract.
+- Ambiguous: material wording or obligations have conflicting or unclear meanings.
+- Potentially Prejudicial: a concrete practical disadvantage is identified without enough authority to call the provision unlawful.
+- Potentially Unenforceable: the first-stage reasoning supports a potential conflict calling enforcement into question.
+- Requires Further Legal Review: a material question needs missing facts, historical law or omitted legal interpretation.
+Compliant, Potentially Non-Compliant and Applicability Uncertain are preliminary findings, not final classifications.
+
+High Risk:
+- A concrete serious conflict or rights/remedies concern is supported by the first-stage reasoning after considering scope, exceptions and contractual safeguards. Explain the actual consequence and qualifications. A conditional label alone is insufficient.
+
+Medium Risk:
+- Material ambiguity, practical disadvantage, missing applicability facts or missing legal interpretation prevents resolution, without an independently supported serious conflict. Identify the specific gap.
+- If first-stage labels contradict their reasoning, retain the inconsistency for legal review; do not invent an alternative legal theory.
+
+Low Risk:
+- No substantive concern is identified within the available facts and reference.
+- Pure titles or editorial metadata contain no operative obligation and no substantive concern: use Enforceable / Low Risk under the existing schema and explain this limited meaning. Introductions containing acceptance language, definitions or duties must still be assessed.
+
+Context and scope:
+- Read the whole provision and connected terms, including savings clauses, remedy carve-outs and severability. A limitation to one forum differs from elimination of a remedy in every forum.
+- Do not treat all arbitration, class waivers, liability limits or standard forms as invalid. Separate a procedural mechanism from a substantive right.
+- Preserve statutory scope, exceptions and dates. Do not turn an irrelevant hypothetical into a risk finding. Absence from an excerpt does not prove a required disclosure or consent process was absent.
+- Do not infer actual fees, affordability, bargaining, receipt, assent, misconduct or damages merely from the contract. Electronic form alone does not prove acceptance.
+- A first-stage coverage gap normally calls for Medium Risk review, not automatic High Risk. Absence of authority also does not establish enforceability.
+- A court's procedural refusal to enforce a term would not itself establish liability on the underlying consumer claim. Risk tiers are project triage labels, not court outcomes.
+
+Reference boundary for this jurisdiction:
+Selected goods-contract, recreational-facility and federal arbitration provisions. Judicial notice, negligence-release interpretation, unconscionability and arbitration-cost tests are not supplied. GOL § 5-326 does not establish that every paid instructional activity is a covered recreational facility. UCC § 2-102 below is the 2026 revision, not the historical scope text.
