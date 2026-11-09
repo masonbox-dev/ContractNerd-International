@@ -246,11 +246,13 @@ def analyze():
 
             c['details']['regulations'] = authority
 
-        flagged_count = sum(
-            1
-            for c in clauses
-            if c.get('risk_tier')
-            and any(r in c['risk_tier'].lower() for r in ['high', 'medium'])
+        high_count = sum(
+            1 for c in clauses
+            if c.get('risk_tier') and 'high' in c['risk_tier'].lower()
+        )
+        medium_count = sum(
+            1 for c in clauses
+            if c.get('risk_tier') and 'medium' in c['risk_tier'].lower()
         )
 
         analysis_metadata = {
@@ -258,7 +260,8 @@ def analyze():
             'contract_type': contract_type,
             'timestamp': datetime.now().isoformat(),
             'clause_count': len(clauses),
-            'unenforceable_count': flagged_count,
+            'high_count': high_count,
+            'medium_count': medium_count,
         }
 
         print("DEBUG: Extracted clauses ->", analysis_metadata)
