@@ -809,7 +809,8 @@
 
             const labels = isChineseJurisdiction ? {
                 totalClauses: "条款总数",
-                flagged: "需审查条款",
+                highRisk: "高风险条款",
+                mediumRisk: "中风险条款",
                 jurisdiction: "司法管辖区",
                 legalAuthority: "相关法规",
                 explanation: "综合解释",
@@ -818,7 +819,8 @@
                 noClauses: "未找到条款"
             } : {
                 totalClauses: "Total Clauses",
-                flagged: "Flagged for Review",
+                highRisk: "High Risk",
+                mediumRisk: "Medium Risk",
                 jurisdiction: "Jurisdiction",
                 legalAuthority: "Legal Authority",
                 explanation: "Explanation",
@@ -835,8 +837,12 @@
                             <div class="summary-label">${labels.totalClauses}</div>
                         </div>
                         <div class="summary-card">
-                            <div class="summary-value" style="color:#FF3B30">${data.metadata.unenforceable_count}</div>
-                            <div class="summary-label">${labels.flagged}</div>
+                            <div class="summary-value" style="color:#FF3B30">${data.metadata.high_count}</div>
+                            <div class="summary-label">${labels.highRisk}</div>
+                        </div>
+                        <div class="summary-card">
+                            <div class="summary-value" style="color:#FF9500">${data.metadata.medium_count}</div>
+                            <div class="summary-label">${labels.mediumRisk}</div>
                         </div>
                         <div class="summary-card">
                             <div class="summary-value" style="font-size:1.1rem; line-height:1.5">${data.metadata.jurisdiction}</div>
