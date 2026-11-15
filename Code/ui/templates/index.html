@@ -422,6 +422,30 @@
             font-weight: 500;
         }
 
+        .risk-summary {
+            background: rgba(255, 255, 255, 0.6);
+            border-radius: 16px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.8);
+        }
+
+        .risk-summary h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1rem;
+        }
+
+        .risk-summary ul {
+            margin: 0 0 0.75rem 0;
+            padding-left: 1.25rem;
+        }
+
+        .risk-summary li {
+            margin-bottom: 4px;
+            line-height: 1.4;
+            word-break: break-word;
+        }
+
         .clause-card {
             background: rgba(255, 255, 255, 0.8);
             border-radius: 16px;
@@ -497,6 +521,11 @@
 
         .risk-low {
             background: #34C759;
+            color: white;
+        }
+
+        .risk-none {
+            background: #8E8E93;
             color: white;
         }
 
@@ -852,6 +881,35 @@
                 `;
             }
 
+            // Summary: lists the High and Medium clauses, taken straight from the ratings below (no extra AI call).
+            if (data.clauses && data.clauses.length > 0) {
+                const tierOf = c => (c.risk_tier || '').toLowerCase();
+                const summaryLine = c => {
+                    const words = (c.text || '').split(/\s+/);
+                    const start = words.slice(0, 12).join(' ') + (words.length > 12 ? ' ...' : '');
+                    const law = c.details?.regulations || 'None';
+                    return `<li><strong>Clause ${c.number}</strong>: "${start}" | ${c.classification || ''} | ${labels.legalAuthority}: ${law}</li>`;
+                };
+                const highList = data.clauses.filter(c => tierOf(c).includes('high'));
+                const mediumList = data.clauses.filter(c => tierOf(c).includes('medium'));
+                const notAnalyzed = data.clauses.filter(c => tierOf(c).includes('not analyzed'));
+
+                resultHTML += `<div class="risk-summary"><h3>Summary</h3>`;
+                if (highList.length === 0 && mediumList.length === 0) {
+                    resultHTML += `<p>No clauses were rated High or Medium risk.</p>`;
+                }
+                if (highList.length > 0) {
+                    resultHTML += `<p><strong style="color:#FF3B30">High Risk (${highList.length})</strong></p><ul>${highList.map(summaryLine).join('')}</ul>`;
+                }
+                if (mediumList.length > 0) {
+                    resultHTML += `<p><strong style="color:#FF9500">Medium Risk (${mediumList.length})</strong></p><ul>${mediumList.map(summaryLine).join('')}</ul>`;
+                }
+                if (notAnalyzed.length > 0) {
+                    resultHTML += `<p><strong style="color:#8E8E93">Not Analyzed (${notAnalyzed.length})</strong>: clause ${notAnalyzed.map(c => c.number).join(', ')}</p>`;
+                }
+                resultHTML += `</div>`;
+            }
+
             if (data.clauses && data.clauses.length > 0) {
                 data.clauses.forEach(clause => {
                     let cssClass = 'border-risk-low';
@@ -864,10 +922,13 @@
                         if (riskLower.includes('high')) {
                             riskClass = 'risk-high';
                             cssClass = 'border-risk-high';
-                        } else if (riskLower.includes('medium') || riskLower.includes('not analyzed')) {
-                            // "Not Analyzed" clauses use the warning colour so they are not mistaken for low risk.
+                        } else if (riskLower.includes('medium')) {
                             riskClass = 'risk-medium';
                             cssClass = 'border-risk-medium';
+                        } else if (riskLower.includes('not analyzed')) {
+                            // Grey, not orange: these are not counted as Medium Risk, and they are not Low either.
+                            riskClass = 'risk-none';
+                            cssClass = 'border-risk-none';
                         } else {
                             riskClass = 'risk-low';
                             cssClass = 'border-risk-low';
