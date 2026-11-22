@@ -253,7 +253,7 @@ def analyze():
                 authority = ''
 
             # Flag citations whose law/article pair is not in the reference file.
-            problems = check_authority(authority, citation_labels)
+            problems = check_authority(authority, citation_labels, jurisdiction)
             if problems:
                 print(f"CITATION CHECK clause {c['number']}: {authority!r} -> {problems}")
                 authority += ' [Unverified citation: ' + '; '.join(problems) + ']'

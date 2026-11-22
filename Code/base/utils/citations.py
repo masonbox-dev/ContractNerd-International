@@ -7,7 +7,8 @@ Only runs for reference files that contain "[CITE AS: <Law> - Art. N]" labels
 """
 import re
 
-LABEL = re.compile(r"^\[CITE AS:\s*(.+?)\s+-\s+Art\.\s*([0-9]+(?:-bis|-ter)?)", re.M)
+# "Art. N" for Italy, France, Spain; "§ N" for Germany.
+LABEL = re.compile(r"^\[CITE AS:\s*(.+?)\s+-\s+(?:Art\.|§)\s*([0-9]+[a-z]?(?:-bis|-ter|\s(?:bis|ter))?)", re.M)
 
 # Ways the model may write each law's name (lower-case regex fragments).
 LAW_ALIASES = {
@@ -18,9 +19,23 @@ LAW_ALIASES = {
     "Codice civile": r"codice civile|civil code|c\.c\.",
     "Codice del consumo": r"codice del consumo|consumer code|206/2005",
     "Costituzione": r"costituzione|constitution",
+    # France: add "<short name used in labels>": r"<ways the model may write it>" for each law added.
+    # Spain: same.
+    # Germany: same.
 }
 
 ART_REF = re.compile(r"\barts?\.?\s*([0-9]+(?:-bis|-ter)?)(?:\s*[-–]\s*([0-9]+))?", re.I)
+
+# How an article is written in a citation, for countries that do not use "Art." only.
+# Italy and the other jurisdictions keep ART_REF above.
+ART_REF_BY_COUNTRY = {
+    # "Art. 3", "article 3", "articles 3 à 5", "article 3 bis"
+    "France": re.compile(r"\b(?:arts?\.?|articles?)\s*([0-9]+(?:\s(?:bis|ter))?)(?:\s*(?:à|[-–])\s*([0-9]+))?", re.I),
+    # "Art. 9", "artículo 9", "artículos 9 a 11", "artículo 4 bis"
+    "Spain": re.compile(r"\b(?:arts?\.?|art[íi]culos?)\s*([0-9]+(?:\s(?:bis|ter))?)(?:\s*(?:a|[-–])\s*([0-9]+))?", re.I),
+    # "§ 535", "§§ 535-537", "§ 556d"
+    "Germany": re.compile(r"(?:§§?|\bparagraph)\s*([0-9]+[a-z]?)(?:\s*[-–]\s*([0-9]+))?", re.I),
+}
 
 
 def load_labels(regulations_text):
@@ -31,11 +46,14 @@ def load_labels(regulations_text):
     return labels
 
 
-def check_authority(authority, labels):
+def check_authority(authority, labels, jurisdiction=None):
     """
     Return a list of problems with the cited authority (empty list = OK).
     Each article number is matched to the closest law name written before it.
+    jurisdiction picks how articles are written (France, Spain, Germany); others use ART_REF.
     """
+    art_ref = ART_REF_BY_COUNTRY.get(jurisdiction, ART_REF)
+    art_word = "§" if jurisdiction == "Germany" else "Art."
     if not labels or not authority:
         return []
     text = authority.lower()
@@ -49,7 +67,7 @@ def check_authority(authority, labels):
     mentions.sort()
 
     problems = []
-    for m in ART_REF.finditer(text):
+    for m in art_ref.finditer(text):
         start, end = m.group(1), m.group(2)
         articles = [start]
         if end and start.isdigit() and int(end) > int(start) and int(end) - int(start) < 20:
@@ -59,13 +77,13 @@ def check_authority(authority, labels):
         for art in articles:
             if law is None:
                 if not any(art in arts for arts in labels.values()):
-                    problems.append(f"Art. {art} is not in the reference")
+                    problems.append(f"{art_word} {art} is not in the reference")
                 else:
-                    problems.append(f"Art. {art} cited without naming its law")
+                    problems.append(f"{art_word} {art} cited without naming its law")
             elif art not in labels[law]:
                 owners = [l for l, arts in labels.items() if art in arts]
-                hint = (f" (the reference only has Art. {art} under {', '.join(owners)}; check whether that law covers this topic)" if owners else "")
-                problems.append(f"{law} - Art. {art} is not in the reference{hint}")
-    if not problems and not ART_REF.search(text):
+                hint = (f" (the reference only has {art_word} {art} under {', '.join(owners)}; check whether that law covers this topic)" if owners else "")
+                problems.append(f"{law} - {art_word} {art} is not in the reference{hint}")
+    if not problems and not art_ref.search(text):
         problems.append("no article number found in the citation")
     return problems

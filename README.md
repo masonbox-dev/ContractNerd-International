@@ -215,6 +215,8 @@ The workflow is designed to flag issues such as missing tenancy-deposit protecti
 
 These appear in the dropdown, and their folders exist under `Data/`, but no law files have been added yet. Selecting one returns "<Country> is not set up yet". Each folder has a README saying which file goes there and the rules for adding it (word-for-word text from an official source, with `[CITE AS: ...]` labels, as for Italy).
 
+The code is ready for them: `Code/tools/tag_citations.py` recognises French ("Article 3"), Spanish ("Artículo 9") and German ("§ 535") article headings, and the citation check in `Code/base/utils/citations.py` reads citations written that way (German labels use "§"). To switch a country on, follow the steps in `Data/Regulations/<Rental|Employment>/<Country>/README.md`: paste the law text, list each law's title in `LAW_HEADERS` and `LAW_ALIASES`, run the labelling tool, then test with `python Code/tools/test_citations.py <contract.pdf> <Rental|Employment> <Country>`.
+
 ### New York and Chicago
 
 The New York and Chicago data was merged from the OG U.S. ContractNerd repository (MusondaSinkala/ContractNerd).
