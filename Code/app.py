@@ -28,6 +28,10 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
+# In the dropdown, but law files not added yet (see Data/*/<type>/<jurisdiction>/README.md).
+PLANNED_JURISDICTIONS = {"France", "Spain", "Germany"}
+
+
 # Field labels the LLM is asked to output, mapped to where the UI stores them.
 FIELD_NAMES = {
     'legal authority': 'regulations',
@@ -97,6 +101,16 @@ def analyze():
                 'gold_standard.txt'
             ),
         }
+
+        # Jurisdictions listed in the dropdown whose law files have not been added yet.
+        # Stop with a clear message instead of analysing against an empty reference.
+        if jurisdiction in PLANNED_JURISDICTIONS and not os.path.exists(legal_resources['regulations']):
+            return jsonify({
+                "error": (
+                    f"{jurisdiction} is not set up yet: its {contract_type} law file has not been added. "
+                    f"Expected file: {legal_resources['regulations']}"
+                )
+            }), 400
 
         if jurisdiction in ["India - Delhi", "England and Wales"]:
             if not os.path.exists(legal_resources['regulations']):

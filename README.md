@@ -21,11 +21,12 @@ The current interface includes the following jurisdiction options:
 - Hefei (合肥)
 - India - Delhi
 - England and Wales
-
+- Italy
 - New York
 - Chicago
+- France, Spain, Germany (in the dropdown, not set up yet: their law files have not been added)
 
-Chinese jurisdictions can preserve Chinese-style output labels and analysis behavior, while India - Delhi, England and Wales, New York, and Chicago use English output.
+Chinese jurisdictions can preserve Chinese-style output labels and analysis behavior, while India - Delhi, England and Wales, Italy, New York, Chicago, France, Spain, and Germany use English output.
 
 ## Supported Contract Types
 
@@ -209,6 +210,10 @@ The England and Wales rental workflow focuses on residential tenancy agreements.
 - Consumer Rights Act 2015
 
 The workflow is designed to flag issues such as missing tenancy-deposit protection language, prohibited or excessive fees, improper transfer of statutory repair obligations, habitability exclusions, unlawful eviction or self-help remedies, and unfair consumer terms.
+
+### France, Spain, Germany (planned)
+
+These appear in the dropdown, and their folders exist under `Data/`, but no law files have been added yet. Selecting one returns "<Country> is not set up yet". Each folder has a README saying which file goes there and the rules for adding it (word-for-word text from an official source, with `[CITE AS: ...]` labels, as for Italy).
 
 ### New York and Chicago
 

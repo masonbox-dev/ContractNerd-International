@@ -679,6 +679,9 @@
                     <option value="India - Delhi">India - Delhi</option>
                     <option value="England and Wales">England and Wales</option>
                     <option value="Italy">Italy</option>
+                    <option value="France">France</option>
+                    <option value="Spain">Spain</option>
+                    <option value="Germany">Germany</option>
                     <option value="New York">New York</option>
                     <option value="Chicago">Chicago</option>
                 </select>
@@ -833,7 +836,7 @@
 
             let resultHTML = '';
 
-            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "Chicago", "Italy"];
+            const englishJurisdictions = ["India - Delhi", "England and Wales", "New York", "Chicago", "Italy", "France", "Spain", "Germany"];
             const isChineseJurisdiction = data.metadata && !englishJurisdictions.includes(data.metadata.jurisdiction);
 
             const labels = isChineseJurisdiction ? {
